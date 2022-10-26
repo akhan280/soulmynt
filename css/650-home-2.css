@@ -1,0 +1,301 @@
+/* screen - 650-home-2 */
+
+.x650-home-2 {
+  background: linear-gradient(196.47deg, #e749ac -55.83%, #e49457 4.02%, #c742c9 94.16%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-650-home-2 {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .x650-home-2 {
+  background-color: #00000000;
+}
+
+#overlay-650-home-2 .650-home-2 {
+  left: 0px;
+  top: -124px;
+}
+
+#overlay-650-home-2 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.x650-home-2 .hellosoulmyntcom-SvQy6z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  right: calc(11.39% - 34px);
+  text-align: center;
+  top: 532px;
+  white-space: nowrap;
+  width: 296px;
+}
+
+.x650-home-2 .drop-a-note-SvQy6z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: calc(9.29% - 10px);
+  letter-spacing: 0.32px;
+  line-height: 21px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.x650-home-2 .drop-a-note-SvQy6z:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .group-2477-SvQy6z {
+  background-color: transparent;
+  height: 262px;
+  left: 54px;
+  position: absolute;
+  top: calc(30.79% - 81px);
+  width: 163px;
+}
+
+.x650-home-2 .path-236-55EVHv {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.x650-home-2 .line-55-55EVHv {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+
+.x650-home-2 .line-56-55EVHv {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 17px;
+}
+
+.x650-home-2 .group-2002-SvQy6z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: calc(9.39% - 4px);
+  pointer-events: auto;
+  position: absolute;
+  top: 25px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+
+.x650-home-2 .group-2002-SvQy6z:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .group-2001-I5Dvxh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 10px);
+}
+
+.x650-home-2 .path-24-I5Dvxh {
+  background-color: transparent;
+  bottom: 4px;
+  height: 44px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 35px;
+}
+
+.x650-home-2 .path-25-I5Dvxh {
+  background-color: transparent;
+  bottom: 7px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 13px;
+}
+
+.x650-home-2 .icon-close-SvQy6z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 18px;
+  top: 30px;
+  width: 21px;
+}
+
+.x650-home-2 .group-2408-SvQy6z {
+  background-color: transparent;
+  bottom: calc(26.41% - 35px);
+  height: 134px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 85px);
+}
+
+.x650-home-2 .icon-linkedin-sDwabj {
+  background-color: transparent;
+  bottom: 3px;
+  cursor: pointer;
+  height: 48px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.x650-home-2 .icon-linkedin-sDwabj:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .icon-ionic-logo-instagram-sDwabj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 50px;
+}
+
+.x650-home-2 .icon-ionic-logo-instagram-sDwabj:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .path-26-MrcqUC {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.x650-home-2 .path-27-MrcqUC {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.57% - 1px);
+  top: calc(17.57% - 1px);
+  width: 8px;
+}
+
+.x650-home-2 .path-28-MrcqUC {
+  background-color: transparent;
+  bottom: calc(50.00% - 14px);
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 14px);
+  width: 27px;
+}
+
+.x650-home-2 .icon-twitter-sDwabj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.57% - 26px);
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.x650-home-2 .icon-twitter-sDwabj:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .icon-awesome-medium-m-sDwabj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.x650-home-2 .icon-awesome-medium-m-sDwabj:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .icon-awesome-tumblr-sDwabj {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 49px;
+  left: calc(48.80% - 15px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 30px;
+}
+
+.x650-home-2 .icon-awesome-tumblr-sDwabj:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-2 .icon-youtube-sDwabj {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 45px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.x650-home-2 .icon-youtube-sDwabj:hover {
+  transform: scale(1.1);
+}

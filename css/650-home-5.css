@@ -1,0 +1,292 @@
+/* screen - 650-home-5 */
+
+.x650-home-5 {
+  background: linear-gradient(207.13deg, #e749ac -53.11%, #e49457 5.48%, #c742c9 93.72%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-650-home-5 {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .x650-home-5 {
+  background-color: #00000000;
+}
+
+#overlay-650-home-5 .650-home-5 {
+  left: 0px;
+  top: 4px;
+}
+
+#overlay-650-home-5 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.x650-home-5 .hellosoulmyntcom-qQnUJx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  right: calc(14.12% - 42px);
+  text-align: center;
+  top: 576px;
+  white-space: nowrap;
+  width: 296px;
+}
+
+.x650-home-5 .group-2002-qQnUJx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 82px;
+  left: calc(6.15% - 3px);
+  pointer-events: auto;
+  position: absolute;
+  top: 31px;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+
+.x650-home-5 .group-2002-qQnUJx:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .group-2001-JFZnGz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+
+.x650-home-5 .path-24-JFZnGz {
+  background-color: transparent;
+  bottom: 5px;
+  height: 51px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.x650-home-5 .path-25-JFZnGz {
+  background-color: transparent;
+  bottom: 9px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 14px;
+}
+
+.x650-home-5 .group-2408-qQnUJx {
+  background-color: transparent;
+  bottom: 129px;
+  height: 154px;
+  position: absolute;
+  right: calc(50.00% - 167px);
+  width: 335px;
+}
+
+.x650-home-5 .icon-linkedin-VXfZvG {
+  background-color: transparent;
+  bottom: 4px;
+  cursor: pointer;
+  height: 55px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 55px;
+}
+
+.x650-home-5 .icon-linkedin-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .icon-ionic-logo-instagram-VXfZvG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+
+.x650-home-5 .icon-ionic-logo-instagram-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .path-26-FMkbWh {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.x650-home-5 .path-27-FMkbWh {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.78% - 2px);
+  top: calc(17.78% - 2px);
+  width: 9px;
+}
+
+.x650-home-5 .path-28-FMkbWh {
+  background-color: transparent;
+  bottom: calc(50.00% - 15px);
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 15px);
+  width: 31px;
+}
+
+.x650-home-5 .icon-twitter-VXfZvG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.63% - 29px);
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.x650-home-5 .icon-twitter-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .icon-awesome-medium-m-VXfZvG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.x650-home-5 .icon-awesome-medium-m-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .icon-awesome-tumblr-VXfZvG {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 56px;
+  left: calc(48.80% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.x650-home-5 .icon-awesome-tumblr-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .icon-youtube-VXfZvG {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 51px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.x650-home-5 .icon-youtube-VXfZvG:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .drop-a-note-qQnUJx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 41px;
+  left: calc(7.74% - 13px);
+  letter-spacing: 0.51px;
+  line-height: 34px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.x650-home-5 .drop-a-note-qQnUJx:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-5 .path-236-qQnUJx {
+  background-color: transparent;
+  height: 309px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.24% - 109px);
+  width: 196px;
+}
+
+.x650-home-5 .line-55-qQnUJx {
+  background-color: transparent;
+  bottom: calc(47.04% - 8px);
+  height: 18px;
+  left: calc(43.04% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.x650-home-5 .line-56-qQnUJx {
+  background-color: transparent;
+  bottom: calc(46.10% - 2px);
+  height: 5px;
+  left: calc(42.14% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 20px;
+}
+
+.x650-home-5 .icon-close-qQnUJx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 40px;
+  width: 38px;
+}

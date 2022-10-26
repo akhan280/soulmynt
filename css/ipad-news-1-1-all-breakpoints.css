@@ -1,0 +1,4686 @@
+/* screen - desktop-news */
+
+.desktop-news {
+  background-color: var(--gray-nurse);
+  cursor: pointer;
+  height: 2783px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.desktop-news .path-29-NYxl9u {
+  background-color: transparent;
+  height: 828px;
+  left: -435px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 2500px;
+}
+
+.desktop-news .rectangle-1810-NYxl9u {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 130px;
+  left: 610px;
+  opacity: 0.5;
+  position: absolute;
+  top: 214px;
+  width: 701px;
+}
+
+.desktop-news .group-2014-NYxl9u {
+  background-color: transparent;
+  height: 74px;
+  left: 647px;
+  position: absolute;
+  top: 242px;
+  width: 628px;
+}
+
+.desktop-news .soulmynt-in-the-news-qTxx3y {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .icon-material-open-in-new-NYxl9u {
+  background-color: transparent;
+  height: 27px;
+  left: 1063px;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 27px;
+}
+
+.desktop-news .group-2182-NYxl9u {
+  background-color: transparent;
+  height: 90px;
+  left: 530px;
+  position: absolute;
+  top: 30px;
+  width: 1354px;
+}
+
+.desktop-news .group-2002-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 402px;
+  pointer-events: auto;
+  position: absolute;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.desktop-news .group-2002-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .group-2001-N5NOYH {
+  background-color: transparent;
+  height: 84px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 44px;
+}
+
+.desktop-news .path-24-N5NOYH {
+  background-color: transparent;
+  height: 54px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 42px;
+}
+
+.desktop-news .path-25-N5NOYH {
+  background-color: transparent;
+  height: 24px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 15px;
+}
+
+.desktop-news .whitepaper-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 582px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .whitepaper-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .create-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 212px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .create-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .news-RXNDVP {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 824px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .partners-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .partners-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .icon-ionic-logo-instagram-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 1312px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-ionic-logo-instagram-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .path-26-o1hitM {
+  background-color: transparent;
+  height: 42px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.desktop-news .path-27-o1hitM {
+  background-color: transparent;
+  height: 6px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.desktop-news .path-28-o1hitM {
+  background-color: transparent;
+  height: 21px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+.desktop-news .icon-linkedin-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 1249px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-linkedin-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .icon-twitter-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 34px;
+  left: 1312px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 56px;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+
+.desktop-news .icon-twitter-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .icon-awesome-medium-m-RXNDVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 34px;
+  left: 1249px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 55px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-awesome-medium-m-RXNDVP:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .group-2337-NYxl9u {
+  background-color: transparent;
+  height: 373px;
+  left: 0px;
+  position: absolute;
+  top: 2409px;
+  width: 1920px;
+}
+
+.desktop-news .rectangle-1786-tpejke {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 373px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2316-tpejke {
+  background-color: transparent;
+  height: calc(100.00% - 86px);
+  left: 61px;
+  position: absolute;
+  top: 42px;
+  width: calc(100.00% - 129px);
+}
+
+.desktop-news .group-2304-fNZu2x {
+  background-color: transparent;
+  height: 251px;
+  left: 0px;
+  position: absolute;
+  top: 13px;
+  width: 672px;
+}
+
+.desktop-news .group-2008-gzp3Es {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 6px;
+  width: 30px;
+}
+
+.desktop-news .group-2001-xjrxX4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+
+.desktop-news .path-24-xjrxX4 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 22px;
+}
+
+.desktop-news .path-25-xjrxX4 {
+  background-color: transparent;
+  bottom: 5px;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 8px;
+}
+
+.desktop-news .the-first-blockchain-gzp3Es {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(39.83% - 22px);
+  width: calc(100.00% + 2px);
+}
+
+.desktop-news .line-46-gzp3Es {
+  background-color: transparent;
+  height: 56px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.desktop-news .soulmynt-gzp3Es {
+  background-color: transparent;
+  height: 53px;
+  left: calc(15.24% - 28px);
+  letter-spacing: 0.67px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.desktop-news .icon-ionic-logo-instagram-gzp3Es {
+  background-color: transparent;
+  bottom: calc(21.48% - 9px);
+  cursor: pointer;
+  height: 42px;
+  left: 62px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-ionic-logo-instagram-gzp3Es:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .path-26-IMMAMM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.desktop-news .path-27-IMMAMM {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.62% - 1px);
+  top: calc(18.62% - 1px);
+  width: 6px;
+}
+
+.desktop-news .path-28-IMMAMM {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 11px);
+  width: 21px;
+}
+
+.desktop-news .icon-twitter-gzp3Es {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 34px;
+  left: 62px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+
+.desktop-news .icon-twitter-gzp3Es:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .icon-awesome-medium-m-gzp3Es {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 34px;
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-awesome-medium-m-gzp3Es:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .icon-linkedin-gzp3Es {
+  background-color: transparent;
+  bottom: calc(22.37% - 9px);
+  cursor: pointer;
+  height: 42px;
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-news .icon-linkedin-gzp3Es:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .group-2305-fNZu2x {
+  background-color: transparent;
+  height: 287px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 266px;
+}
+
+.desktop-news .all-rights-reserved-to-soulmynt-inc-F4gUfE {
+  background-color: transparent;
+  bottom: -2px;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  width: calc(100.00% - 1px);
+}
+
+.desktop-news .news-F4gUfE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: calc(100.96% - 59px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 62px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.desktop-news .news-F4gUfE:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .create-F4gUfE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  text-align: right;
+  top: 107px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.desktop-news .create-F4gUfE:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .whitepaper-F4gUfE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  text-align: right;
+  top: 197px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.desktop-news .whitepaper-F4gUfE:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .partners-F4gUfE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  text-align: right;
+  top: 152px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.desktop-news .partners-F4gUfE:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .group-2184-F4gUfE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  right: 2px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 30px;
+}
+
+.desktop-news .group-2184-F4gUfE:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news .group-2001-sGfzkm {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+
+.desktop-news .path-24-sGfzkm {
+  background-color: transparent;
+  bottom: 2px;
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 22px;
+}
+
+.desktop-news .path-25-sGfzkm {
+  background-color: transparent;
+  bottom: 5px;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 8px;
+}
+
+.desktop-news .group-2358-NYxl9u {
+  background-color: transparent;
+  height: 1779px;
+  left: 147px;
+  position: absolute;
+  top: 401px;
+  width: 1626px;
+}
+
+.desktop-news .group-2345-mbClv0 {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .group-2340-xsczRz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2089-MULiPS {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .rectangle-1787-3W88xn {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  width: 1626px;
+}
+
+.desktop-news .group-2343-xsczRz {
+  background-color: transparent;
+  height: 286px;
+  left: calc(38.50% - 573px);
+  position: absolute;
+  top: 50px;
+  width: 1487px;
+}
+
+.desktop-news .s-2-0a9Rxu {
+  background-color: transparent;
+  border-radius: 43px;
+  bottom: 0px;
+  height: 286px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 286px;
+}
+
+.desktop-news .group-2327-0a9Rxu {
+  background-color: transparent;
+  bottom: calc(50.00% - 105px);
+  height: 211px;
+  position: absolute;
+  right: 0px;
+  width: 728px;
+}
+
+.desktop-news .the-first-blockchain-Msifvx {
+  background-color: transparent;
+  bottom: 20px;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 85px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 2px);
+}
+
+.desktop-news .read-more-Msifvx {
+  background-color: transparent;
+  bottom: -4px;
+  height: 27px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.desktop-news .group-2326-Msifvx {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 11px);
+}
+
+.desktop-news .introducing-K68bhV {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 900;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.02px;
+  line-height: 68px;
+  position: absolute;
+  text-align: right;
+  top: 7px;
+  white-space: nowrap;
+  width: 381px;
+}
+
+.desktop-news .path-40-K68bhV {
+  background-color: transparent;
+  height: calc(100.00% - 18px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 10px;
+  width: 320px;
+}
+
+.desktop-news .group-2355-mbClv0 {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 463px;
+  width: 1626px;
+}
+
+.desktop-news .group-2351-nKq3cE {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .group-2346-3ezpJy {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .group-2349-1J9XLU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2340-PQj4xt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2089-KiYVEK {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .rectangle-1787-prEqck {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  width: 1626px;
+}
+
+.desktop-news .mask-group-20-PQj4xt {
+  background-color: transparent;
+  bottom: calc(50.00% - 155px);
+  height: 309px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  width: 307px;
+}
+
+.desktop-news .rectangle-1897-3ezpJy {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.83%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.desktop-news .group-2356-mbClv0 {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 925px;
+  width: 1626px;
+}
+
+.desktop-news .group-2352-HKH6MS {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .group-2347-Li26xs {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 1px;
+  width: 1626px;
+}
+
+.desktop-news .group-2350-yzM0wx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2340-HA9ix5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2089-1zlShZ {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .rectangle-1787-mI7a5E {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  width: 1626px;
+}
+
+.desktop-news .mask-group-19-HA9ix5 {
+  background-color: transparent;
+  bottom: calc(50.00% - 155px);
+  height: 309px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  width: 309px;
+}
+
+.desktop-news .rectangle-1854-Li26xs {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.66%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.desktop-news .group-2357-mbClv0 {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 1388px;
+  width: 1626px;
+}
+
+.desktop-news .group-2353-FO79Gx {
+  background-color: transparent;
+  height: 391px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2348-hKjbnJ {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  top: 1px;
+  width: 1626px;
+}
+
+.desktop-news .group-2340-CzbCD6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news .group-2089-rigLw3 {
+  background-color: transparent;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: relative;
+  top: 0px;
+  width: 1626px;
+}
+
+.desktop-news .rectangle-1787-fJ0AXT {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 391px;
+  left: calc(50.00% - 813px);
+  position: absolute;
+  width: 1626px;
+}
+
+.desktop-news .mask-group-25-CzbCD6 {
+  background-color: transparent;
+  bottom: calc(50.00% - 171px);
+  height: 342px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  width: 342px;
+}
+
+.desktop-news .rectangle-1898-hKjbnJ {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.68%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.desktop-news .contact-NYxl9u {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-news .contact-NYxl9u:hover {
+  transform: scale(1.1);
+}
+/* screen - ipad-news */
+
+.ipad-news {
+  background-color: var(--gray-nurse);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1433px;
+  min-width: 999px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ipad-news .path-221-qw3VU4 {
+  background-color: transparent;
+  height: 195px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 100%;
+}
+
+.ipad-news .icon-ionic-logo-instagram-qw3VU4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1.64%;
+  left: 6.77%;
+  pointer-events: auto;
+  position: absolute;
+  top: 95.09%;
+  transition: all 0.2s ease;
+  width: 2.36%;
+}
+
+.ipad-news .icon-ionic-logo-instagram-qw3VU4:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .path-26-qsvjlw {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.ipad-news .path-27-qsvjlw {
+  background-color: transparent;
+  height: 3px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.ipad-news .path-28-qsvjlw {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.ipad-news .group-2371-qw3VU4 {
+  background-color: transparent;
+  height: 146px;
+  left: calc(4.91% - 17px);
+  position: absolute;
+  top: 1268px;
+  width: 350px;
+}
+
+.ipad-news .the-first-blockchain-A1xVXs {
+  background-color: transparent;
+  height: 24.73%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 27.80%;
+  width: 100.57%;
+}
+
+.ipad-news .group-2210-A1xVXs {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 133px;
+}
+
+.ipad-news .group-2008-1cHH1G {
+  background-color: transparent;
+  height: 79.51%;
+  left: 0px;
+  position: absolute;
+  top: 10.24%;
+  width: 11.61%;
+}
+
+.ipad-news .group-2001-RJOPZV {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 12px;
+}
+
+.ipad-news .path-24-RJOPZV {
+  background-color: transparent;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.ipad-news .path-25-RJOPZV {
+  background-color: transparent;
+  height: 6px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.ipad-news .line-46-1cHH1G {
+  background-color: transparent;
+  height: 100%;
+  left: 19.26%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2.26%;
+}
+
+.ipad-news .soulmynt-1cHH1G {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 95.63%;
+  left: 29.16%;
+  letter-spacing: 0.34px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 8.59%;
+  white-space: nowrap;
+  width: 72.35%;
+}
+
+.ipad-news .group-2370-A1xVXs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 51px;
+  left: 1px;
+  position: absolute;
+  width: 59px;
+}
+
+.ipad-news .icon-linkedin-nJ7x7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47.48%;
+  left: -0.42%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0.49%;
+  transition: all 0.2s ease;
+  width: 40.52%;
+}
+
+.ipad-news .icon-linkedin-nJ7x7d:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .icon-twitter-nJ7x7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.48%;
+  left: 60.10%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 62.01%;
+  transition: all 0.2s ease;
+  width: 41.08%;
+}
+
+.ipad-news .icon-twitter-nJ7x7d:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .icon-awesome-medium-m-qw3VU4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1.34%;
+  left: 3.16%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 97.26%;
+  transition: all 0.2s ease;
+  width: 2.41%;
+}
+
+.ipad-news .icon-awesome-medium-m-qw3VU4:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .group-2372-qw3VU4 {
+  background-color: transparent;
+  height: 156px;
+  position: absolute;
+  right: calc(4.73% - 9px);
+  top: 1264px;
+  width: 193px;
+}
+
+.ipad-news .whitepaper-DhqCVi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.51%;
+  left: 66.81%;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 62.19%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 34.22%;
+}
+
+.ipad-news .whitepaper-DhqCVi:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .create-DhqCVi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.51%;
+  left: 80.50%;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 33.74%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 19.50%;
+}
+
+.ipad-news .create-DhqCVi:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .news-DhqCVi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.51%;
+  left: 82.90%;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 19.52%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 16.42%;
+}
+
+.ipad-news .news-DhqCVi:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .partners-DhqCVi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.51%;
+  left: 74.34%;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 47.97%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 25.66%;
+}
+
+.ipad-news .partners-DhqCVi:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .all-rights-reserved-to-soulmynt-inc-DhqCVi {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 89.49%;
+  width: 100.00%;
+}
+
+.ipad-news .group-2212-DhqCVi {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14.88%;
+  left: 91.07%;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: scale(1.1);
+  width: 7.91%;
+}
+
+.ipad-news .group-2212-DhqCVi.bp3-animate-enter31 {
+  animation: bp3-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes bp3-animate-enter31-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.ipad-news .group-2001-Cndb8y {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 12px;
+}
+
+.ipad-news .path-24-Cndb8y {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.ipad-news .path-25-Cndb8y {
+  background-color: transparent;
+  height: 7px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.ipad-news .group-22531-qw3VU4 {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 506px);
+  position: absolute;
+  top: -7px;
+  width: 1011px;
+}
+
+.ipad-news .group-2309-QjnxAN {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  position: absolute;
+  right: calc(32.69% - 306px);
+  top: 23px;
+  width: 937px;
+}
+
+.ipad-news .group-2252-lIhBhy {
+  background-color: transparent;
+  height: calc(100.00% - 11px);
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 738px;
+}
+
+.ipad-news .group-2002-zHs1tF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  position: absolute;
+  right: calc(36.57% - 13px);
+  top: 0px;
+  width: 35px;
+}
+
+.ipad-news .group-2001-OYiLZL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 8px);
+}
+
+.ipad-news .path-24-OYiLZL {
+  background-color: transparent;
+  bottom: 3px;
+  height: 33px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+
+.ipad-news .path-25-OYiLZL {
+  background-color: transparent;
+  bottom: 5px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+
+.ipad-news .whitepaper-zHs1tF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(17.00% - 11px);
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.ipad-news .whitepaper-zHs1tF:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .create-zHs1tF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(46.88% - 18px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.ipad-news .create-zHs1tF:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .news-zHs1tF {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(100.28% - 32px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.ipad-news .news-zHs1tF:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .partners-zHs1tF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(28.48% - 14px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.ipad-news .partners-zHs1tF:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .contact-zHs1tF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.ipad-news .contact-zHs1tF:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .group-2245-lIhBhy {
+  background-color: transparent;
+  height: 56px;
+  left: calc(100.00% - 65px);
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+
+.ipad-news .icon-ionic-logo-instagram-xFY8rt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-news .icon-ionic-logo-instagram-xFY8rt:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .path-26-FpZwiZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .path-27-FpZwiZ {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.35% - 1px);
+  top: calc(18.35% - 1px);
+  width: 4px;
+}
+
+.ipad-news .path-28-FpZwiZ {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  width: 13px;
+}
+
+.ipad-news .icon-linkedin-xFY8rt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-news .icon-linkedin-xFY8rt:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .icon-twitter-xFY8rt {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 21px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 27px;
+}
+
+.ipad-news .icon-twitter-xFY8rt:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .icon-awesome-medium-m-xFY8rt {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-news .icon-awesome-medium-m-xFY8rt:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news .path-210-qw3VU4 {
+  background-color: transparent;
+  height: 473px;
+  left: -285px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: calc(100.00% + 430px);
+}
+
+.ipad-news .group-2338-qw3VU4 {
+  background-color: transparent;
+  height: 86px;
+  position: absolute;
+  right: calc(49.91% - 232px);
+  top: 123px;
+  width: 464px;
+}
+
+.ipad-news .rectangle-1810-Vh7ESr {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2014-Vh7ESr {
+  background-color: transparent;
+  height: 56.98%;
+  left: 5.17%;
+  position: absolute;
+  top: 22.09%;
+  width: 87.07%;
+}
+
+.ipad-news .soulmynt-in-the-news-2rMiRF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-news .group-2359-qw3VU4 {
+  background-color: transparent;
+  bottom: calc(49.40% - 475px);
+  height: 961px;
+  left: 61px;
+  position: absolute;
+  width: calc(100.00% - 121px);
+}
+
+.ipad-news .group-2345-qv5YzJ {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .group-2340-7YU2h0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2089-xANSro {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: relative;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .rectangle-1787-x2IyEq {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  width: 878px;
+}
+
+.ipad-news .group-2343-7YU2h0 {
+  background-color: transparent;
+  height: 156px;
+  left: calc(37.43% - 300px);
+  position: absolute;
+  top: 25px;
+  width: 801px;
+}
+
+.ipad-news .s-2-yx25Nb {
+  background-color: transparent;
+  border-radius: 43px;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(100.00% - 154px);
+  top: 2px;
+  width: 154px;
+}
+
+.ipad-news .group-2327-yx25Nb {
+  background-color: transparent;
+  height: 129px;
+  left: calc(100.00% - 393px);
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.ipad-news .the-first-blockchain-fZhDeK {
+  background-color: transparent;
+  bottom: -2px;
+  height: 74px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 100%;
+}
+
+.ipad-news .read-more-fZhDeK {
+  background-color: transparent;
+  bottom: 7px;
+  height: 13px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.ipad-news .group-2326-fZhDeK {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.ipad-news .introducing-2JGedC {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 900;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.53px;
+  line-height: 35px;
+  position: absolute;
+  text-align: right;
+  top: 4px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.ipad-news .path-40-2JGedC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 35px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 173px;
+}
+
+.ipad-news .group-2355-qv5YzJ {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 250px;
+  width: 878px;
+}
+
+.ipad-news .group-2351-qisju9 {
+  background-color: transparent;
+  height: 211px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2346-1bfnXA {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .group-2349-KIw8mT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2340-tJnUxk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2089-8rHeJx {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: relative;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .rectangle-1787-po98cz {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  width: 878px;
+}
+
+.ipad-news .mask-group-20-tJnUxk {
+  background-color: transparent;
+  bottom: calc(50.00% - 84px);
+  height: 167px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  width: 166px;
+}
+
+.ipad-news .rectangle-1897-1bfnXA {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.83%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ipad-news .group-2356-qv5YzJ {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 500px;
+  width: 878px;
+}
+
+.ipad-news .group-2352-PSrkgO {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: relative;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .group-2347-MFLEyw {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 1px;
+  width: 878px;
+}
+
+.ipad-news .group-2350-uPSzzX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2340-UBE8oU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2089-nrOZFg {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: relative;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .rectangle-1787-DUx9VT {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  width: 878px;
+}
+
+.ipad-news .mask-group-19-UBE8oU {
+  background-color: transparent;
+  bottom: calc(50.00% - 83px);
+  height: 167px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  width: 167px;
+}
+
+.ipad-news .rectangle-1854-MFLEyw {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.66%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ipad-news .group-2357-qv5YzJ {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 749px;
+  width: 878px;
+}
+
+.ipad-news .group-2353-4QyrzR {
+  background-color: transparent;
+  height: 211px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2348-7gzwow {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  top: 1px;
+  width: 878px;
+}
+
+.ipad-news .group-2340-HdBkiu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news .group-2089-Od2MwA {
+  background-color: transparent;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: relative;
+  top: 0px;
+  width: 878px;
+}
+
+.ipad-news .rectangle-1787-TGDbpv {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 211px;
+  left: calc(50.00% - 439px);
+  position: absolute;
+  width: 878px;
+}
+
+.ipad-news .mask-group-25-HdBkiu {
+  background-color: transparent;
+  bottom: calc(50.00% - 92px);
+  height: 185px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  width: 185px;
+}
+
+.ipad-news .rectangle-1898-7gzwow {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.68%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+/* screen - ipad-news-1-1-all-breakpoints */
+
+.ipad-news-1-1-all-breakpoints {
+  background-color: var(--gray-nurse);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1433px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .path-210-K3fRpN {
+  background-color: transparent;
+  height: 473px;
+  left: -183px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: calc(100.00% + 280px);
+}
+
+.ipad-news-1-1-all-breakpoints .group-2338-K3fRpN {
+  background-color: transparent;
+  height: 86px;
+  left: calc(50.00% - 232px);
+  position: absolute;
+  top: 130px;
+  width: 464px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1810-WUzmRC {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 86px;
+  left: calc(50.00% - 232px);
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 464px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2014-WUzmRC {
+  background-color: transparent;
+  height: 56.98%;
+  left: 5.17%;
+  position: absolute;
+  top: 22.09%;
+  width: 87.07%;
+}
+
+.ipad-news-1-1-all-breakpoints .soulmynt-in-the-news-oAai2r {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2359-K3fRpN {
+  background-color: transparent;
+  height: 763px;
+  left: 18px;
+  position: absolute;
+  top: calc(47.04% - 359px);
+  width: calc(100.00% - 36px);
+}
+
+.ipad-news-1-1-all-breakpoints .group-2345-ILc08x {
+  background-color: transparent;
+  height: 237px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2340-37cLrp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2089-hx5m7r {
+  background-color: transparent;
+  height: 237px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1787-NwqFqt {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  height: 237px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2343-37cLrp {
+  background-color: transparent;
+  height: 203px;
+  left: calc(34.76% - 193px);
+  position: absolute;
+  top: 19px;
+  width: 556px;
+}
+
+.ipad-news-1-1-all-breakpoints .s-2-GlVf1K {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 203px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 203px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2327-GlVf1K {
+  background-color: transparent;
+  height: 102px;
+  position: absolute;
+  right: 0px;
+  top: 51px;
+  width: 288px;
+}
+
+.ipad-news-1-1-all-breakpoints .the-first-blockchain-KbRhPY {
+  background-color: transparent;
+  bottom: calc(37.26% - 12px);
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-news-1-1-all-breakpoints .read-more-KbRhPY {
+  background-color: transparent;
+  bottom: -3px;
+  color: #ce5bd0;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2326-KbRhPY {
+  background-color: transparent;
+  height: 30.46%;
+  left: 0.69%;
+  position: absolute;
+  top: 0px;
+  width: 94.11%;
+}
+
+.ipad-news-1-1-all-breakpoints .introducing-elxMZB {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-news-1-1-all-breakpoints .path-40-elxMZB {
+  background-color: transparent;
+  height: 24px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 119px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2355-ILc08x {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 267px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2351-8ExjiQ {
+  background-color: transparent;
+  height: 147px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2346-rCoxjN {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2349-Ab0UT9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2340-0S035x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2089-kmDnhA {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1787-4xgYs9 {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .mask-group-20-0S035x {
+  background-color: transparent;
+  bottom: calc(50.00% - 58px);
+  height: 117px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  width: 116px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1897-rCoxjN {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.83%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2356-ILc08x {
+  background-color: transparent;
+  height: 148px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 441px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2352-xUbsfj {
+  background-color: transparent;
+  height: 148px;
+  left: calc(50.00% - 307px);
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2347-Ckpj4p {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 1px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2350-zFxQsQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2340-6y1WW8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2089-ox0bh9 {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1787-c21mCB {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .mask-group-19-6y1WW8 {
+  background-color: transparent;
+  bottom: calc(50.00% - 58px);
+  height: 117px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  width: 117px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1854-Ckpj4p {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.66%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2357-ILc08x {
+  background-color: transparent;
+  height: 148px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 616px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2353-vuzfRW {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2348-BMGj1V {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 1px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2340-x8nNcu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2089-VR5rMn {
+  background-color: transparent;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: relative;
+  top: 0px;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1787-lC5es3 {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 147px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  width: 614px;
+}
+
+.ipad-news-1-1-all-breakpoints .mask-group-25-x8nNcu {
+  background-color: transparent;
+  bottom: calc(50.00% - 65px);
+  height: 129px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  width: 129px;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1898-BMGj1V {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.68%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ipad-news-1-1-all-breakpoints .icon-ionic-ios-menu-K3fRpN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.32%;
+  left: 88.62%;
+  position: absolute;
+  top: 2.83%;
+  width: 6.62%;
+}
+
+.ipad-news-1-1-all-breakpoints .path-228-VoN2aK {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 43px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-229-VoN2aK {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 43px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-230-VoN2aK {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 43px;
+}
+
+.ipad-news-1-1-all-breakpoints .contact-K3fRpN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: calc(5.22% - 5px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.ipad-news-1-1-all-breakpoints .contact-K3fRpN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-1-1-all-breakpoints .group-2232-K3fRpN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 208px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .rectangle-1786-3CXuF4 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2008-3CXuF4 {
+  background-color: transparent;
+  height: 22px;
+  left: 37px;
+  position: absolute;
+  top: calc(18.00% - 4px);
+  width: 14px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2001-ApyUeI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.ipad-news-1-1-all-breakpoints .path-24-ApyUeI {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-25-ApyUeI {
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.ipad-news-1-1-all-breakpoints .the-first-blockchain-3CXuF4 {
+  background-color: transparent;
+  height: 14.42%;
+  left: 5.32%;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 36.37%;
+  width: 34.46%;
+}
+
+.ipad-news-1-1-all-breakpoints .line-46-3CXuF4 {
+  background-color: transparent;
+  height: 31px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 2px;
+}
+
+.ipad-news-1-1-all-breakpoints .soulmynt-3CXuF4 {
+  background-color: transparent;
+  display: block;
+  height: 27px;
+  left: calc(13.71% - 13px);
+  letter-spacing: 0.33px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: 92px;
+}
+
+.ipad-news-1-1-all-breakpoints .soulmynt-3CXuF4.bp4-animate-enter29 {
+  animation: bp4-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes bp4-animate-enter29-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.ipad-news-1-1-all-breakpoints .whitepaper-3CXuF4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.78% - 2px);
+  text-align: center;
+  top: 160px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.ipad-news-1-1-all-breakpoints .create-3CXuF4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.67% - 1px);
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.ipad-news-1-1-all-breakpoints .news-3CXuF4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.56% - 1px);
+  text-align: center;
+  top: 64px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.ipad-news-1-1-all-breakpoints .partners-3CXuF4 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.71% - 2px);
+  text-align: center;
+  top: 128px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2173-3CXuF4 {
+  background-color: transparent;
+  height: 13.63%;
+  left: 5.32%;
+  position: absolute;
+  top: 60.58%;
+  width: 34.52%;
+}
+
+.ipad-news-1-1-all-breakpoints .icon-ionic-logo-instagram-R7WxE6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-26-pEx4T8 {
+  background-color: transparent;
+  height: 29px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-27-pEx4T8 {
+  background-color: transparent;
+  height: 4px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-28-pEx4T8 {
+  background-color: transparent;
+  height: 15px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.ipad-news-1-1-all-breakpoints .icon-linkedin-R7WxE6 {
+  background-color: transparent;
+  height: 27px;
+  left: 196px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.ipad-news-1-1-all-breakpoints .icon-twitter-R7WxE6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 29px;
+}
+
+.ipad-news-1-1-all-breakpoints .icon-awesome-medium-m-R7WxE6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.ipad-news-1-1-all-breakpoints .all-rights-reserved-to-soulmynt-inc-3CXuF4 {
+  background-color: transparent;
+  height: 5.29%;
+  left: 5.32%;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 85.53%;
+  width: 18.00%;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2224-3CXuF4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+  width: 14px;
+}
+
+.ipad-news-1-1-all-breakpoints .group-2001-EqQHYg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.ipad-news-1-1-all-breakpoints .path-24-EqQHYg {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.ipad-news-1-1-all-breakpoints .path-25-EqQHYg {
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 4px;
+}
+/* screen - mobile-news */
+
+.mobile-news {
+  background-color: var(--gray-nurse);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1137px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-news .path-225-zIkxS8 {
+  background-color: transparent;
+  height: 370px;
+  left: -230px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: calc(100.00% + 400px);
+}
+
+.mobile-news .group-2338-zIkxS8 {
+  background-color: transparent;
+  height: 60px;
+  position: absolute;
+  right: calc(49.18% - 154px);
+  top: 122px;
+  width: 314px;
+}
+
+.mobile-news .rectangle-1810-LSWfGz {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.63;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-news .group-2014-LSWfGz {
+  background-color: transparent;
+  height: 51.67%;
+  left: 8.60%;
+  position: absolute;
+  top: 26.67%;
+  width: 83.44%;
+}
+
+.mobile-news .soulmynt-in-the-news-Rxwv1w {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile-news .icon-ionic-ios-menu-zIkxS8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  position: absolute;
+  right: 15px;
+  top: 30px;
+  width: 27px;
+}
+
+.mobile-news .path-228-PiUZH6 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-news .path-229-PiUZH6 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 100%;
+}
+
+.mobile-news .path-230-PiUZH6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.mobile-news .group-2355-zIkxS8 {
+  background-color: transparent;
+  height: 86px;
+  left: calc(49.41% - 155px);
+  position: absolute;
+  top: 763px;
+  width: 314px;
+}
+
+.mobile-news .group-2351-YhZKsO {
+  background-color: transparent;
+  height: 86px;
+  left: calc(50.00% - 157px);
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.mobile-news .group-2346-39Zdkh {
+  background-color: transparent;
+  height: 86px;
+  left: calc(50.00% - 157px);
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.mobile-news .group-2349-hu10DI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-news .group-2340-j1xkWD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-news .group-2089-TA3aIE {
+  background-color: transparent;
+  height: 86px;
+  left: calc(50.00% - 157px);
+  position: relative;
+  top: 0px;
+  width: 314px;
+}
+
+.mobile-news .rectangle-1787-X13hf6 {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 86px;
+  left: calc(50.00% - 157px);
+  position: absolute;
+  width: 314px;
+}
+
+.mobile-news .mask-group-20-j1xkWD {
+  background-color: transparent;
+  height: 66px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 33px);
+  width: 62px;
+}
+
+.mobile-news .rectangle-1897-39Zdkh {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 10px;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.mobile-news .path-235-YhZKsO {
+  background-color: transparent;
+  height: 26px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.67% - 103px);
+  top: 30px;
+  width: 207px;
+}
+
+.mobile-news .group-2512-zIkxS8 {
+  background-color: transparent;
+  height: 515px;
+  left: calc(49.41% - 155px);
+  position: absolute;
+  top: 217px;
+  width: 314px;
+}
+
+.mobile-news .group-2089-N4xNEW {
+  background-color: transparent;
+  height: 515px;
+  left: calc(50.00% - 157px);
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.mobile-news .rectangle-1787-5LNlrS {
+  background-color: var(--black-haze);
+  border-radius: 9px;
+  bottom: 0px;
+  height: 515px;
+  left: calc(50.00% - 157px);
+  position: absolute;
+  width: 314px;
+}
+
+.mobile-news .group-2511-N4xNEW {
+  background-color: transparent;
+  height: 456px;
+  left: calc(46.87% - 120px);
+  position: absolute;
+  top: 27px;
+  width: 257px;
+}
+
+.mobile-news .s-2-WXHj2E {
+  background-color: transparent;
+  border-radius: 9px;
+  height: 299px;
+  left: -5.65%;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 299px;
+}
+
+.mobile-news .the-first-blockchain-WXHj2E {
+  background-color: transparent;
+  height: 13.60%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 18.74%;
+  width: 97.79%;
+}
+
+.mobile-news .read-more-WXHj2E {
+  background-color: transparent;
+  color: #ce5bd0;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 3.73%;
+  left: 1.17%;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 34.99%;
+  white-space: nowrap;
+  width: 24.15%;
+}
+
+.mobile-news .introducing-WXHj2E {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  height: 8.77%;
+  left: 0px;
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  position: absolute;
+  text-align: right;
+  top: 0.66%;
+  white-space: nowrap;
+  width: 70.13%;
+}
+
+.mobile-news .path-40-WXHj2E {
+  background-color: transparent;
+  height: 6.46%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 8.77%;
+  width: 57.37%;
+}
+
+.mobile-news .contact-zIkxS8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(8.41% - 5px);
+  letter-spacing: 0.22px;
+  line-height: 15px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.mobile-news .contact-zIkxS8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-news .rectangle-1786-zIkxS8 {
+  background-color: var(--white);
+  border-radius: 6px;
+  bottom: 0px;
+  height: 232px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.mobile-news .group-2510-zIkxS8 {
+  background-color: transparent;
+  bottom: 21px;
+  height: 185px;
+  left: calc(39.01% - 114px);
+  position: absolute;
+  width: 292px;
+}
+
+.mobile-news .group-2008-SNpxPc {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 23px;
+}
+
+.mobile-news .group-2001-HwgUMC {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.mobile-news .path-24-HwgUMC {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.mobile-news .path-25-HwgUMC {
+  background-color: transparent;
+  bottom: 4px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 6px;
+}
+
+.mobile-news .the-first-blockchain-SNpxPc {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.mobile-news .line-46-SNpxPc {
+  background-color: transparent;
+  height: 42px;
+  left: 12.97%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.mobile-news .soulmynt-SNpxPc {
+  background-color: transparent;
+  display: block;
+  height: 36px;
+  left: calc(30.28% - 36px);
+  letter-spacing: 0.43px;
+  line-height: 29px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: 120px;
+}
+
+.mobile-news .soulmynt-SNpxPc.bp5-animate-enter31 {
+  animation: bp5-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes bp5-animate-enter31-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.mobile-news .group-2173-SNpxPc {
+  background-color: transparent;
+  height: 33px;
+  position: absolute;
+  right: calc(100.00% - 255px);
+  top: 116px;
+  width: 255px;
+}
+
+.mobile-news .icon-ionic-logo-instagram-uXqWOb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 33px;
+}
+
+.mobile-news .path-26-1QL8KY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-news .path-27-1QL8KY {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.72% - 1px);
+  top: calc(18.72% - 1px);
+  width: 4px;
+}
+
+.mobile-news .path-28-1QL8KY {
+  background-color: transparent;
+  height: calc(100.00% - 16px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 8px);
+  top: 8px;
+  width: 17px;
+}
+
+.mobile-news .icon-linkedin-uXqWOb {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 31px;
+}
+
+.mobile-news .icon-twitter-uXqWOb {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  left: calc(33.32% - 12px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.mobile-news .icon-awesome-medium-m-uXqWOb {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.53% - 11px);
+  top: 3px;
+  width: 35px;
+}
+
+.mobile-news .all-rights-reserved-to-soulmynt-inc-SNpxPc {
+  background-color: transparent;
+  height: 19px;
+  left: calc(0.65% - 1px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 169px;
+  white-space: nowrap;
+  width: 216px;
+}
+/* screen - web-1366-2 */
+
+.web-1366-2 {
+  background-color: var(--gray-nurse);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2084px;
+  min-width: 1366px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.web-1366-2 .path-210-dFKCuM {
+  background-color: transparent;
+  height: 797px;
+  left: -662px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: calc(100.00% + 875px);
+}
+
+.web-1366-2 .rectangle-1786-dFKCuM {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 269px;
+  left: 0px;
+  position: absolute;
+  top: 1815px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2315-dFKCuM {
+  background-color: transparent;
+  bottom: 29px;
+  height: 205px;
+  left: 44px;
+  position: absolute;
+  width: calc(100.00% - 95px);
+}
+
+.web-1366-2 .group-2270-fsgzv3 {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 479px;
+}
+
+.web-1366-2 .the-first-blockchain-KpwOWW {
+  background-color: transparent;
+  height: 17.95%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 27.88%;
+  width: 100.42%;
+}
+
+.web-1366-2 .group-2210-KpwOWW {
+  background-color: transparent;
+  height: 19.97%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 37.61%;
+}
+
+.web-1366-2 .group-2008-9ax1AC {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+
+.web-1366-2 .group-2001-CN50rj {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 16px;
+}
+
+.web-1366-2 .path-24-CN50rj {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+
+.web-1366-2 .path-25-CN50rj {
+  background-color: transparent;
+  height: 9px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 5px;
+}
+
+.web-1366-2 .line-46-9ax1AC {
+  background-color: transparent;
+  height: 40px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.web-1366-2 .soulmynt-9ax1AC {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1366-2 .group-2269-KpwOWW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.web-1366-2 .icon-twitter-nWLMxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.21%;
+  left: 60.16%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 62.15%;
+  transition: all 0.2s ease;
+  width: 40.70%;
+}
+
+.web-1366-2 .icon-twitter-nWLMxn:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .icon-ionic-logo-instagram-nWLMxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46.50%;
+  left: 60.32%;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 39.68%;
+}
+
+.web-1366-2 .icon-ionic-logo-instagram-nWLMxn:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .path-26-9VdJ3t {
+  background-color: transparent;
+  height: 33px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 33px;
+}
+
+.web-1366-2 .path-27-9VdJ3t {
+  background-color: transparent;
+  height: 5px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.web-1366-2 .path-28-9VdJ3t {
+  background-color: transparent;
+  height: 17px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.web-1366-2 .icon-linkedin-nWLMxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47.21%;
+  left: -0.31%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0.36%;
+  transition: all 0.2s ease;
+  width: 40.29%;
+}
+
+.web-1366-2 .icon-linkedin-nWLMxn:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .icon-awesome-medium-m-nWLMxn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37.61%;
+  left: -0.31%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 61.49%;
+  transition: all 0.2s ease;
+  width: 40.29%;
+}
+
+.web-1366-2 .icon-awesome-medium-m-nWLMxn:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .group-2268-fsgzv3 {
+  background-color: transparent;
+  height: 205px;
+  left: calc(100.00% - 264px);
+  position: absolute;
+  top: 0px;
+  width: 264px;
+}
+
+.web-1366-2 .whitepaper-VJ9skR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 66.81%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65.18%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 33.36%;
+}
+
+.web-1366-2 .whitepaper-VJ9skR:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .create-VJ9skR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 81.19%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 35.28%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 18.92%;
+}
+
+.web-1366-2 .create-VJ9skR:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .news-VJ9skR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 83.90%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20.33%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 15.88%;
+}
+
+.web-1366-2 .news-VJ9skR:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .partners-VJ9skR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 74.89%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 50.23%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 24.95%;
+}
+
+.web-1366-2 .partners-VJ9skR:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .all-rights-reserved-to-soulmynt-inc-VJ9skR {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 87.61%;
+  width: 100.47%;
+}
+
+.web-1366-2 .group-2212-VJ9skR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.64%;
+  left: 91.32%;
+  position: absolute;
+  top: 0px;
+  width: 7.93%;
+}
+
+.web-1366-2 .group-2001-tGxc98 {
+  background-color: transparent;
+  height: 32px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.web-1366-2 .path-24-tGxc98 {
+  background-color: transparent;
+  height: 21px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.web-1366-2 .path-25-tGxc98 {
+  background-color: transparent;
+  height: 9px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 6px;
+}
+
+.web-1366-2 .group-2253-dFKCuM {
+  background-color: transparent;
+  height: 125px;
+  left: calc(50.00% - 683px);
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.web-1366-2 .group-2309-iINM7P {
+  background-color: transparent;
+  height: calc(100.00% - 55px);
+  position: absolute;
+  right: calc(31.35% - 398px);
+  top: 30px;
+  width: 1270px;
+}
+
+.web-1366-2 .group-2252-HM7d5l {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 956px;
+}
+
+.web-1366-2 .group-2002-nxtOET {
+  background-color: transparent;
+  cursor: pointer;
+  height: 65px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(35.17% - 15px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+
+.web-1366-2 .group-2002-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .group-2001-LUclte {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 9px);
+}
+
+.web-1366-2 .path-24-LUclte {
+  background-color: transparent;
+  bottom: 4px;
+  height: 41px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 32px;
+}
+
+.web-1366-2 .path-25-LUclte {
+  background-color: transparent;
+  bottom: 7px;
+  height: 18px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 12px;
+}
+
+.web-1366-2 .whitepaper-nxtOET {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(16.19% - 14px);
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.web-1366-2 .whitepaper-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .create-nxtOET {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(49.10% - 25px);
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.web-1366-2 .create-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .news-nxtOET {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: calc(100.22% - 40px);
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.web-1366-2 .news-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .partners-nxtOET {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: calc(31.42% - 20px);
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.web-1366-2 .partners-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .contact-nxtOET {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.web-1366-2 .contact-nxtOET:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .group-2245-HM7d5l {
+  background-color: transparent;
+  height: 70px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 82px;
+}
+
+.web-1366-2 .icon-ionic-logo-instagram-Q0xxcD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  pointer-events: auto;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 32px;
+}
+
+.web-1366-2 .icon-ionic-logo-instagram-Q0xxcD:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .path-26-HBjSUz {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .path-27-HBjSUz {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.49% - 1px);
+  top: calc(18.49% - 1px);
+  width: 5px;
+}
+
+.web-1366-2 .path-28-HBjSUz {
+  background-color: transparent;
+  bottom: calc(50.00% - 8px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 8px);
+  width: 17px;
+}
+
+.web-1366-2 .icon-linkedin-Q0xxcD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-2 .icon-linkedin-Q0xxcD:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .icon-twitter-Q0xxcD {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-2 .icon-twitter-Q0xxcD:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .icon-awesome-medium-m-Q0xxcD {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-2 .icon-awesome-medium-m-Q0xxcD:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-2 .group-2338-dFKCuM {
+  background-color: transparent;
+  height: 130px;
+  position: absolute;
+  right: calc(49.92% - 350px);
+  top: 213px;
+  width: 701px;
+}
+
+.web-1366-2 .rectangle-1810-URSO5I {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2014-URSO5I {
+  background-color: transparent;
+  height: 56.92%;
+  left: 5.28%;
+  position: absolute;
+  top: 21.54%;
+  width: 89.30%;
+}
+
+.web-1366-2 .soulmynt-in-the-news-GErkqc {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.93px;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1366-2 .group-2359-dFKCuM {
+  background-color: transparent;
+  bottom: calc(45.79% - 631px);
+  height: 1379px;
+  left: 53px;
+  position: absolute;
+  width: calc(100.00% - 106px);
+}
+
+.web-1366-2 .group-2345-7dbnx1 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2340-3R7Uxn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2089-m7Ij47 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .rectangle-1787-URVAKD {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2343-3R7Uxn {
+  background-color: transparent;
+  height: 224px;
+  left: calc(37.43% - 430px);
+  position: absolute;
+  top: 35px;
+  width: 1149px;
+}
+
+.web-1366-2 .s-2-bDsURE {
+  background-color: transparent;
+  border-radius: 43px;
+  bottom: 0px;
+  height: 221px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 221px;
+}
+
+.web-1366-2 .group-2327-bDsURE {
+  background-color: transparent;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 564px;
+}
+
+.web-1366-2 .the-first-blockchain-ZGKcJv {
+  background-color: transparent;
+  bottom: 15px;
+  height: 66px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 1px);
+}
+
+.web-1366-2 .read-more-ZGKcJv {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.web-1366-2 .group-2326-ZGKcJv {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 9px);
+}
+
+.web-1366-2 .introducing-pKAYnt {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.78px;
+  line-height: 52px;
+  position: absolute;
+  text-align: right;
+  top: 6px;
+  white-space: nowrap;
+  width: 292px;
+}
+
+.web-1366-2 .path-40-pKAYnt {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 8px;
+  width: 248px;
+}
+
+.web-1366-2 .group-2355-7dbnx1 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 359px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2351-VenA9E {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2346-udXuTK {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2349-ZqOq7y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2340-wTrJPd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2089-tXAesb {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .rectangle-1787-eEDdHw {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  width: 1260px;
+}
+
+.web-1366-2 .mask-group-20-wTrJPd {
+  background-color: transparent;
+  height: 240px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 120px);
+  width: 238px;
+}
+
+.web-1366-2 .rectangle-1897-udXuTK {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.83%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.web-1366-2 .group-2356-7dbnx1 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 717px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2352-eeEEv0 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2347-betorT {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 1px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2350-kRKa9n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2340-hEGSGd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2089-o9afHF {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .rectangle-1787-8Bek75 {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  width: 1260px;
+}
+
+.web-1366-2 .mask-group-19-hEGSGd {
+  background-color: transparent;
+  bottom: calc(50.00% - 120px);
+  height: 240px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  width: 240px;
+}
+
+.web-1366-2 .rectangle-1854-betorT {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.66%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.web-1366-2 .group-2357-7dbnx1 {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 1076px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2353-X16aGm {
+  background-color: transparent;
+  height: 303px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2348-ENrWcZ {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  top: 1px;
+  width: 1260px;
+}
+
+.web-1366-2 .group-2340-Y2Z1lh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-2 .group-2089-kKhruk {
+  background-color: transparent;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: relative;
+  top: 0px;
+  width: 1260px;
+}
+
+.web-1366-2 .rectangle-1787-gdER24 {
+  background-color: var(--black-haze);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 303px;
+  left: calc(50.00% - 630px);
+  position: absolute;
+  width: 1260px;
+}
+
+.web-1366-2 .mask-group-25-Y2Z1lh {
+  background-color: transparent;
+  bottom: calc(50.00% - 132px);
+  height: 265px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  width: 265px;
+}
+
+.web-1366-2 .rectangle-1898-ENrWcZ {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 13px;
+  height: 99.68%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+@media screen and (max-width: 649px) {
+  .screen.desktop-news { 
+    display: none;
+   }
+  .screen.web-1366-2 { 
+    display: none;
+   }
+  .screen.ipad-news { 
+    display: none;
+   }
+  .screen.ipad-news-1-1-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 650px) and (max-width: 998px) {
+  .screen.desktop-news { 
+    display: none;
+   }
+  .screen.web-1366-2 { 
+    display: none;
+   }
+  .screen.ipad-news { 
+    display: none;
+   }
+  .screen.mobile-news { 
+    display: none;
+   }
+}
+@media screen and (min-width: 999px) and (max-width: 1365px) {
+  .screen.desktop-news { 
+    display: none;
+   }
+  .screen.web-1366-2 { 
+    display: none;
+   }
+  .screen.ipad-news-1-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobile-news { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1366px) and (max-width: 1919px) {
+  .screen.desktop-news { 
+    display: none;
+   }
+  .screen.ipad-news { 
+    display: none;
+   }
+  .screen.ipad-news-1-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobile-news { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.web-1366-2 { 
+    display: none;
+   }
+  .screen.ipad-news { 
+    display: none;
+   }
+  .screen.ipad-news-1-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobile-news { 
+    display: none;
+   }
+}

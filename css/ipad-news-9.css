@@ -1,0 +1,301 @@
+/* screen - ipad-news-9 */
+
+.ipad-news-9 {
+  background: linear-gradient(236.55deg, #e749ac -43.67%, #e49457 10.54%, #c742c9 92.18%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-ipad-news-9 {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .ipad-news-9 {
+  background-color: #00000000;
+}
+
+#overlay-ipad-news-9 .ipad-news-9 {
+  left: -0.001220703125px;
+  top: 5.5009765625px;
+}
+
+#overlay-ipad-news-9 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.ipad-news-9 .hellosoulmyntcom-TP76JZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 85px;
+  letter-spacing: 1.05px;
+  line-height: 70px;
+  position: absolute;
+  right: calc(35.35% - 235px);
+  text-align: center;
+  top: 614px;
+  white-space: nowrap;
+  width: 664px;
+}
+
+.ipad-news-9 .group-2002-TP76JZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: calc(4.23% - 3px);
+  pointer-events: auto;
+  position: absolute;
+  top: 40px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.ipad-news-9 .group-2002-TP76JZ:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .group-2001-kCvIfG {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 16px);
+}
+
+.ipad-news-9 .path-24-kCvIfG {
+  background-color: transparent;
+  bottom: 6px;
+  height: 71px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.ipad-news-9 .path-25-kCvIfG {
+  background-color: transparent;
+  bottom: 12px;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 20px;
+}
+
+.ipad-news-9 .drop-a-note-TP76JZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 63px;
+  left: calc(4.73% - 13px);
+  letter-spacing: 0.81px;
+  line-height: 54px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.ipad-news-9 .drop-a-note-TP76JZ:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .group-2476-TP76JZ {
+  background-color: transparent;
+  height: 358px;
+  left: calc(23.58% - 93px);
+  position: absolute;
+  top: calc(40.17% - 144px);
+  width: 396px;
+}
+
+.ipad-news-9 .path-236-JtGnPS {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-news-9 .line-55-JtGnPS {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 12px;
+}
+
+.ipad-news-9 .line-56-JtGnPS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 23px;
+}
+
+.ipad-news-9 .icon-close-TP76JZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 41px;
+  width: 38px;
+}
+
+.ipad-news-9 .group-2407-TP76JZ {
+  background-color: transparent;
+  bottom: calc(19.35% - 16px);
+  height: 83px;
+  left: calc(50.00% - 514px);
+  position: absolute;
+  width: 1027px;
+}
+
+.ipad-news-9 .icon-awesome-linkedin-in-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 8px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(38.87% - 29px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.ipad-news-9 .icon-awesome-linkedin-in-Ne0FZN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .icon-ionic-logo-instagram-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.ipad-news-9 .icon-ionic-logo-instagram-Ne0FZN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .path-26-lNRRxb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-news-9 .path-27-lNRRxb {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.15% - 2px);
+  top: calc(18.15% - 2px);
+  width: 12px;
+}
+
+.ipad-news-9 .path-28-lNRRxb {
+  background-color: transparent;
+  bottom: calc(50.00% - 21px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 21px);
+  width: 43px;
+}
+
+.ipad-news-9 .icon-awesome-twitter-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 10px);
+  left: calc(20.58% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.ipad-news-9 .icon-awesome-twitter-Ne0FZN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .icon-awesome-medium-m-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 17px);
+  left: calc(40.94% - 34px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 10px;
+  transition: all 0.2s ease;
+  width: 83px;
+}
+
+.ipad-news-9 .icon-awesome-medium-m-Ne0FZN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .icon-awesome-tumblr-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(21.51% - 10px);
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.ipad-news-9 .icon-awesome-tumblr-Ne0FZN:hover {
+  transform: scale(1.1);
+}
+
+.ipad-news-9 .icon-awesome-youtube-Ne0FZN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 12px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.ipad-news-9 .icon-awesome-youtube-Ne0FZN:hover {
+  transform: scale(1.1);
+}

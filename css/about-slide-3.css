@@ -1,0 +1,241 @@
+/* screen - about-slide-3 */
+
+.about-slide-3 {
+  background-color: var(--white);
+  height: 1712px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.about-slide-3 .line-17-Zr9PVw {
+  background-color: transparent;
+  height: 1px;
+  left: 1172px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 170px;
+}
+
+.about-slide-3 .content-Zr9PVw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-filmotypemaxwell-regular);
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 337px;
+  letter-spacing: 0.00px;
+  line-height: 66px;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .areeb-Zr9PVw {
+  background-color: transparent;
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-freightbigpro-semibold);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 64px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .line-18-Zr9PVw {
+  background-color: transparent;
+  height: 96px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 30px;
+}
+
+.about-slide-3 .contact-Zr9PVw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1670px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .entrepreneurship-Zr9PVw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .content-X2aEKo {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-filmotypemaxwell-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1376px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .group-16-Zr9PVw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  left: 1480px;
+  position: absolute;
+  top: 100px;
+  width: 152px;
+}
+
+.about-slide-3 .design-7YmxPw {
+  background-color: transparent;
+  height: 100%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.about-slide-3 .code-7YmxPw {
+  -webkit-text-stroke: 0.5px var(--black);
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 23.5px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.about-slide-3 .text_label-7YmxPw {
+  background-color: transparent;
+  bottom: -1px;
+  height: 23px;
+  left: calc(40.36% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.about-slide-3 .line-17-X2aEKo {
+  background-color: transparent;
+  height: 1px;
+  left: 1376px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 65px;
+}
+
+.about-slide-3 .rectangle-39-Zr9PVw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 554px;
+  left: 184px;
+  position: absolute;
+  top: 345px;
+  width: 902px;
+}
+
+.about-slide-3 .making-and-producing-Zr9PVw {
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 224px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about-slide-3 .rectangle-41-Zr9PVw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 350px;
+  left: 1113px;
+  position: absolute;
+  top: 345px;
+  width: 624px;
+}
+
+.about-slide-3 .rectangle-42-Zr9PVw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 370px;
+  left: 1113px;
+  position: absolute;
+  top: 722px;
+  width: 624px;
+}
+
+.about-slide-3 .rectangle-43-Zr9PVw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 554px;
+  left: 184px;
+  position: absolute;
+  top: 927px;
+  width: 902px;
+}
+
+.about-slide-3 .rectangle-44-Zr9PVw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 360px;
+  left: 1113px;
+  position: absolute;
+  top: 1119px;
+  width: 624px;
+}

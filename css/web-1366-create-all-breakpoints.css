@@ -1,0 +1,3669 @@
+/* screen - 650-create */
+
+.x650-create {
+  background-color: transparent;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1218px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.x650-create .path-222-zCIiDb {
+  background-color: transparent;
+  height: 88.80%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x650-create .rectangle-1894-zCIiDb {
+  background-color: transparent;
+  height: 446px;
+  left: -112px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(14.90% - 66px);
+  width: calc(100.00% + 169px);
+}
+
+.x650-create .rectangle-1894-zCIiDb video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x650-create .rectangle-1894-zCIiDb img {
+  object-fit: cover;
+}
+
+.x650-create .coming-soon-zCIiDb {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  height: 56px;
+  letter-spacing: 0.67px;
+  line-height: 45px;
+  position: absolute;
+  right: calc(48.76% - 151px);
+  text-align: center;
+  top: 598px;
+  white-space: nowrap;
+  width: 310px;
+}
+
+.x650-create .group-2317-zCIiDb {
+  background-color: transparent;
+  bottom: -1px;
+  height: 197px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.x650-create .rectangle-1786-j1ZKwW {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 197px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x650-create .group-2315-j1ZKwW {
+  background-color: transparent;
+  height: calc(100.00% - 47px);
+  left: 32px;
+  position: absolute;
+  top: 26px;
+  width: calc(100.00% - 69px);
+}
+
+.x650-create .group-2270-XTx2Oy {
+  background-color: transparent;
+  height: 147px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 350px;
+}
+
+.x650-create .the-first-blockchain-p4T0Jq {
+  background-color: transparent;
+  height: 24.54%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 27.88%;
+  width: 100.57%;
+}
+
+.x650-create .group-2210-p4T0Jq {
+  background-color: transparent;
+  height: 19.97%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 34.30%;
+}
+
+.x650-create .group-2008-70TOe7 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}
+
+.x650-create .group-2001-S4PGac {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.x650-create .path-24-S4PGac {
+  background-color: transparent;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.x650-create .path-25-S4PGac {
+  background-color: transparent;
+  height: 6px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.x650-create .line-46-70TOe7 {
+  background-color: transparent;
+  height: 29px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.x650-create .soulmynt-70TOe7 {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x650-create .group-2269-p4T0Jq {
+  background-color: transparent;
+  bottom: 1px;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  width: 59px;
+}
+
+.x650-create .icon-twitter-QijAYZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.48%;
+  left: 60.10%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 62.01%;
+  transition: all 0.2s ease;
+  width: 41.08%;
+}
+
+.x650-create .icon-twitter-QijAYZ:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-ionic-logo-instagram-QijAYZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46.50%;
+  left: 60.32%;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 39.68%;
+}
+
+.x650-create .icon-ionic-logo-instagram-QijAYZ:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .path-26-x6QxxH {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.x650-create .path-27-x6QxxH {
+  background-color: transparent;
+  height: 3px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.x650-create .path-28-x6QxxH {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.x650-create .icon-linkedin-QijAYZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47.48%;
+  left: -0.42%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0.49%;
+  transition: all 0.2s ease;
+  width: 40.52%;
+}
+
+.x650-create .icon-linkedin-QijAYZ:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-awesome-medium-m-QijAYZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37.88%;
+  left: -0.42%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 61.36%;
+  transition: all 0.2s ease;
+  width: 40.52%;
+}
+
+.x650-create .icon-awesome-medium-m-QijAYZ:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .group-2268-XTx2Oy {
+  background-color: transparent;
+  height: 150px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 193px;
+}
+
+.x650-create .whitepaper-UUANkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 71.99%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65.02%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 29.02%;
+}
+
+.x650-create .whitepaper-UUANkh:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .create-UUANkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 83.59%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 35.12%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 16.42%;
+}
+
+.x650-create .create-UUANkh:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .news-UUANkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 85.48%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20.17%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 14.36%;
+}
+
+.x650-create .news-UUANkh:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .partners-UUANkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 78.45%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 50.07%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 21.54%;
+}
+
+.x650-create .partners-UUANkh:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .all-rights-reserved-to-soulmynt-inc-UUANkh {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 87.61%;
+  width: 100.01%;
+}
+
+.x650-create .group-2212-UUANkh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.64%;
+  left: 91.07%;
+  position: absolute;
+  top: 0px;
+  width: 7.91%;
+}
+
+.x650-create .group-2001-xKZRhF {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.x650-create .path-24-xKZRhF {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.x650-create .path-25-xKZRhF {
+  background-color: transparent;
+  height: 7px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.x650-create .icon-ionic-ios-menu-zCIiDb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.73%;
+  left: 88.62%;
+  position: absolute;
+  top: 3.33%;
+  width: 6.62%;
+}
+
+.x650-create .path-228-O1tGr4 {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 43px;
+}
+
+.x650-create .path-229-O1tGr4 {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 43px;
+}
+
+.x650-create .path-230-O1tGr4 {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 43px;
+}
+
+.x650-create .contact-zCIiDb {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: 32px;
+  left: calc(5.22% - 5px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.x650-create .contact-zCIiDb:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .group-2408-zCIiDb {
+  background-color: transparent;
+  bottom: calc(33.84% - 52px);
+  height: 154px;
+  left: calc(50.00% - 167px);
+  position: absolute;
+  width: 335px;
+}
+
+.x650-create .icon-linkedin-uEGNto {
+  background-color: transparent;
+  bottom: 4px;
+  cursor: pointer;
+  height: 55px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 55px;
+}
+
+.x650-create .icon-linkedin-uEGNto:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-ionic-logo-instagram-uEGNto {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+
+.x650-create .icon-ionic-logo-instagram-uEGNto:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .path-26-KMVH10 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.x650-create .path-27-KMVH10 {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.78% - 2px);
+  top: calc(17.78% - 2px);
+  width: 9px;
+}
+
+.x650-create .path-28-KMVH10 {
+  background-color: transparent;
+  bottom: calc(50.00% - 15px);
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 15px);
+  width: 31px;
+}
+
+.x650-create .icon-twitter-uEGNto {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.63% - 29px);
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.x650-create .icon-twitter-uEGNto:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-awesome-medium-m-uEGNto {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.x650-create .icon-awesome-medium-m-uEGNto:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-awesome-tumblr-uEGNto {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 56px;
+  left: calc(48.80% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.x650-create .icon-awesome-tumblr-uEGNto:hover {
+  transform: scale(1.1);
+}
+
+.x650-create .icon-youtube-uEGNto {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 51px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.x650-create .icon-youtube-uEGNto:hover {
+  transform: scale(1.1);
+}
+/* screen - desktop-create */
+
+.desktop-create {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1472px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-create .path-222-Hmskhv {
+  background-color: transparent;
+  height: 76.70%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0.34%;
+  width: 100%;
+}
+
+.desktop-create .rectangle-1786-Hmskhv {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 24.93%;
+  left: 0px;
+  position: absolute;
+  top: 75.14%;
+  width: 100%;
+}
+
+.desktop-create .group-2008-Hmskhv {
+  background-color: transparent;
+  height: 3.04%;
+  left: 3.19%;
+  position: absolute;
+  top: 77.85%;
+  width: 1.54%;
+}
+
+.desktop-create .group-2001-bPO39Z {
+  background-color: transparent;
+  height: 45px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 23px;
+}
+
+.desktop-create .path-24-bPO39Z {
+  background-color: transparent;
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 22px;
+}
+
+.desktop-create .path-25-bPO39Z {
+  background-color: transparent;
+  height: 12px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.desktop-create .the-first-blockchain-Hmskhv {
+  background-color: transparent;
+  height: 3.80%;
+  left: 3.19%;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 82.74%;
+  width: 35.10%;
+}
+
+.desktop-create .line-46-Hmskhv {
+  background-color: transparent;
+  height: 3.82%;
+  left: 5.82%;
+  object-fit: cover;
+  position: absolute;
+  top: 77.46%;
+  width: 0px;
+}
+
+.desktop-create .soulmynt-Hmskhv {
+  background-color: transparent;
+  height: 3.60%;
+  left: 7.06%;
+  letter-spacing: 0.67px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: 77.80%;
+  white-space: nowrap;
+  width: 9.69%;
+}
+
+.desktop-create .all-rights-reserved-to-soulmynt-inc-Hmskhv {
+  background-color: transparent;
+  height: 24px;
+  left: 82.63%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 94.60%;
+  width: 13.80%;
+}
+
+.desktop-create .icon-ionic-logo-instagram-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.84%;
+  left: 6.44%;
+  pointer-events: auto;
+  position: absolute;
+  top: 88.63%;
+  transition: all 0.2s ease;
+  width: 2.18%;
+}
+
+.desktop-create .icon-ionic-logo-instagram-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .path-26-SORLKJ {
+  background-color: transparent;
+  height: 42px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.desktop-create .path-27-SORLKJ {
+  background-color: transparent;
+  height: 6px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.desktop-create .path-28-SORLKJ {
+  background-color: transparent;
+  height: 21px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+.desktop-create .icon-twitter-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.33%;
+  left: 6.43%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 92.22%;
+  transition: all 0.2s ease;
+  width: 2.22%;
+}
+
+.desktop-create .icon-twitter-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-awesome-medium-m-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.29%;
+  left: 3.25%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 92.22%;
+  transition: all 0.2s ease;
+  width: 2.20%;
+}
+
+.desktop-create .icon-awesome-medium-m-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-linkedin-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.88%;
+  left: 3.25%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 88.48%;
+  transition: all 0.2s ease;
+  width: 2.20%;
+}
+
+.desktop-create .icon-linkedin-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .news-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 93.57%;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 80.82%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 3.02%;
+}
+
+.desktop-create .news-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .create-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 93.04%;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 83.88%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 3.54%;
+}
+
+.desktop-create .create-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .whitepaper-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 90.34%;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 90.00%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 6.25%;
+}
+
+.desktop-create .whitepaper-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .partners-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 91.90%;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: right;
+  top: 86.94%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 4.69%;
+}
+
+.desktop-create .partners-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .group-2184-Hmskhv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 3.04%;
+  left: 94.94%;
+  pointer-events: auto;
+  position: absolute;
+  top: 76.60%;
+  transition: all 0.2s ease;
+  width: 1.54%;
+}
+
+.desktop-create .group-2184-Hmskhv:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .group-2001-sHiv1r {
+  background-color: transparent;
+  height: 45px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 23px;
+}
+
+.desktop-create .path-24-sHiv1r {
+  background-color: transparent;
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 22px;
+}
+
+.desktop-create .path-25-sHiv1r {
+  background-color: transparent;
+  height: 13px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 8px;
+}
+
+.desktop-create .rectangle-1894-Hmskhv {
+  background-color: transparent;
+  bottom: calc(104.47% - 697px);
+  height: 667px;
+  left: calc(44.03% - 539px);
+  overflow: hidden;
+  position: absolute;
+  width: 1225px;
+}
+
+.desktop-create .rectangle-1894-Hmskhv video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.desktop-create .rectangle-1894-Hmskhv img {
+  object-fit: cover;
+}
+
+.desktop-create .coming-soon-Hmskhv {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 500;
+  height: 67px;
+  letter-spacing: 0.82px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 189px);
+  text-align: center;
+  top: 571px;
+  white-space: nowrap;
+  width: 378px;
+}
+
+.desktop-create .group-2308-Hmskhv {
+  background-color: transparent;
+  height: 148px;
+  left: calc(50.00% - 960px);
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.desktop-create .group-2181-yQ4b6i {
+  background-color: transparent;
+  height: calc(100.00% - 58px);
+  position: absolute;
+  right: calc(6.29% - 85px);
+  top: 30px;
+  width: 1354px;
+}
+
+.desktop-create .group-2333-x1UpwA {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 880px;
+}
+
+.desktop-create .group-2002-KkuCYQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: calc(48.79% - 27px);
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.desktop-create .group-2002-KkuCYQ:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .group-2001-vSyqxk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 12px);
+}
+
+.desktop-create .path-24-vSyqxk {
+  background-color: transparent;
+  bottom: 4px;
+  height: 54px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 42px;
+}
+
+.desktop-create .path-25-vSyqxk {
+  background-color: transparent;
+  bottom: 9px;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 15px;
+}
+
+.desktop-create .whitepaper-KkuCYQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(23.42% - 28px);
+  text-align: center;
+  top: 28px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.desktop-create .whitepaper-KkuCYQ:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .create-KkuCYQ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: calc(26.11% - 18px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.desktop-create .create-KkuCYQ:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .news-KkuCYQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: calc(100.24% - 58px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.desktop-create .news-KkuCYQ:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .partners-KkuCYQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 0px;
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.desktop-create .partners-KkuCYQ:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .group-2310-x1UpwA {
+  background-color: transparent;
+  height: 90px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 105px;
+}
+
+.desktop-create .icon-ionic-logo-instagram-3pMzji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-create .icon-ionic-logo-instagram-3pMzji:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .path-26-0JdpGP {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-create .path-27-0JdpGP {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.62% - 1px);
+  top: calc(18.62% - 1px);
+  width: 6px;
+}
+
+.desktop-create .path-28-0JdpGP {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 11px);
+  width: 21px;
+}
+
+.desktop-create .icon-linkedin-3pMzji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-create .icon-linkedin-3pMzji:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-twitter-3pMzji {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 34px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+
+.desktop-create .icon-twitter-3pMzji:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-awesome-medium-m-3pMzji {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 34px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.desktop-create .icon-awesome-medium-m-3pMzji:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .contact-yQ4b6i {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: calc(3.23% - 3px);
+  letter-spacing: 0.39px;
+  line-height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.desktop-create .contact-yQ4b6i:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .group-2407-Hmskhv {
+  background-color: transparent;
+  height: 83px;
+  left: calc(50.00% - 514px);
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 1027px;
+}
+
+.desktop-create .icon-awesome-linkedin-in-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 8px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(38.87% - 29px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.desktop-create .icon-awesome-linkedin-in-IguAxm:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-ionic-logo-instagram-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-create .icon-ionic-logo-instagram-IguAxm:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .path-26-MqG5be {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.desktop-create .path-27-MqG5be {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.15% - 2px);
+  top: calc(18.15% - 2px);
+  width: 12px;
+}
+
+.desktop-create .path-28-MqG5be {
+  background-color: transparent;
+  bottom: calc(50.00% - 21px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 21px);
+  width: 43px;
+}
+
+.desktop-create .icon-awesome-twitter-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 10px);
+  left: calc(20.58% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-create .icon-awesome-twitter-IguAxm:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-awesome-medium-m-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 17px);
+  left: calc(40.94% - 34px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 10px;
+  transition: all 0.2s ease;
+  width: 83px;
+}
+
+.desktop-create .icon-awesome-medium-m-IguAxm:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-awesome-tumblr-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(21.51% - 10px);
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.desktop-create .icon-awesome-tumblr-IguAxm:hover {
+  transform: scale(1.1);
+}
+
+.desktop-create .icon-awesome-youtube-IguAxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 12px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.desktop-create .icon-awesome-youtube-IguAxm:hover {
+  transform: scale(1.1);
+}
+/* screen - ipad-create */
+
+.ipad-create {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1218px;
+  min-width: 999px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ipad-create .path-222-7SHCEK {
+  background-color: transparent;
+  height: 88.80%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-create .rectangle-1894-7SHCEK {
+  background-color: transparent;
+  height: 446px;
+  left: calc(41.67% - 341px);
+  overflow: hidden;
+  position: absolute;
+  top: calc(14.90% - 66px);
+  width: 819px;
+}
+
+.ipad-create .rectangle-1894-7SHCEK video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.ipad-create .rectangle-1894-7SHCEK img {
+  object-fit: cover;
+}
+
+.ipad-create .coming-soon-7SHCEK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+  height: 56px;
+  letter-spacing: 0.67px;
+  line-height: 45px;
+  position: absolute;
+  right: calc(48.91% - 152px);
+  text-align: center;
+  top: 598px;
+  white-space: nowrap;
+  width: 310px;
+}
+
+.ipad-create .group-2317-7SHCEK {
+  background-color: transparent;
+  bottom: -1px;
+  height: 197px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ipad-create .rectangle-1786-K4Hm5D {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 197px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-create .group-2315-K4Hm5D {
+  background-color: transparent;
+  height: calc(100.00% - 47px);
+  left: 32px;
+  position: absolute;
+  top: 26px;
+  width: calc(100.00% - 69px);
+}
+
+.ipad-create .group-2270-xADixm {
+  background-color: transparent;
+  height: 147px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 350px;
+}
+
+.ipad-create .the-first-blockchain-eTTane {
+  background-color: transparent;
+  height: 24.54%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 27.88%;
+  width: 100.57%;
+}
+
+.ipad-create .group-2210-eTTane {
+  background-color: transparent;
+  height: 19.97%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 34.30%;
+}
+
+.ipad-create .group-2008-i9xIxu {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}
+
+.ipad-create .group-2001-xpRZ7J {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ipad-create .path-24-xpRZ7J {
+  background-color: transparent;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.ipad-create .path-25-xpRZ7J {
+  background-color: transparent;
+  height: 6px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.ipad-create .line-46-i9xIxu {
+  background-color: transparent;
+  height: 29px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.ipad-create .soulmynt-i9xIxu {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-create .group-2269-eTTane {
+  background-color: transparent;
+  bottom: 1px;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  width: 59px;
+}
+
+.ipad-create .icon-twitter-GxTr8w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.48%;
+  left: 60.10%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 62.01%;
+  transition: all 0.2s ease;
+  width: 41.08%;
+}
+
+.ipad-create .icon-twitter-GxTr8w:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-ionic-logo-instagram-GxTr8w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46.50%;
+  left: 60.32%;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 39.68%;
+}
+
+.ipad-create .icon-ionic-logo-instagram-GxTr8w:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .path-26-I5zUuf {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.ipad-create .path-27-I5zUuf {
+  background-color: transparent;
+  height: 3px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.ipad-create .path-28-I5zUuf {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.ipad-create .icon-linkedin-GxTr8w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47.48%;
+  left: -0.42%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0.49%;
+  transition: all 0.2s ease;
+  width: 40.52%;
+}
+
+.ipad-create .icon-linkedin-GxTr8w:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-awesome-medium-m-GxTr8w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37.88%;
+  left: -0.42%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 61.36%;
+  transition: all 0.2s ease;
+  width: 40.52%;
+}
+
+.ipad-create .icon-awesome-medium-m-GxTr8w:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .group-2268-xADixm {
+  background-color: transparent;
+  height: 150px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 193px;
+}
+
+.ipad-create .whitepaper-DTS2d8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 71.99%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65.02%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 29.02%;
+}
+
+.ipad-create .whitepaper-DTS2d8:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .create-DTS2d8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 83.59%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 35.12%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 16.42%;
+}
+
+.ipad-create .create-DTS2d8:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .news-DTS2d8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 85.48%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20.17%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 14.36%;
+}
+
+.ipad-create .news-DTS2d8:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .partners-DTS2d8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10.01%;
+  left: 78.45%;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 50.07%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 21.54%;
+}
+
+.ipad-create .partners-DTS2d8:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .all-rights-reserved-to-soulmynt-inc-DTS2d8 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 87.61%;
+  width: 100.01%;
+}
+
+.ipad-create .group-2212-DTS2d8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.64%;
+  left: 91.07%;
+  position: absolute;
+  top: 0px;
+  width: 7.91%;
+}
+
+.ipad-create .group-2001-08xyx3 {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.ipad-create .path-24-08xyx3 {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.ipad-create .path-25-08xyx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.ipad-create .group-2407-7SHCEK {
+  background-color: transparent;
+  height: 61px;
+  left: calc(50.00% - 380px);
+  position: absolute;
+  top: 706px;
+  width: 760px;
+}
+
+.ipad-create .icon-linkedin-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(38.86% - 22px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.ipad-create .icon-linkedin-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-ionic-logo-instagram-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.ipad-create .icon-ionic-logo-instagram-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .path-26-zpUlEx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-create .path-27-zpUlEx {
+  background-color: transparent;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.82% - 2px);
+  top: calc(17.82% - 2px);
+  width: 10px;
+}
+
+.ipad-create .path-28-zpUlEx {
+  background-color: transparent;
+  bottom: calc(50.00% - 16px);
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 16px);
+  width: 32px;
+}
+
+.ipad-create .icon-twitter-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  left: calc(20.59% - 13px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 61px;
+}
+
+.ipad-create .icon-twitter-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-awesome-medium-m-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 12px);
+  left: calc(40.93% - 25px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.ipad-create .icon-awesome-medium-m-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-awesome-tumblr-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(21.49% - 8px);
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.ipad-create .icon-awesome-tumblr-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-awesome-youtube-6hiRxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 9px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 74px;
+}
+
+.ipad-create .icon-awesome-youtube-6hiRxe:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .group-22531-7SHCEK {
+  background-color: transparent;
+  bottom: calc(100.00% - 100px);
+  height: 100px;
+  left: calc(50.00% - 500px);
+  position: absolute;
+  width: 999px;
+}
+
+.ipad-create .group-2309-8sG25k {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  position: absolute;
+  right: calc(8.98% - 66px);
+  top: 23px;
+  width: 740px;
+}
+
+.ipad-create .group-2252-py7NyP {
+  background-color: transparent;
+  height: calc(100.00% - 11px);
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 542px;
+}
+
+.ipad-create .group-2002-JIIRxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: calc(49.25% - 17px);
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.ipad-create .group-2001-hsWZKs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 8px);
+}
+
+.ipad-create .path-24-hsWZKs {
+  background-color: transparent;
+  bottom: 3px;
+  height: 33px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+
+.ipad-create .path-25-hsWZKs {
+  background-color: transparent;
+  bottom: 5px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+
+.ipad-create .whitepaper-JIIRxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(24.03% - 16px);
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.ipad-create .whitepaper-JIIRxT:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .create-JIIRxT {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(26.14% - 10px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.ipad-create .create-JIIRxT:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .news-JIIRxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(100.39% - 32px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.ipad-create .news-JIIRxT:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .partners-JIIRxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.ipad-create .partners-JIIRxT:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .group-2245-py7NyP {
+  background-color: transparent;
+  height: 56px;
+  left: calc(100.00% - 65px);
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+
+.ipad-create .icon-ionic-logo-instagram-3Of0lq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-create .icon-ionic-logo-instagram-3Of0lq:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .path-26-eyTht2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-create .path-27-eyTht2 {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.35% - 1px);
+  top: calc(18.35% - 1px);
+  width: 4px;
+}
+
+.ipad-create .path-28-eyTht2 {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  width: 13px;
+}
+
+.ipad-create .icon-linkedin-3Of0lq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-create .icon-linkedin-3Of0lq:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-twitter-3Of0lq {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 21px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 27px;
+}
+
+.ipad-create .icon-twitter-3Of0lq:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .icon-awesome-medium-m-3Of0lq {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 26px;
+}
+
+.ipad-create .icon-awesome-medium-m-3Of0lq:hover {
+  transform: scale(1.1);
+}
+
+.ipad-create .contact-8sG25k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: calc(4.64% - 2px);
+  letter-spacing: 0.21px;
+  line-height: 14px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.ipad-create .contact-8sG25k:hover {
+  transform: scale(1.1);
+}
+/* screen - mobile-create */
+
+.mobile-create {
+  background-color: var(--gray-nurse);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1170px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-create .path-222-DdxU7x {
+  background-color: transparent;
+  height: 90.57%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-create .icon-ionic-ios-menu-DdxU7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  position: absolute;
+  right: 15px;
+  top: 30px;
+  width: 27px;
+}
+
+.mobile-create .path-228-shlCvp {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-create .path-229-shlCvp {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 100%;
+}
+
+.mobile-create .path-230-shlCvp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.mobile-create .rectangle-1894-DdxU7x {
+  background-color: transparent;
+  height: 315px;
+  left: -123px;
+  overflow: hidden;
+  position: absolute;
+  top: calc(24.21% - 76px);
+  width: calc(100.00% + 203px);
+}
+
+.mobile-create .rectangle-1894-DdxU7x video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.mobile-create .rectangle-1894-DdxU7x img {
+  object-fit: cover;
+}
+
+.mobile-create .coming-soon-DdxU7x {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 500;
+  height: 44px;
+  letter-spacing: 0.53px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: center;
+  top: 568px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.mobile-create .group-2407-DdxU7x {
+  background-color: transparent;
+  height: 106px;
+  left: calc(50.00% - 112px);
+  position: absolute;
+  top: 673px;
+  width: 224px;
+}
+
+.mobile-create .icon-linkedin-3Io7H8 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 37px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.mobile-create .icon-linkedin-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .icon-ionic-logo-instagram-3Io7H8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 38px;
+}
+
+.mobile-create .icon-ionic-logo-instagram-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .path-26-5shz7m {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.mobile-create .path-27-5shz7m {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.07% - 1px);
+  top: calc(17.07% - 1px);
+  width: 7px;
+}
+
+.mobile-create .path-28-5shz7m {
+  background-color: transparent;
+  bottom: calc(50.00% - 11px);
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 11px);
+  width: 21px;
+}
+
+.mobile-create .icon-twitter-3Io7H8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: calc(49.50% - 20px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.mobile-create .icon-twitter-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .icon-awesome-medium-m-3Io7H8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.mobile-create .icon-awesome-medium-m-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .icon-awesome-tumblr-3Io7H8 {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 37px;
+  left: calc(47.46% - 11px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 23px;
+}
+
+.mobile-create .icon-awesome-tumblr-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .icon-youtube-3Io7H8 {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 34px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.mobile-create .icon-youtube-3Io7H8:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .contact-DdxU7x {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: calc(8.41% - 5px);
+  letter-spacing: 0.22px;
+  line-height: 15px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.mobile-create .contact-DdxU7x:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create .rectangle-1786-DdxU7x {
+  background-color: var(--white);
+  border-radius: 6px;
+  bottom: 0px;
+  height: 232px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.mobile-create .group-2510-DdxU7x {
+  background-color: transparent;
+  bottom: 23px;
+  height: 185px;
+  left: calc(50.00% - 146px);
+  position: absolute;
+  width: 292px;
+}
+
+.mobile-create .group-2008-nbXcWi {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 23px;
+}
+
+.mobile-create .group-2001-6VdvTJ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.mobile-create .path-24-6VdvTJ {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.mobile-create .path-25-6VdvTJ {
+  background-color: transparent;
+  bottom: 4px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 6px;
+}
+
+.mobile-create .the-first-blockchain-nbXcWi {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.mobile-create .line-46-nbXcWi {
+  background-color: transparent;
+  height: 42px;
+  left: 12.97%;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.mobile-create .soulmynt-nbXcWi {
+  background-color: transparent;
+  display: block;
+  height: 36px;
+  left: calc(30.28% - 36px);
+  letter-spacing: 0.43px;
+  line-height: 29px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: 120px;
+}
+
+.mobile-create .soulmynt-nbXcWi.bp5-animate-enter30 {
+  animation: bp5-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes bp5-animate-enter30-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.mobile-create .group-2173-nbXcWi {
+  background-color: transparent;
+  height: 33px;
+  position: absolute;
+  right: calc(100.00% - 255px);
+  top: 116px;
+  width: 255px;
+}
+
+.mobile-create .icon-ionic-logo-instagram-FmtcSL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 33px;
+}
+
+.mobile-create .path-26-xNrmxx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile-create .path-27-xNrmxx {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.72% - 1px);
+  top: calc(18.72% - 1px);
+  width: 4px;
+}
+
+.mobile-create .path-28-xNrmxx {
+  background-color: transparent;
+  height: calc(100.00% - 16px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 8px);
+  top: 8px;
+  width: 17px;
+}
+
+.mobile-create .icon-linkedin-FmtcSL {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 31px;
+}
+
+.mobile-create .icon-twitter-FmtcSL {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  left: calc(33.32% - 12px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 35px;
+}
+
+.mobile-create .icon-awesome-medium-m-FmtcSL {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.53% - 11px);
+  top: 3px;
+  width: 35px;
+}
+
+.mobile-create .all-rights-reserved-to-soulmynt-inc-nbXcWi {
+  background-color: transparent;
+  height: 19px;
+  left: calc(0.65% - 1px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 169px;
+  white-space: nowrap;
+  width: 216px;
+}
+/* screen - web-1366-create-all-breakpoints */
+
+.web-1366-create-all-breakpoints {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1472px;
+  min-width: 1366px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.web-1366-create-all-breakpoints .path-222-QxetRJ {
+  background-color: transparent;
+  height: 84.45%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0.34%;
+  width: 100%;
+}
+
+.web-1366-create-all-breakpoints .rectangle-1894-QxetRJ {
+  background-color: transparent;
+  bottom: calc(104.47% - 697px);
+  height: 667px;
+  left: calc(44.03% - 539px);
+  overflow: hidden;
+  position: absolute;
+  width: 1225px;
+}
+
+.web-1366-create-all-breakpoints .rectangle-1894-QxetRJ video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.web-1366-create-all-breakpoints .rectangle-1894-QxetRJ img {
+  object-fit: cover;
+}
+
+.web-1366-create-all-breakpoints .coming-soon-QxetRJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 500;
+  height: 67px;
+  letter-spacing: 0.82px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 189px);
+  text-align: center;
+  top: 571px;
+  white-space: nowrap;
+  width: 378px;
+}
+
+.web-1366-create-all-breakpoints .group-2407-QxetRJ {
+  background-color: transparent;
+  height: 83px;
+  left: 169px;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: calc(100.00% - 339px);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-linkedin-in-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 8px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(38.87% - 29px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-linkedin-in-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .path-26-M5ADcx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.web-1366-create-all-breakpoints .path-27-M5ADcx {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.15% - 2px);
+  top: calc(18.15% - 2px);
+  width: 12px;
+}
+
+.web-1366-create-all-breakpoints .path-28-M5ADcx {
+  background-color: transparent;
+  bottom: calc(50.00% - 21px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 21px);
+  width: 43px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-twitter-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 10px);
+  left: calc(20.58% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-twitter-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 17px);
+  left: calc(40.94% - 34px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 10px;
+  transition: all 0.2s ease;
+  width: 83px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-tumblr-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(21.51% - 10px);
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-tumblr-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-youtube-JjxyQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 12px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-youtube-JjxyQS:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .group-2253-QxetRJ {
+  background-color: transparent;
+  height: 125px;
+  left: calc(50.00% - 683px);
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.web-1366-create-all-breakpoints .group-2309-Atq6FO {
+  background-color: transparent;
+  height: calc(100.00% - 55px);
+  position: absolute;
+  right: calc(7.96% - 79px);
+  top: 30px;
+  width: 989px;
+}
+
+.web-1366-create-all-breakpoints .group-2252-MeuBfy {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 675px;
+}
+
+.web-1366-create-all-breakpoints .group-2002-jouCzq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 65px;
+  left: calc(49.20% - 21px);
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+
+.web-1366-create-all-breakpoints .group-2002-jouCzq:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .group-2001-pv6fPK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 9px);
+}
+
+.web-1366-create-all-breakpoints .path-24-pv6fPK {
+  background-color: transparent;
+  bottom: 3px;
+  height: 42px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 33px;
+}
+
+.web-1366-create-all-breakpoints .path-25-pv6fPK {
+  background-color: transparent;
+  bottom: 7px;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 12px;
+}
+
+.web-1366-create-all-breakpoints .whitepaper-jouCzq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(23.88% - 20px);
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.web-1366-create-all-breakpoints .whitepaper-jouCzq:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .create-jouCzq {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 100;
+  height: 23px;
+  left: calc(26.23% - 13px);
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.web-1366-create-all-breakpoints .create-jouCzq:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .news-jouCzq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: calc(100.31% - 40px);
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.web-1366-create-all-breakpoints .news-jouCzq:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .partners-jouCzq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.web-1366-create-all-breakpoints .partners-jouCzq:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .group-2245-MeuBfy {
+  background-color: transparent;
+  height: 70px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 82px;
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-VG1AxZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  pointer-events: auto;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 32px;
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-VG1AxZ:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .path-26-hB4uI2 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1366-create-all-breakpoints .path-27-hB4uI2 {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.49% - 1px);
+  top: calc(18.49% - 1px);
+  width: 5px;
+}
+
+.web-1366-create-all-breakpoints .path-28-hB4uI2 {
+  background-color: transparent;
+  bottom: calc(50.00% - 8px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 8px);
+  width: 17px;
+}
+
+.web-1366-create-all-breakpoints .icon-linkedin-VG1AxZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-create-all-breakpoints .icon-linkedin-VG1AxZ:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-twitter-VG1AxZ {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-create-all-breakpoints .icon-twitter-VG1AxZ:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-VG1AxZ {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-VG1AxZ:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .contact-Atq6FO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: calc(4.95% - 3px);
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.web-1366-create-all-breakpoints .contact-Atq6FO:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .rectangle-1786-QxetRJ {
+  background-color: var(--white);
+  border-radius: 28px 28px 0px 0px;
+  height: 269px;
+  left: 0px;
+  position: absolute;
+  top: 1203px;
+  width: 100%;
+}
+
+.web-1366-create-all-breakpoints .group-2315-QxetRJ {
+  background-color: transparent;
+  bottom: 29px;
+  height: 205px;
+  left: 44px;
+  position: absolute;
+  width: calc(100.00% - 95px);
+}
+
+.web-1366-create-all-breakpoints .group-2270-0pykOd {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 479px;
+}
+
+.web-1366-create-all-breakpoints .the-first-blockchain-qODjXz {
+  background-color: transparent;
+  height: 17.95%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 27.88%;
+  width: 100.42%;
+}
+
+.web-1366-create-all-breakpoints .group-2210-qODjXz {
+  background-color: transparent;
+  height: 19.97%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 37.61%;
+}
+
+.web-1366-create-all-breakpoints .group-2008-FNhFCi {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+
+.web-1366-create-all-breakpoints .group-2001-Kgfju4 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 16px;
+}
+
+.web-1366-create-all-breakpoints .path-24-Kgfju4 {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+
+.web-1366-create-all-breakpoints .path-25-Kgfju4 {
+  background-color: transparent;
+  height: 9px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 5px;
+}
+
+.web-1366-create-all-breakpoints .line-46-FNhFCi {
+  background-color: transparent;
+  height: 40px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.web-1366-create-all-breakpoints .soulmynt-FNhFCi {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1366-create-all-breakpoints .group-2269-qODjXz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.web-1366-create-all-breakpoints .icon-twitter-OcH1DL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.21%;
+  left: 60.16%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 62.15%;
+  transition: all 0.2s ease;
+  width: 40.70%;
+}
+
+.web-1366-create-all-breakpoints .icon-twitter-OcH1DL:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-OcH1DL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46.50%;
+  left: 60.32%;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 39.68%;
+}
+
+.web-1366-create-all-breakpoints .icon-ionic-logo-instagram-OcH1DL:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .path-26-21VfdA {
+  background-color: transparent;
+  height: 33px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 33px;
+}
+
+.web-1366-create-all-breakpoints .path-27-21VfdA {
+  background-color: transparent;
+  height: 5px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.web-1366-create-all-breakpoints .path-28-21VfdA {
+  background-color: transparent;
+  height: 17px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.web-1366-create-all-breakpoints .icon-linkedin-OcH1DL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47.21%;
+  left: -0.31%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0.36%;
+  transition: all 0.2s ease;
+  width: 40.29%;
+}
+
+.web-1366-create-all-breakpoints .icon-linkedin-OcH1DL:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-OcH1DL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37.61%;
+  left: -0.31%;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 61.49%;
+  transition: all 0.2s ease;
+  width: 40.29%;
+}
+
+.web-1366-create-all-breakpoints .icon-awesome-medium-m-OcH1DL:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .group-2268-0pykOd {
+  background-color: transparent;
+  height: 205px;
+  left: calc(100.00% - 264px);
+  position: absolute;
+  top: 0px;
+  width: 264px;
+}
+
+.web-1366-create-all-breakpoints .whitepaper-2oxeBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 66.81%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65.18%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 33.36%;
+}
+
+.web-1366-create-all-breakpoints .whitepaper-2oxeBC:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .create-2oxeBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 81.19%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 35.28%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 18.92%;
+}
+
+.web-1366-create-all-breakpoints .create-2oxeBC:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .news-2oxeBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 83.90%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20.33%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 15.88%;
+}
+
+.web-1366-create-all-breakpoints .news-2oxeBC:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .partners-2oxeBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11.23%;
+  left: 74.89%;
+  letter-spacing: 0.28px;
+  line-height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 50.23%;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 24.95%;
+}
+
+.web-1366-create-all-breakpoints .partners-2oxeBC:hover {
+  transform: scale(1.1);
+}
+
+.web-1366-create-all-breakpoints .all-rights-reserved-to-soulmynt-inc-2oxeBC {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 87.61%;
+  width: 100.47%;
+}
+
+.web-1366-create-all-breakpoints .group-2212-2oxeBC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.64%;
+  left: 91.32%;
+  position: absolute;
+  top: 0px;
+  width: 7.93%;
+}
+
+.web-1366-create-all-breakpoints .group-2001-xYxRXO {
+  background-color: transparent;
+  height: 32px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.web-1366-create-all-breakpoints .path-24-xYxRXO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.web-1366-create-all-breakpoints .path-25-xYxRXO {
+  background-color: transparent;
+  height: 9px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 6px;
+}
+@media screen and (max-width: 649px) {
+  .screen.desktop-create { 
+    display: none;
+   }
+  .screen.web-1366-create-all-breakpoints { 
+    display: none;
+   }
+  .screen.ipad-create { 
+    display: none;
+   }
+  .screen.x650-create { 
+    display: none;
+   }
+}
+@media screen and (min-width: 650px) and (max-width: 998px) {
+  .screen.desktop-create { 
+    display: none;
+   }
+  .screen.web-1366-create-all-breakpoints { 
+    display: none;
+   }
+  .screen.ipad-create { 
+    display: none;
+   }
+  .screen.mobile-create { 
+    display: none;
+   }
+}
+@media screen and (min-width: 999px) and (max-width: 1365px) {
+  .screen.desktop-create { 
+    display: none;
+   }
+  .screen.web-1366-create-all-breakpoints { 
+    display: none;
+   }
+  .screen.x650-create { 
+    display: none;
+   }
+  .screen.mobile-create { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1366px) and (max-width: 1919px) {
+  .screen.desktop-create { 
+    display: none;
+   }
+  .screen.ipad-create { 
+    display: none;
+   }
+  .screen.x650-create { 
+    display: none;
+   }
+  .screen.mobile-create { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.web-1366-create-all-breakpoints { 
+    display: none;
+   }
+  .screen.ipad-create { 
+    display: none;
+   }
+  .screen.x650-create { 
+    display: none;
+   }
+  .screen.mobile-create { 
+    display: none;
+   }
+}

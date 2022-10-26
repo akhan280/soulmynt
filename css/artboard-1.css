@@ -1,0 +1,2361 @@
+/* screen - artboard-1 */
+
+.artboard-1 {
+  background-color: var(--gray-nurse);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4057px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.artboard-1 .group-2307-XSArT0 {
+  background-color: transparent;
+  height: 452px;
+  left: -241px;
+  position: absolute;
+  top: 152px;
+  width: calc(100.00% + 426px);
+}
+
+.artboard-1 .group-2306-eauJ6Y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-1 .path-207-JiMBeX {
+  background-color: transparent;
+  height: 452px;
+  left: calc(50.00% - 538px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1076px;
+}
+
+.artboard-1 .icon-ionic-ios-menu-XSArT0 {
+  background-color: transparent;
+  height: 33px;
+  position: absolute;
+  right: 31px;
+  top: 40px;
+  width: 43px;
+}
+
+.artboard-1 .path-228-CvCxxe {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-1 .path-229-CvCxxe {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.artboard-1 .path-230-CvCxxe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.artboard-1 .group-2228-XSArT0 {
+  background-color: transparent;
+  bottom: 3780px;
+  cursor: pointer;
+  height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(50.00% - 194px);
+  transition: all 0.2s ease;
+  width: 388px;
+}
+
+.artboard-1 .group-2228-XSArT0:hover {
+  transform: scale(1.1);
+}
+
+.artboard-1 .rectangle-1837-U0A5aK {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-1 .introducing-soulmynt-U0A5aK {
+  background-color: transparent;
+  height: 22px;
+  left: calc(8.43% - 14px);
+  letter-spacing: 0.26px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.artboard-1 .read-our-whitepaper-U0A5aK {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.26px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(9.52% - 15px);
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.artboard-1 .line-53-U0A5aK {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 6px;
+  width: 1px;
+}
+
+.artboard-1 .group-2207-XSArT0 {
+  background-color: transparent;
+  height: 113px;
+  left: calc(39.86% - 230px);
+  position: absolute;
+  top: 321px;
+  width: 576px;
+}
+
+.artboard-1 .group-2201-QJn6Oa {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  right: 0px;
+  top: 8px;
+  width: 271px;
+}
+
+.artboard-1 .path-17-unp62J {
+  background-color: transparent;
+  height: 36px;
+  left: calc(50.00% - 136px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 271px;
+}
+
+.artboard-1 .rectangle-1757-unp62J {
+  background-color: var(--rose-quartz-2);
+  border: 1px solid;
+  border-color: var(--rose-quartz);
+  border-radius: 12px 12px 0px 0px;
+  height: 4px;
+  position: absolute;
+  right: calc(26.35% - 2px);
+  top: calc(19.23% - 1px);
+  width: 9px;
+}
+
+.artboard-1 .ellipse-394-unp62J {
+  background-color: var(--rose-quartz-3);
+  border: 1px solid;
+  border-color: var(--rose-quartz);
+  border-radius: 2.59px;
+  height: 5px;
+  position: absolute;
+  right: calc(26.68% - 1px);
+  top: 0px;
+  width: 5px;
+}
+
+.artboard-1 .path-18-QJn6Oa {
+  background-color: transparent;
+  height: 40px;
+  left: calc(22.05% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 39px;
+}
+
+.artboard-1 .group-2203-QJn6Oa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.artboard-1 .issue-verify-on-the-qTKkSy {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  letter-spacing: 0.64px;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 548px;
+}
+
+.artboard-1 .blockchain-qTKkSy {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 900;
+  height: 52px;
+  letter-spacing: 0.63px;
+  line-height: 42px;
+  position: absolute;
+  right: calc(14.53% - 33px);
+  text-align: center;
+  top: 57px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.artboard-1 .rectangle-1755-qTKkSy {
+  background: linear-gradient(89.7deg, #f0b730 -3.52%, #c53abe 101.54%);
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  position: absolute;
+  right: 22px;
+  transform: rotate(1.00deg);
+  width: 269px;
+}
+
+.artboard-1 .rectangle-1756-qTKkSy {
+  background: linear-gradient(89.7deg, #f0b730 -3.52%, #c53abe 101.54%);
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  position: absolute;
+  right: 22px;
+  transform: rotate(-1.00deg);
+  width: 269px;
+}
+
+.artboard-1 .path-220-qTKkSy {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 22px;
+  width: 268px;
+}
+
+.artboard-1 .group-2145-XSArT0 {
+  background-color: transparent;
+  height: 0.89%;
+  left: 5.08%;
+  position: absolute;
+  top: 19.01%;
+  width: 90.62%;
+}
+
+.artboard-1 .show-off-your-with-your-wallet-6sxUMf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .path-31-6sxUMf {
+  background-color: transparent;
+  height: 22px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 151px;
+}
+
+.artboard-1 .group-2142-XSArT0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 0.54%;
+  left: 41.69%;
+  position: absolute;
+  top: 21.84%;
+  width: 20.15%;
+}
+
+.artboard-1 .learn-more-KBIu3c {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 133px;
+}
+
+.artboard-1 .icon-material-open-in-new-KBIu3c {
+  background-color: transparent;
+  height: 16px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.artboard-1 .share-credentials-an-XSArT0 {
+  background-color: transparent;
+  height: 0.59%;
+  left: 0.77%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 17.94%;
+  width: 99.54%;
+}
+
+.artboard-1 .say-goodbye-to-month-XSArT0 {
+  background-color: transparent;
+  height: 1.04%;
+  left: 12.46%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 20.37%;
+  width: 78.92%;
+}
+
+.artboard-1 .path-210-XSArT0 {
+  background-color: transparent;
+  height: 296px;
+  left: -121px;
+  object-fit: cover;
+  position: absolute;
+  top: 1264px;
+  width: calc(100.00% + 242px);
+}
+
+.artboard-1 .group-2336-XSArT0 {
+  background-color: transparent;
+  height: 7.59%;
+  left: 20.99%;
+  position: absolute;
+  top: 24.10%;
+  width: 58.01%;
+}
+
+.artboard-1 .rectangle-1883-H9xmGK {
+  background: linear-gradient(154.01deg, #f2bb2d 14.74%, #c334c4 130.65%);
+  background-color: transparent;
+  border-radius: 29px;
+  height: 257px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 221px;
+}
+
+.artboard-1 .group-2384-H9xmGK {
+  background-color: transparent;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+
+.artboard-1 .rectangle-1881-swxAXv {
+  background-color: var(--black-haze);
+  border-radius: 5px;
+  height: 87px;
+  left: 137px;
+  position: absolute;
+  top: 221px;
+  width: 214px;
+}
+
+.artboard-1 .rectangle-1882-swxAXv {
+  background-color: var(--black-haze);
+  border-radius: 5px;
+  height: 87px;
+  left: 163px;
+  position: absolute;
+  top: 111px;
+  width: 214px;
+}
+
+.artboard-1 .rectangle-1884-swxAXv {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  background-color: transparent;
+  border-radius: 33px;
+  height: 270px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+
+.artboard-1 .rectangle-1885-swxAXv {
+  background-color: var(--black-rock);
+  border-radius: 15px;
+  height: 255px;
+  left: 11px;
+  position: absolute;
+  top: 14px;
+  width: 214px;
+}
+
+.artboard-1 .rectangle-1886-swxAXv {
+  background-color: var(--silver);
+  border-radius: 13px;
+  height: 15px;
+  left: 244px;
+  opacity: 0.62;
+  position: absolute;
+  top: 231px;
+  width: 96px;
+}
+
+.artboard-1 .rectangle-1887-swxAXv {
+  background-color: var(--silver);
+  border-radius: 14px;
+  height: 16px;
+  left: 155px;
+  opacity: 0.62;
+  position: absolute;
+  top: 280px;
+  width: 184px;
+}
+
+.artboard-1 .rectangle-1888-swxAXv {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 166px;
+  left: 22px;
+  opacity: 0.88;
+  position: absolute;
+  top: 27px;
+  width: 192px;
+}
+
+.artboard-1 .image-12-swxAXv {
+  background-color: transparent;
+  height: 121px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 121px;
+}
+
+.artboard-1 .names-degree-swxAXv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.07px;
+  line-height: 5px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .names-degree-swxAXv.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .bs-computer-science2024-swxAXv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.07px;
+  line-height: 5px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 230px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .bs-computer-science2024-swxAXv.animate-enter1 {
+  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-university-of-michigan-swxAXv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.09px;
+  line-height: 6px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 201px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-swxAXv.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .rectangle-1889-swxAXv {
+  background-color: var(--silver);
+  border-radius: 13px;
+  height: 15px;
+  left: 244px;
+  opacity: 0.62;
+  position: absolute;
+  top: 121px;
+  width: 122px;
+}
+
+.artboard-1 .rectangle-1890-swxAXv {
+  background-color: var(--silver);
+  border-radius: 14px;
+  height: 16px;
+  left: 280px;
+  opacity: 0.62;
+  position: absolute;
+  top: 145px;
+  width: 86px;
+}
+
+.artboard-1 .rectangle-1891-swxAXv {
+  background-color: var(--silver);
+  border-radius: 14px;
+  height: 16px;
+  left: 254px;
+  opacity: 0.62;
+  position: absolute;
+  top: 255px;
+  width: 86px;
+}
+
+.artboard-1 .image-13-swxAXv {
+  background-color: transparent;
+  height: 7px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 201px;
+  width: 7px;
+}
+
+.artboard-1 .making-it-easy-for-a-XSArT0 {
+  background-color: transparent;
+  height: 0.59%;
+  left: 0.62%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 38.14%;
+  width: 99.08%;
+}
+
+.artboard-1 .group-2144-XSArT0 {
+  background-color: transparent;
+  height: 0.89%;
+  left: 30.69%;
+  position: absolute;
+  top: 39.16%;
+  width: 38.59%;
+}
+
+.artboard-1 .create-with-7Wtnpy {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .path-211-7Wtnpy {
+  background-color: transparent;
+  height: 19px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 77px;
+}
+
+.artboard-1 .say-goodbye-to-month-GK9LGt {
+  background-color: transparent;
+  height: 1.04%;
+  left: 5.08%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 40.80%;
+  width: 90.92%;
+}
+
+.artboard-1 .group-2146-XSArT0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 0.54%;
+  left: 40.08%;
+  position: absolute;
+  top: 42.20%;
+  width: 19.85%;
+}
+
+.artboard-1 .our-mission-8IoRq7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 131px;
+}
+
+.artboard-1 .icon-material-open-in-new-8IoRq7 {
+  background-color: transparent;
+  height: 16px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.artboard-1 .group-2387-XSArT0 {
+  background-color: transparent;
+  height: 373px;
+  position: absolute;
+  right: calc(49.19% - 168px);
+  top: calc(48.07% - 179px);
+  width: 342px;
+}
+
+.artboard-1 .group-2147-2K3MyE {
+  background-color: transparent;
+  height: 82.45%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75.44%;
+}
+
+.artboard-1 .rectangle-1778-Br3kSv {
+  background-color: var(--black-rock);
+  border-radius: 15px;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.artboard-1 .rectangle-1779-Br3kSv {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .image-12-Br3kSv {
+  background-color: transparent;
+  height: 145px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 145px;
+}
+
+.artboard-1 .names-degree-Br3kSv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 239px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .names-degree-Br3kSv.animate-enter3 {
+  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .bs-computer-science2024-Br3kSv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .bs-computer-science2024-Br3kSv.animate-enter4 {
+  animation: animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-university-of-michigan-Br3kSv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-Br3kSv.animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .rectangle-1782-Br3kSv {
+  background-color: var(--fuchsia-pink-2);
+  border-radius: 15px;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.artboard-1 .rectangle-1783-Br3kSv {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .image-12-Ozz7gz {
+  background-color: transparent;
+  height: 145px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 145px;
+}
+
+.artboard-1 .this-isnt-even-Br3kSv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 239px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .this-isnt-even-Br3kSv.animate-enter6 {
+  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .random-Br3kSv {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .random-Br3kSv.animate-enter7 {
+  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-university-of-michigan-Ozz7gz {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-Ozz7gz.animate-enter8 {
+  animation: animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .group-2148-2K3MyE {
+  background-color: transparent;
+  height: 82.45%;
+  left: 9.37%;
+  position: absolute;
+  top: 6.58%;
+  width: 75.44%;
+}
+
+.artboard-1 .rectangle-1778-4Xbi4L {
+  background-color: var(--new-york-pink);
+  border-radius: 15px;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.artboard-1 .rectangle-1779-4Xbi4L {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .image-12-4Xbi4L {
+  background-color: transparent;
+  height: 145px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 145px;
+}
+
+.artboard-1 .kanye-west-4Xbi4L {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 239px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .kanye-west-4Xbi4L.animate-enter9 {
+  animation: animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .album-4Xbi4L {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .album-4Xbi4L.animate-enter10 {
+  animation: animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter10-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-university-of-michigan-4Xbi4L {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-4Xbi4L.animate-enter11 {
+  animation: animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter11-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .rectangle-1783-4Xbi4L {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .image-12-MceFhm {
+  background-color: transparent;
+  height: 145px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 145px;
+}
+
+.artboard-1 .issued-by-university-of-michigan-MceFhm {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-MceFhm.animate-enter12 {
+  animation: animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter12-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .group-2149-2K3MyE {
+  background-color: transparent;
+  height: 82.45%;
+  left: 18.95%;
+  position: absolute;
+  top: 14.73%;
+  width: 75.44%;
+}
+
+.artboard-1 .rectangle-1778-HjW9C9 {
+  background-color: var(--black-rock);
+  border-radius: 15px;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.artboard-1 .rectangle-1779-HjW9C9 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .image-12-HjW9C9 {
+  background-color: transparent;
+  height: 145px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 145px;
+}
+
+.artboard-1 .names-degree-HjW9C9 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 239px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .names-degree-HjW9C9.animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter13-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .bs-computer-science2024-HjW9C9 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 8px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .bs-computer-science2024-HjW9C9.animate-enter14 {
+  animation: animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-university-of-michigan-HjW9C9 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-university-of-michigan-HjW9C9.animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .rectangle-1782-HjW9C9 {
+  background-color: var(--carrot-orange);
+  border-radius: 15px;
+  height: 308px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.artboard-1 .rectangle-1783-HjW9C9 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 201px;
+  left: 13px;
+  opacity: 0.88;
+  position: absolute;
+  top: 15px;
+  width: 232px;
+}
+
+.artboard-1 .software-developer-intern-HjW9C9 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.18px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 238px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .software-developer-intern-HjW9C9.animate-enter16 {
+  animation: animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter16-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .june-2022-august-2022-HjW9C9 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.10px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .june-2022-august-2022-HjW9C9.animate-enter17 {
+  animation: animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter17-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .issued-by-metamask-HjW9C9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 4px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 223px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .issued-by-metamask-HjW9C9.animate-enter18 {
+  animation: animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter18-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .image-14-HjW9C9 {
+  background-color: transparent;
+  height: 165px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 165px;
+}
+
+.artboard-1 .c-HjW9C9 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.03px;
+  line-height: 6px;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .python-HjW9C9 {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.03px;
+  line-height: 6px;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .project-management-HjW9C9 {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.03px;
+  line-height: 6px;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .ellipse-395-HjW9C9 {
+  background-color: var(--white);
+  border-radius: 1.36px;
+  height: 3px;
+  left: 32px;
+  position: absolute;
+  top: 288px;
+  width: 3px;
+}
+
+.artboard-1 .ellipse-397-HjW9C9 {
+  background-color: var(--white);
+  border-radius: 1.36px;
+  height: 3px;
+  left: 73px;
+  position: absolute;
+  top: 288px;
+  width: 3px;
+}
+
+.artboard-1 .view-description-HjW9C9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-46light_italic);
+  font-size: 4px;
+  font-style: italic;
+  font-weight: 300;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.06px;
+  line-height: 4px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .view-description-HjW9C9.animate-enter19 {
+  animation: animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter19-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .group-2385-2K3MyE {
+  background-color: transparent;
+  bottom: 1px;
+  height: 65px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.artboard-1 .rectangle-1892-Kqw4Zm {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-1 .ellipse-420-Kqw4Zm {
+  background-color: var(--gray-nurse-2);
+  border-radius: 25.82px/24.73px;
+  height: 75.56%;
+  left: 11.11%;
+  position: absolute;
+  top: 12.22%;
+  width: 78.89%;
+}
+
+.artboard-1 .icon-ionic-md-create-Kqw4Zm {
+  background-color: transparent;
+  height: 30.00%;
+  left: 36.67%;
+  object-fit: cover;
+  position: absolute;
+  top: 35.56%;
+  width: 30.00%;
+}
+
+.artboard-1 .rectangle-1785-XSArT0 {
+  background: linear-gradient(121.42deg, #ffbf53 -19.13%, #c63ec7 78.77%);
+  background-color: transparent;
+  height: 20.36%;
+  left: 0px;
+  position: absolute;
+  top: 74.81%;
+  width: 100%;
+}
+
+.artboard-1 .group-2291-XSArT0 {
+  background-color: transparent;
+  height: 159px;
+  left: calc(50.00% - 229px);
+  position: absolute;
+  top: 3156px;
+  width: 458px;
+}
+
+.artboard-1 .join-our-community-1bD50p {
+  background-color: transparent;
+  height: 51px;
+  left: 39px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(29.23% - 15px);
+  white-space: nowrap;
+  width: calc(100.00% - 70px);
+}
+
+.artboard-1 .promote-your-busines-1bD50p {
+  background-color: transparent;
+  bottom: calc(29.79% - 10px);
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 32px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.68;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 5px);
+}
+
+.artboard-1 .a-hub-for-entreprene-1bD50p {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.artboard-1 .group-2218-1bD50p {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 20px;
+  left: calc(47.81% - 45px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 95px;
+}
+
+.artboard-1 .group-2218-1bD50p:hover {
+  transform: scale(1.1);
+}
+
+.artboard-1 .roadmap-FRzoDd {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 6px);
+}
+
+.artboard-1 .icon-material-open-in-new-FRzoDd {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.artboard-1 .group-2290-XSArT0 {
+  background-color: transparent;
+  height: 306px;
+  position: absolute;
+  right: -0.85%;
+  top: 3372px;
+  width: 661px;
+}
+
+.artboard-1 .line-29-3lmV80 {
+  background-color: transparent;
+  bottom: calc(42.03% - 32px);
+  height: 76px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  width: 82px;
+}
+
+.artboard-1 .line-30-3lmV80 {
+  background-color: transparent;
+  height: 134px;
+  left: calc(33.71% - 48px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.81% - 43px);
+  width: 143px;
+}
+
+.artboard-1 .line-31-3lmV80 {
+  background-color: transparent;
+  height: 27px;
+  left: calc(38.31% - 43px);
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 113px;
+}
+
+.artboard-1 .line-32-3lmV80 {
+  background-color: transparent;
+  height: 64px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(27.56% - 18px);
+  width: 123px;
+}
+
+.artboard-1 .mask-group-17-3lmV80 {
+  background-color: transparent;
+  bottom: calc(31.69% - 23px);
+  height: 73px;
+  left: calc(18.77% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 73px;
+}
+
+.artboard-1 .line-33-3lmV80 {
+  background-color: transparent;
+  bottom: calc(27.05% - 27px);
+  height: 100px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.16% - 26px);
+  width: 62px;
+}
+
+.artboard-1 .line-34-3lmV80 {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 58px;
+  top: calc(35.33% - 8px);
+  width: 156px;
+}
+
+.artboard-1 .line-35-3lmV80 {
+  background-color: transparent;
+  height: 58px;
+  object-fit: cover;
+  position: absolute;
+  right: 37px;
+  top: calc(46.48% - 27px);
+  width: 76px;
+}
+
+.artboard-1 .line-36-3lmV80 {
+  background-color: transparent;
+  bottom: 41px;
+  height: 62px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.85% - 45px);
+  width: 157px;
+}
+
+.artboard-1 .mask-group-18-3lmV80 {
+  background-color: transparent;
+  height: 80px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.60% - 28px);
+  top: calc(42.46% - 34px);
+  width: 80px;
+}
+
+.artboard-1 .line-37-3lmV80 {
+  background-color: transparent;
+  height: 63px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.46% - 24px);
+  top: calc(23.67% - 15px);
+  width: 58px;
+}
+
+.artboard-1 .line-38-3lmV80 {
+  background-color: transparent;
+  bottom: 37px;
+  height: 62px;
+  left: calc(33.61% - 51px);
+  object-fit: cover;
+  position: absolute;
+  width: 151px;
+}
+
+.artboard-1 .line-39-3lmV80 {
+  background-color: transparent;
+  height: 91px;
+  left: calc(24.28% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.53% - 32px);
+  width: 27px;
+}
+
+.artboard-1 .line-40-3lmV80 {
+  background-color: transparent;
+  height: 5px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.04% - 2px);
+  width: 352px;
+}
+
+.artboard-1 .mask-group-19-3lmV80 {
+  background-color: transparent;
+  bottom: calc(32.59% - 23px);
+  height: 70px;
+  left: calc(19.14% - 13px);
+  object-fit: cover;
+  position: absolute;
+  width: 70px;
+}
+
+.artboard-1 .mask-group-20-3lmV80 {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(44.37% - 31px);
+  width: 69px;
+}
+
+.artboard-1 .mask-group-21-3lmV80 {
+  background-color: transparent;
+  height: 70px;
+  left: calc(25.32% - 18px);
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 70px;
+}
+
+.artboard-1 .mask-group-22-3lmV80 {
+  background-color: transparent;
+  bottom: calc(34.75% - 27px);
+  height: 77px;
+  object-fit: cover;
+  position: absolute;
+  right: 85px;
+  width: 77px;
+}
+
+.artboard-1 .mask-group-23-3lmV80 {
+  background-color: transparent;
+  height: 77px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.34% - 26px);
+  top: calc(42.68% - 33px);
+  width: 77px;
+}
+
+.artboard-1 .mask-group-24-3lmV80 {
+  background-color: transparent;
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.03% - 34px);
+  top: 1px;
+  width: 70px;
+}
+
+.artboard-1 .mask-group-26-3lmV80 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 72px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.88% - 34px);
+  width: 72px;
+}
+
+.artboard-1 .mask-group-25-3lmV80 {
+  background-color: transparent;
+  height: 77px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(24.16% - 19px);
+  width: 77px;
+}
+
+.artboard-1 .line-41-3lmV80 {
+  background-color: transparent;
+  bottom: calc(36.10% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.52% - 154px);
+  width: 332px;
+}
+
+.artboard-1 .line-42-3lmV80 {
+  background-color: transparent;
+  bottom: calc(46.19% - 14px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.13% - 16px);
+  width: 65px;
+}
+
+.artboard-1 .line-43-3lmV80 {
+  background-color: transparent;
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: 65px;
+  top: 42px;
+  width: 232px;
+}
+
+.artboard-1 .path-36-3lmV80 {
+  background-color: transparent;
+  height: calc(100.00% - 129px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(48.45% - 3px);
+  top: 65px;
+  width: 6px;
+}
+
+.artboard-1 .line-45-3lmV80 {
+  background-color: transparent;
+  bottom: calc(38.23% - 61px);
+  height: 161px;
+  left: calc(36.80% - 48px);
+  object-fit: cover;
+  position: absolute;
+  width: 131px;
+}
+
+.artboard-1 .path-33-XSArT0 {
+  background-color: transparent;
+  height: 16.03%;
+  left: -7.19%;
+  object-fit: cover;
+  position: absolute;
+  top: 59.39%;
+  width: 114.37%;
+}
+
+.artboard-1 .screen-shot-2022-09-27-at-94058-pm-XSArT0 {
+  background-color: transparent;
+  height: 598px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 2437px;
+  width: 68.18%;
+}
+
+.artboard-1 .path-34-XSArT0 {
+  background-color: transparent;
+  height: 0.39%;
+  left: 25.67%;
+  object-fit: cover;
+  position: absolute;
+  top: 65.25%;
+  width: 50.93%;
+}
+
+.artboard-1 .group-2150-XSArT0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 0.59%;
+  left: 38.63%;
+  position: absolute;
+  top: 69.37%;
+  width: 21.68%;
+}
+
+.artboard-1 .technology-yviNpA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artboard-1 .icon-material-open-in-new-yviNpA {
+  background-color: transparent;
+  height: 21px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.artboard-1 .verify-instantly-XSArT0 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 900;
+  height: 1.43%;
+  left: 24.40%;
+  letter-spacing: 0.70px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  top: 65.89%;
+  white-space: nowrap;
+  width: 52.92%;
+}
+
+.artboard-1 .never-worry-about-sp-XSArT0 {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: 1.08%;
+  left: 24.40%;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 67.56%;
+  white-space: nowrap;
+  width: 50.77%;
+}
+
+.artboard-1 .group-2232-XSArT0 {
+  background-color: transparent;
+  bottom: -6px;
+  height: 217px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.artboard-1 .rectangle-1786-TYUKx9 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-1 .group-2008-TYUKx9 {
+  background-color: transparent;
+  height: 22px;
+  left: 37px;
+  position: absolute;
+  top: 17px;
+  width: 14px;
+}
+
+.artboard-1 .group-2001-S8PiYa {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.artboard-1 .path-24-S8PiYa {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.artboard-1 .path-25-S8PiYa {
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.artboard-1 .the-first-blockchain-TYUKx9 {
+  background-color: transparent;
+  height: 13.82%;
+  left: 5.32%;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 29.16%;
+  width: 34.46%;
+}
+
+.artboard-1 .line-46-TYUKx9 {
+  background-color: transparent;
+  height: 31px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 2px;
+}
+
+.artboard-1 .soulmynt-TYUKx9 {
+  background-color: transparent;
+  display: block;
+  height: 27px;
+  left: calc(13.71% - 13px);
+  letter-spacing: 0.33px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  transform: scale(1.1);
+  white-space: nowrap;
+  width: 92px;
+}
+
+.artboard-1 .soulmynt-TYUKx9.animate-enter20 {
+  animation: animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter20-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.artboard-1 .whitepaper-TYUKx9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.78% - 2px);
+  text-align: center;
+  top: 160px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.artboard-1 .create-TYUKx9 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.67% - 1px);
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.artboard-1 .news-TYUKx9 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.56% - 1px);
+  text-align: center;
+  top: 64px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.artboard-1 .partners-TYUKx9 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.19px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(3.71% - 2px);
+  text-align: center;
+  top: 128px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.artboard-1 .group-2173-TYUKx9 {
+  background-color: transparent;
+  height: 13.63%;
+  left: 5.32%;
+  position: absolute;
+  top: 53.37%;
+  width: 35.44%;
+}
+
+.artboard-1 .icon-ionic-logo-instagram-81lrB7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.artboard-1 .path-26-oUGWPh {
+  background-color: transparent;
+  height: 30px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 30px;
+}
+
+.artboard-1 .path-27-oUGWPh {
+  background-color: transparent;
+  height: 4px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 4px;
+}
+
+.artboard-1 .path-28-oUGWPh {
+  background-color: transparent;
+  height: 15px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.artboard-1 .icon-linkedin-81lrB7 {
+  background-color: transparent;
+  height: 29px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.artboard-1 .icon-twitter-81lrB7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.artboard-1 .icon-awesome-medium-m-81lrB7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.artboard-1 .all-rights-reserved-to-soulmynt-inc-TYUKx9 {
+  background-color: transparent;
+  height: 5.07%;
+  left: 5.32%;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  opacity: 0.23;
+  position: absolute;
+  text-align: right;
+  top: 78.32%;
+  width: 18.00%;
+}
+
+.artboard-1 .group-2224-TYUKx9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+  width: 14px;
+}
+
+.artboard-1 .group-2001-5LMJXZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.artboard-1 .path-24-5LMJXZ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.artboard-1 .path-25-5LMJXZ {
+  background-color: transparent;
+  bottom: 2px;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 4px;
+}

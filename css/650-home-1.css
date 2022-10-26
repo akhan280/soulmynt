@@ -1,0 +1,292 @@
+/* screen - 650-home-1 */
+
+.x650-home-1 {
+  background: linear-gradient(207.13deg, #e749ac -53.11%, #e49457 5.48%, #c742c9 93.72%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-650-home-1 {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .x650-home-1 {
+  background-color: #00000000;
+}
+
+#overlay-650-home-1 .650-home-1 {
+  left: 0px;
+  top: 4px;
+}
+
+#overlay-650-home-1 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.x650-home-1 .hellosoulmyntcom-w9OyR3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  right: calc(14.12% - 42px);
+  text-align: center;
+  top: 576px;
+  white-space: nowrap;
+  width: 296px;
+}
+
+.x650-home-1 .group-2002-w9OyR3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 82px;
+  left: calc(6.15% - 3px);
+  pointer-events: auto;
+  position: absolute;
+  top: 31px;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+
+.x650-home-1 .group-2002-w9OyR3:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .group-2001-o4Gqab {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+
+.x650-home-1 .path-24-o4Gqab {
+  background-color: transparent;
+  bottom: 5px;
+  height: 51px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.x650-home-1 .path-25-o4Gqab {
+  background-color: transparent;
+  bottom: 9px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 14px;
+}
+
+.x650-home-1 .group-2408-w9OyR3 {
+  background-color: transparent;
+  bottom: 129px;
+  height: 154px;
+  position: absolute;
+  right: calc(50.00% - 167px);
+  width: 335px;
+}
+
+.x650-home-1 .icon-linkedin-PqulCs {
+  background-color: transparent;
+  bottom: 4px;
+  cursor: pointer;
+  height: 54px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 55px;
+}
+
+.x650-home-1 .icon-linkedin-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .icon-ionic-logo-instagram-PqulCs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+
+.x650-home-1 .icon-ionic-logo-instagram-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .path-26-QTrbpX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.x650-home-1 .path-27-QTrbpX {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.78% - 2px);
+  top: calc(17.78% - 2px);
+  width: 9px;
+}
+
+.x650-home-1 .path-28-QTrbpX {
+  background-color: transparent;
+  bottom: calc(50.00% - 15px);
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 15px);
+  width: 31px;
+}
+
+.x650-home-1 .icon-twitter-PqulCs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.63% - 29px);
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.x650-home-1 .icon-twitter-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .icon-awesome-medium-m-PqulCs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.x650-home-1 .icon-awesome-medium-m-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .icon-awesome-tumblr-PqulCs {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 56px;
+  left: calc(48.80% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.x650-home-1 .icon-awesome-tumblr-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .icon-youtube-PqulCs {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 51px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 72px;
+}
+
+.x650-home-1 .icon-youtube-PqulCs:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .drop-a-note-w9OyR3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 41px;
+  left: calc(7.74% - 13px);
+  letter-spacing: 0.51px;
+  line-height: 34px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.x650-home-1 .drop-a-note-w9OyR3:hover {
+  transform: scale(1.1);
+}
+
+.x650-home-1 .path-236-w9OyR3 {
+  background-color: transparent;
+  height: 309px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.24% - 109px);
+  width: 196px;
+}
+
+.x650-home-1 .line-55-w9OyR3 {
+  background-color: transparent;
+  bottom: calc(47.04% - 8px);
+  height: 18px;
+  left: calc(43.04% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.x650-home-1 .line-56-w9OyR3 {
+  background-color: transparent;
+  bottom: calc(46.10% - 2px);
+  height: 5px;
+  left: calc(42.14% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 20px;
+}
+
+.x650-home-1 .icon-close-w9OyR3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 41px;
+  width: 38px;
+}

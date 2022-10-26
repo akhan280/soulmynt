@@ -1,0 +1,251 @@
+/* screen - artboard-4 */
+
+.artboard-4 {
+  background: linear-gradient(334.76deg, #e749ac 0.47%, #eeac3c 98.7%, #eead3b 100%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.artboard-4 .group-2002-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 143px;
+  position: absolute;
+  right: calc(47.78% - 45px);
+  top: 162px;
+  width: 94px;
+}
+
+.artboard-4 .group-2001-BXAvE0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 21px);
+}
+
+.artboard-4 .path-24-BXAvE0 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 91px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  width: 71px;
+}
+
+.artboard-4 .path-25-BXAvE0 {
+  background-color: transparent;
+  bottom: 14px;
+  height: 41px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 26px;
+}
+
+.artboard-4 .partners-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.80% - 76px);
+  text-align: center;
+  top: 374px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.artboard-4 .partners-8DYb4Z:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .create-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.81% - 60px);
+  text-align: center;
+  top: 488px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.artboard-4 .create-8DYb4Z:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .whitepaper-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.77% - 103px);
+  text-align: center;
+  top: 601px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 206px;
+}
+
+.artboard-4 .whitepaper-8DYb4Z:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .news-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.82% - 50px);
+  text-align: center;
+  top: 715px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.artboard-4 .news-8DYb4Z:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .group-2361-8DYb4Z {
+  background-color: transparent;
+  bottom: calc(19.19% - 12px);
+  height: 62px;
+  left: 61px;
+  position: absolute;
+  width: calc(100.00% - 122px);
+}
+
+.artboard-4 .icon-linkedin-Cg68cd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+
+.artboard-4 .icon-linkedin-Cg68cd:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .icon-ionic-logo-instagram-Cg68cd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.artboard-4 .icon-ionic-logo-instagram-Cg68cd:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .path-26-YvEjPj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.artboard-4 .path-27-YvEjPj {
+  background-color: transparent;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.86% - 2px);
+  top: calc(17.86% - 2px);
+  width: 10px;
+}
+
+.artboard-4 .path-28-YvEjPj {
+  background-color: transparent;
+  bottom: calc(50.00% - 17px);
+  height: 33px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 17px);
+  width: 33px;
+}
+
+.artboard-4 .icon-twitter-Cg68cd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  left: calc(33.27% - 21px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.artboard-4 .icon-twitter-Cg68cd:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .icon-awesome-medium-m-Cg68cd {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.52% - 21px);
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 64px;
+}
+
+.artboard-4 .icon-awesome-medium-m-Cg68cd:hover {
+  transform: scale(1.1);
+}
+
+.artboard-4 .icon-close-8DYb4Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 40px;
+  width: 38px;
+}
