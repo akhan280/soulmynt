@@ -1,0 +1,301 @@
+/* screen - ipad-partners-contact */
+
+.ipad-partners-contact {
+  background: linear-gradient(218.22deg, #e749ac -49.56%, #e49457 7.38%, #c742c9 93.14%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 999px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-ipad-partners-contact {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .ipad-partners-contact {
+  background-color: #00000000;
+}
+
+#overlay-ipad-partners-contact .ipad-partners-contact {
+  left: 0.0px;
+  top: 20.6044921875px;
+}
+
+#overlay-ipad-partners-contact .container-center-horizontal {
+  justify-content: normal;
+}
+
+.ipad-partners-contact .hellosoulmyntcom-axmxxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.64px;
+  line-height: 43px;
+  position: absolute;
+  right: calc(13.54% - 55px);
+  text-align: center;
+  top: 597px;
+  white-space: nowrap;
+  width: 408px;
+}
+
+.ipad-partners-contact .group-2002-axmxxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 82px;
+  left: calc(6.15% - 3px);
+  pointer-events: auto;
+  position: absolute;
+  top: 31px;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+
+.ipad-partners-contact .group-2002-axmxxs:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .group-2001-GafgYs {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+
+.ipad-partners-contact .path-24-GafgYs {
+  background-color: transparent;
+  bottom: 4px;
+  height: 52px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 41px;
+}
+
+.ipad-partners-contact .path-25-GafgYs {
+  background-color: transparent;
+  bottom: 8px;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 15px;
+}
+
+.ipad-partners-contact .drop-a-note-axmxxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 41px;
+  left: calc(7.02% - 12px);
+  letter-spacing: 0.51px;
+  line-height: 34px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.ipad-partners-contact .drop-a-note-axmxxs:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .group-2476-axmxxs {
+  background-color: transparent;
+  height: 353px;
+  left: calc(30.18% - 79px);
+  position: absolute;
+  top: calc(36.30% - 128px);
+  width: 263px;
+}
+
+.ipad-partners-contact .path-236-n003An {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.ipad-partners-contact .line-55-n003An {
+  background-color: transparent;
+  bottom: 4px;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 12px;
+}
+
+.ipad-partners-contact .line-56-n003An {
+  background-color: transparent;
+  bottom: 0px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 22px;
+}
+
+.ipad-partners-contact .icon-close-axmxxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 41px;
+  width: 38px;
+}
+
+.ipad-partners-contact .group-2407-axmxxs {
+  background-color: transparent;
+  bottom: 45px;
+  height: 181px;
+  left: 43px;
+  position: absolute;
+  width: 428px;
+}
+
+.ipad-partners-contact .icon-linkedin-nqGUZ2 {
+  background-color: transparent;
+  bottom: 5px;
+  cursor: pointer;
+  height: 68px;
+  left: 6px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 68px;
+}
+
+.ipad-partners-contact .icon-linkedin-nqGUZ2:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .icon-ionic-logo-instagram-nqGUZ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 73px;
+}
+
+.ipad-partners-contact .icon-ionic-logo-instagram-nqGUZ2:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .path-26-xHlJLM {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-partners-contact .path-27-xHlJLM {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.05% - 2px);
+  top: calc(18.05% - 2px);
+  width: 11px;
+}
+
+.ipad-partners-contact .path-28-xHlJLM {
+  background-color: transparent;
+  bottom: calc(50.00% - 19px);
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 19px);
+  width: 39px;
+}
+
+.ipad-partners-contact .icon-twitter-nqGUZ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: calc(49.58% - 37px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3px;
+  transition: all 0.2s ease;
+  width: 74px;
+}
+
+.ipad-partners-contact .icon-twitter-nqGUZ2:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .icon-awesome-medium-m-nqGUZ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 60px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: 4px;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.ipad-partners-contact .icon-awesome-medium-m-nqGUZ2:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .icon-awesome-tumblr-nqGUZ2 {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 70px;
+  left: calc(49.35% - 21px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 42px;
+}
+
+.ipad-partners-contact .icon-awesome-tumblr-nqGUZ2:hover {
+  transform: scale(1.1);
+}
+
+.ipad-partners-contact .icon-awesome-youtube-nqGUZ2 {
+  background-color: transparent;
+  bottom: 2px;
+  cursor: pointer;
+  height: 64px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.ipad-partners-contact .icon-awesome-youtube-nqGUZ2:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,301 @@
+/* screen - mobile-create-contact */
+
+.mobile-create-contact {
+  background: linear-gradient(196.47deg, #e749ac -55.83%, #e49457 4.02%, #c742c9 94.16%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-mobile-create-contact {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .mobile-create-contact {
+  background-color: #00000000;
+}
+
+#overlay-mobile-create-contact .mobile-create-contact {
+  left: 0px;
+  top: -27px;
+}
+
+#overlay-mobile-create-contact .container-center-horizontal {
+  justify-content: normal;
+}
+
+.mobile-create-contact .hellosoulmyntcom-RfmGoa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  right: calc(11.39% - 34px);
+  text-align: center;
+  top: 532px;
+  white-space: nowrap;
+  width: 296px;
+}
+
+.mobile-create-contact .drop-a-note-RfmGoa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: calc(9.29% - 10px);
+  letter-spacing: 0.32px;
+  line-height: 21px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.mobile-create-contact .drop-a-note-RfmGoa:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .group-2477-RfmGoa {
+  background-color: transparent;
+  height: 262px;
+  left: 54px;
+  position: absolute;
+  top: calc(30.79% - 81px);
+  width: 163px;
+}
+
+.mobile-create-contact .path-236-M9xuR3 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.mobile-create-contact .line-55-M9xuR3 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+
+.mobile-create-contact .line-56-M9xuR3 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 17px;
+}
+
+.mobile-create-contact .group-2002-RfmGoa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: calc(9.39% - 4px);
+  pointer-events: auto;
+  position: absolute;
+  top: 25px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+
+.mobile-create-contact .group-2002-RfmGoa:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .group-2001-SM0mx1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 10px);
+}
+
+.mobile-create-contact .path-24-SM0mx1 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 44px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 35px;
+}
+
+.mobile-create-contact .path-25-SM0mx1 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 13px;
+}
+
+.mobile-create-contact .icon-close-RfmGoa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 18px;
+  top: 30px;
+  width: 21px;
+}
+
+.mobile-create-contact .group-2408-RfmGoa {
+  background-color: transparent;
+  bottom: calc(26.41% - 35px);
+  height: 134px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 85px);
+}
+
+.mobile-create-contact .icon-linkedin-QFEoOd {
+  background-color: transparent;
+  bottom: 3px;
+  cursor: pointer;
+  height: 48px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.mobile-create-contact .icon-linkedin-QFEoOd:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .icon-ionic-logo-instagram-QFEoOd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 50px;
+}
+
+.mobile-create-contact .icon-ionic-logo-instagram-QFEoOd:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .path-26-OFXXRr {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.mobile-create-contact .path-27-OFXXRr {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.57% - 1px);
+  top: calc(17.57% - 1px);
+  width: 8px;
+}
+
+.mobile-create-contact .path-28-OFXXRr {
+  background-color: transparent;
+  bottom: calc(50.00% - 14px);
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 14px);
+  width: 27px;
+}
+
+.mobile-create-contact .icon-twitter-QFEoOd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.57% - 26px);
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.mobile-create-contact .icon-twitter-QFEoOd:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .icon-awesome-medium-m-QFEoOd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.mobile-create-contact .icon-awesome-medium-m-QFEoOd:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .icon-awesome-tumblr-QFEoOd {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 49px;
+  left: calc(48.80% - 15px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 30px;
+}
+
+.mobile-create-contact .icon-awesome-tumblr-QFEoOd:hover {
+  transform: scale(1.1);
+}
+
+.mobile-create-contact .icon-youtube-QFEoOd {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 45px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.mobile-create-contact .icon-youtube-QFEoOd:hover {
+  transform: scale(1.1);
+}

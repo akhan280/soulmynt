@@ -14,23 +14,6 @@
   width: 100%;
 }
 
-#overlay-ipad-news-3 {
-  background-color: rgba(255,255,255,1.0);
-}
-
-.overlay .ipad-news-3 {
-  background-color: #00000000;
-}
-
-#overlay-ipad-news-3 .ipad-news-3 {
-  left: 0.0px;
-  top: 5.5px;
-}
-
-#overlay-ipad-news-3 .container-center-horizontal {
-  justify-content: normal;
-}
-
 .ipad-news-3 .hellosoulmyntcom-Ps0Zh3 {
   background-color: transparent;
   cursor: pointer;
@@ -150,7 +133,7 @@
   width: 23px;
 }
 
-.ipad-news-3 .icon-close-Ps0Zh3 {
+.ipad-news-3 .icon-material-close-Ps0Zh3 {
   background-color: transparent;
   height: 38px;
   object-fit: cover;

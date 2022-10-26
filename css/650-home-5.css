@@ -13,23 +13,6 @@
   width: 100%;
 }
 
-#overlay-650-home-5 {
-  background-color: rgba(255,255,255,1.0);
-}
-
-.overlay .x650-home-5 {
-  background-color: #00000000;
-}
-
-#overlay-650-home-5 .650-home-5 {
-  left: 0px;
-  top: 4px;
-}
-
-#overlay-650-home-5 .container-center-horizontal {
-  justify-content: normal;
-}
-
 .x650-home-5 .hellosoulmyntcom-qQnUJx {
   background-color: transparent;
   cursor: pointer;
@@ -99,7 +82,7 @@
   width: 335px;
 }
 
-.x650-home-5 .icon-linkedin-VXfZvG {
+.x650-home-5 .icon-awesome-linkedin-in-VXfZvG {
   background-color: transparent;
   bottom: 4px;
   cursor: pointer;
@@ -112,7 +95,7 @@
   width: 55px;
 }
 
-.x650-home-5 .icon-linkedin-VXfZvG:hover {
+.x650-home-5 .icon-awesome-linkedin-in-VXfZvG:hover {
   transform: scale(1.1);
 }
 
@@ -162,7 +145,7 @@
   width: 31px;
 }
 
-.x650-home-5 .icon-twitter-VXfZvG {
+.x650-home-5 .icon-awesome-twitter-VXfZvG {
   background-color: transparent;
   cursor: pointer;
   height: 53px;
@@ -175,7 +158,7 @@
   width: 59px;
 }
 
-.x650-home-5 .icon-twitter-VXfZvG:hover {
+.x650-home-5 .icon-awesome-twitter-VXfZvG:hover {
   transform: scale(1.1);
 }
 
@@ -213,7 +196,7 @@
   transform: scale(1.1);
 }
 
-.x650-home-5 .icon-youtube-VXfZvG {
+.x650-home-5 .icon-awesome-youtube-VXfZvG {
   background-color: transparent;
   bottom: 1px;
   cursor: pointer;
@@ -226,7 +209,7 @@
   width: 72px;
 }
 
-.x650-home-5 .icon-youtube-VXfZvG:hover {
+.x650-home-5 .icon-awesome-youtube-VXfZvG:hover {
   transform: scale(1.1);
 }
 
@@ -280,7 +263,7 @@
   width: 20px;
 }
 
-.x650-home-5 .icon-close-qQnUJx {
+.x650-home-5 .icon-material-close-qQnUJx {
   background-color: transparent;
   cursor: pointer;
   height: 38px;

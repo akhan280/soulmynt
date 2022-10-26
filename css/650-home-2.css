@@ -13,23 +13,6 @@
   width: 100%;
 }
 
-#overlay-650-home-2 {
-  background-color: rgba(255,255,255,1.0);
-}
-
-.overlay .x650-home-2 {
-  background-color: #00000000;
-}
-
-#overlay-650-home-2 .650-home-2 {
-  left: 0px;
-  top: -124px;
-}
-
-#overlay-650-home-2 .container-center-horizontal {
-  justify-content: normal;
-}
-
 .x650-home-2 .hellosoulmyntcom-SvQy6z {
   background-color: transparent;
   cursor: pointer;
@@ -149,7 +132,7 @@
   width: 13px;
 }
 
-.x650-home-2 .icon-close-SvQy6z {
+.x650-home-2 .icon-material-close-SvQy6z {
   background-color: transparent;
   cursor: pointer;
   height: 21px;
@@ -169,7 +152,7 @@
   width: calc(100.00% - 85px);
 }
 
-.x650-home-2 .icon-linkedin-sDwabj {
+.x650-home-2 .icon-awesome-linkedin-in-sDwabj {
   background-color: transparent;
   bottom: 3px;
   cursor: pointer;
@@ -182,7 +165,7 @@
   width: 48px;
 }
 
-.x650-home-2 .icon-linkedin-sDwabj:hover {
+.x650-home-2 .icon-awesome-linkedin-in-sDwabj:hover {
   transform: scale(1.1);
 }
 
@@ -232,7 +215,7 @@
   width: 27px;
 }
 
-.x650-home-2 .icon-twitter-sDwabj {
+.x650-home-2 .icon-awesome-twitter-sDwabj {
   background-color: transparent;
   cursor: pointer;
   height: 47px;
@@ -245,7 +228,7 @@
   width: 52px;
 }
 
-.x650-home-2 .icon-twitter-sDwabj:hover {
+.x650-home-2 .icon-awesome-twitter-sDwabj:hover {
   transform: scale(1.1);
 }
 
@@ -283,7 +266,7 @@
   transform: scale(1.1);
 }
 
-.x650-home-2 .icon-youtube-sDwabj {
+.x650-home-2 .icon-awesome-youtube-sDwabj {
   background-color: transparent;
   bottom: 1px;
   cursor: pointer;
@@ -296,6 +279,6 @@
   width: 63px;
 }
 
-.x650-home-2 .icon-youtube-sDwabj:hover {
+.x650-home-2 .icon-awesome-youtube-sDwabj:hover {
   transform: scale(1.1);
 }

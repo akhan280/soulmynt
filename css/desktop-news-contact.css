@@ -1,0 +1,301 @@
+/* screen - desktop-news-contact */
+
+.desktop-news-contact {
+  background: linear-gradient(236.55deg, #e749ac -43.67%, #e49457 10.54%, #c742c9 92.18%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-desktop-news-contact {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .desktop-news-contact {
+  background-color: #00000000;
+}
+
+#overlay-desktop-news-contact .desktop-news-contact {
+  left: 0.0px;
+  top: 5.5px;
+}
+
+#overlay-desktop-news-contact .container-center-horizontal {
+  justify-content: normal;
+}
+
+.desktop-news-contact .hellosoulmyntcom-r9ER2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 85px;
+  letter-spacing: 1.05px;
+  line-height: 70px;
+  position: absolute;
+  right: calc(35.35% - 235px);
+  text-align: center;
+  top: 614px;
+  white-space: nowrap;
+  width: 664px;
+}
+
+.desktop-news-contact .group-2002-r9ER2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: calc(4.23% - 3px);
+  pointer-events: auto;
+  position: absolute;
+  top: 40px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.desktop-news-contact .group-2002-r9ER2w:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .group-2001-lQpUS5 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 16px);
+}
+
+.desktop-news-contact .path-24-lQpUS5 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 71px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: 56px;
+}
+
+.desktop-news-contact .path-25-lQpUS5 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 20px;
+}
+
+.desktop-news-contact .drop-a-note-r9ER2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 63px;
+  left: calc(4.73% - 13px);
+  letter-spacing: 0.81px;
+  line-height: 54px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.desktop-news-contact .drop-a-note-r9ER2w:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .group-2476-r9ER2w {
+  background-color: transparent;
+  height: 358px;
+  left: calc(23.58% - 93px);
+  position: absolute;
+  top: calc(40.17% - 144px);
+  width: 396px;
+}
+
+.desktop-news-contact .path-236-I6xpF1 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.desktop-news-contact .line-55-I6xpF1 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 12px;
+}
+
+.desktop-news-contact .line-56-I6xpF1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 23px;
+}
+
+.desktop-news-contact .icon-close-r9ER2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 41px;
+  width: 38px;
+}
+
+.desktop-news-contact .group-2407-r9ER2w {
+  background-color: transparent;
+  bottom: calc(19.35% - 16px);
+  height: 83px;
+  left: calc(50.00% - 514px);
+  position: absolute;
+  width: 1027px;
+}
+
+.desktop-news-contact .icon-awesome-linkedin-in-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 8px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(38.87% - 29px);
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.desktop-news-contact .icon-awesome-linkedin-in-G88Bmx:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .icon-ionic-logo-instagram-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-news-contact .icon-ionic-logo-instagram-G88Bmx:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .path-26-g6Vo40 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.desktop-news-contact .path-27-g6Vo40 {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.15% - 2px);
+  top: calc(18.15% - 2px);
+  width: 12px;
+}
+
+.desktop-news-contact .path-28-g6Vo40 {
+  background-color: transparent;
+  bottom: calc(50.00% - 21px);
+  height: 43px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 21px);
+  width: 43px;
+}
+
+.desktop-news-contact .icon-awesome-twitter-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 10px);
+  left: calc(20.58% - 17px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 81px;
+}
+
+.desktop-news-contact .icon-awesome-twitter-G88Bmx:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .icon-awesome-medium-m-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 17px);
+  left: calc(40.94% - 34px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 10px;
+  transition: all 0.2s ease;
+  width: 83px;
+}
+
+.desktop-news-contact .icon-awesome-medium-m-G88Bmx:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .icon-awesome-tumblr-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(21.51% - 10px);
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.desktop-news-contact .icon-awesome-tumblr-G88Bmx:hover {
+  transform: scale(1.1);
+}
+
+.desktop-news-contact .icon-awesome-youtube-G88Bmx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 12px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.desktop-news-contact .icon-awesome-youtube-G88Bmx:hover {
+  transform: scale(1.1);
+}

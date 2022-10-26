@@ -227,11 +227,6 @@
 
 .artboard-1 .blockchain-qTKkSy {
   background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 42px;
-  font-style: normal;
-  font-weight: 900;
   height: 52px;
   letter-spacing: 0.63px;
   line-height: 42px;
@@ -503,14 +498,14 @@
   width: auto;
 }
 
-.artboard-1 .names-degree-swxAXv.animate-enter {
-  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .names-degree-swxAXv.animate-enter51 {
+  animation: animate-enter51-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter-frames {
+@keyframes animate-enter51-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -535,14 +530,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .bs-computer-science2024-swxAXv.animate-enter1 {
-  animation: animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .bs-computer-science2024-swxAXv.animate-enter52 {
+  animation: animate-enter52-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter1-frames {
+@keyframes animate-enter52-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -567,14 +562,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-swxAXv.animate-enter2 {
-  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-swxAXv.animate-enter53 {
+  animation: animate-enter53-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter2-frames {
+@keyframes animate-enter53-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -779,14 +774,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .names-degree-Br3kSv.animate-enter3 {
-  animation: animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .names-degree-Br3kSv.animate-enter54 {
+  animation: animate-enter54-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter3-frames {
+@keyframes animate-enter54-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -811,14 +806,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .bs-computer-science2024-Br3kSv.animate-enter4 {
-  animation: animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .bs-computer-science2024-Br3kSv.animate-enter55 {
+  animation: animate-enter55-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter4-frames {
+@keyframes animate-enter55-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -843,14 +838,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-Br3kSv.animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-Br3kSv.animate-enter56 {
+  animation: animate-enter56-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter5-frames {
+@keyframes animate-enter56-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -906,14 +901,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .this-isnt-even-Br3kSv.animate-enter6 {
-  animation: animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .this-isnt-even-Br3kSv.animate-enter57 {
+  animation: animate-enter57-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter6-frames {
+@keyframes animate-enter57-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -938,14 +933,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .random-Br3kSv.animate-enter7 {
-  animation: animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .random-Br3kSv.animate-enter58 {
+  animation: animate-enter58-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter7-frames {
+@keyframes animate-enter58-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -970,14 +965,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-Ozz7gz.animate-enter8 {
-  animation: animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-Ozz7gz.animate-enter59 {
+  animation: animate-enter59-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter8-frames {
+@keyframes animate-enter59-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1042,14 +1037,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .kanye-west-4Xbi4L.animate-enter9 {
-  animation: animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .kanye-west-4Xbi4L.animate-enter60 {
+  animation: animate-enter60-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter9-frames {
+@keyframes animate-enter60-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1074,14 +1069,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .album-4Xbi4L.animate-enter10 {
-  animation: animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .album-4Xbi4L.animate-enter61 {
+  animation: animate-enter61-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter10-frames {
+@keyframes animate-enter61-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1106,14 +1101,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-4Xbi4L.animate-enter11 {
-  animation: animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-4Xbi4L.animate-enter62 {
+  animation: animate-enter62-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter11-frames {
+@keyframes animate-enter62-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1159,14 +1154,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-MceFhm.animate-enter12 {
-  animation: animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-MceFhm.animate-enter63 {
+  animation: animate-enter63-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter12-frames {
+@keyframes animate-enter63-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1231,14 +1226,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .names-degree-HjW9C9.animate-enter13 {
-  animation: animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .names-degree-HjW9C9.animate-enter64 {
+  animation: animate-enter64-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter13-frames {
+@keyframes animate-enter64-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1263,14 +1258,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .bs-computer-science2024-HjW9C9.animate-enter14 {
-  animation: animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .bs-computer-science2024-HjW9C9.animate-enter65 {
+  animation: animate-enter65-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter14-frames {
+@keyframes animate-enter65-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1295,14 +1290,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-university-of-michigan-HjW9C9.animate-enter15 {
-  animation: animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-university-of-michigan-HjW9C9.animate-enter66 {
+  animation: animate-enter66-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter15-frames {
+@keyframes animate-enter66-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1348,14 +1343,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .software-developer-intern-HjW9C9.animate-enter16 {
-  animation: animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .software-developer-intern-HjW9C9.animate-enter67 {
+  animation: animate-enter67-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter16-frames {
+@keyframes animate-enter67-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1380,14 +1375,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .june-2022-august-2022-HjW9C9.animate-enter17 {
-  animation: animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .june-2022-august-2022-HjW9C9.animate-enter68 {
+  animation: animate-enter68-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter17-frames {
+@keyframes animate-enter68-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1398,12 +1393,7 @@ transform: scale(1);
 
 .artboard-1 .issued-by-metamask-HjW9C9 {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 4px;
-  font-style: normal;
-  font-weight: 400;
   height: auto;
   left: 13px;
   letter-spacing: 0.06px;
@@ -1417,14 +1407,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .issued-by-metamask-HjW9C9.animate-enter18 {
-  animation: animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .issued-by-metamask-HjW9C9.animate-enter69 {
+  animation: animate-enter69-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter18-frames {
+@keyframes animate-enter69-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1504,12 +1494,7 @@ transform: scale(1);
 
 .artboard-1 .view-description-HjW9C9 {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-46light_italic);
-  font-size: 4px;
-  font-style: italic;
-  font-weight: 300;
   height: auto;
   left: 13px;
   letter-spacing: 0.06px;
@@ -1523,14 +1508,14 @@ transform: scale(1);
   width: auto;
 }
 
-.artboard-1 .view-description-HjW9C9.animate-enter19 {
-  animation: animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .view-description-HjW9C9.animate-enter70 {
+  animation: animate-enter70-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter19-frames {
+@keyframes animate-enter70-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2047,7 +2032,7 @@ transform: scale(1);
   background-color: transparent;
   color: var(--star-dust);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 19px;
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
   height: 1.08%;
@@ -2157,14 +2142,14 @@ transform: scale(1);
   width: 92px;
 }
 
-.artboard-1 .soulmynt-TYUKx9.animate-enter20 {
-  animation: animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.artboard-1 .soulmynt-TYUKx9.animate-enter71 {
+  animation: animate-enter71-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes animate-enter20-frames {
+@keyframes animate-enter71-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }

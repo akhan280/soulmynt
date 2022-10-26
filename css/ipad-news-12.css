@@ -13,23 +13,6 @@
   width: 100%;
 }
 
-#overlay-ipad-news-12 {
-  background-color: rgba(255,255,255,1.0);
-}
-
-.overlay .ipad-news-12 {
-  background-color: #00000000;
-}
-
-#overlay-ipad-news-12 .ipad-news-12 {
-  left: 240.69613647460938px;
-  top: 29.262686729431152px;
-}
-
-#overlay-ipad-news-12 .container-center-horizontal {
-  justify-content: normal;
-}
-
 .ipad-news-12 .hellosoulmyntcom-zLmbv9 {
   background-color: transparent;
   cursor: pointer;
@@ -149,7 +132,7 @@
   width: 22px;
 }
 
-.ipad-news-12 .icon-close-zLmbv9 {
+.ipad-news-12 .icon-material-close-zLmbv9 {
   background-color: transparent;
   cursor: pointer;
   height: 38px;
@@ -169,7 +152,7 @@
   width: calc(100.00% - 71px);
 }
 
-.ipad-news-12 .icon-linkedin-1YKsmo {
+.ipad-news-12 .icon-awesome-linkedin-in-1YKsmo {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% - 7px);
@@ -182,7 +165,7 @@
   width: 68px;
 }
 
-.ipad-news-12 .icon-linkedin-1YKsmo:hover {
+.ipad-news-12 .icon-awesome-linkedin-in-1YKsmo:hover {
   transform: scale(1.1);
 }
 
@@ -232,7 +215,7 @@
   width: 39px;
 }
 
-.ipad-news-12 .icon-twitter-1YKsmo {
+.ipad-news-12 .icon-awesome-twitter-1YKsmo {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% - 8px);
@@ -245,7 +228,7 @@
   width: 74px;
 }
 
-.ipad-news-12 .icon-twitter-1YKsmo:hover {
+.ipad-news-12 .icon-awesome-twitter-1YKsmo:hover {
   transform: scale(1.1);
 }
 

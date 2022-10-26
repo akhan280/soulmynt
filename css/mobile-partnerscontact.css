@@ -1,0 +1,301 @@
+/* screen - mobile-partnerscontact */
+
+.mobile-partnerscontact {
+  background: linear-gradient(196.47deg, #e749ac -55.83%, #e49457 4.02%, #c742c9 94.16%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-mobile-partnerscontact {
+  background-color: rgba(255,255,255,1.0);
+}
+
+.overlay .mobile-partnerscontact {
+  background-color: #00000000;
+}
+
+#overlay-mobile-partnerscontact .mobile-partnerscontact {
+  left: 0px;
+  top: 2px;
+}
+
+#overlay-mobile-partnerscontact .container-center-horizontal {
+  justify-content: normal;
+}
+
+.mobile-partnerscontact .hellosoulmyntcom-h9f1Sc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  letter-spacing: 0.46px;
+  line-height: 31px;
+  position: absolute;
+  right: calc(11.39% - 34px);
+  text-align: center;
+  top: 532px;
+  white-space: nowrap;
+  width: 296px;
+}
+
+.mobile-partnerscontact .drop-a-note-h9f1Sc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: calc(9.29% - 10px);
+  letter-spacing: 0.32px;
+  line-height: 21px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.mobile-partnerscontact .drop-a-note-h9f1Sc:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .group-2477-h9f1Sc {
+  background-color: transparent;
+  height: 262px;
+  left: 54px;
+  position: absolute;
+  top: calc(30.79% - 81px);
+  width: 163px;
+}
+
+.mobile-partnerscontact .path-236-dlAIrf {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.mobile-partnerscontact .line-55-dlAIrf {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+
+.mobile-partnerscontact .line-56-dlAIrf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 17px;
+}
+
+.mobile-partnerscontact .group-2002-h9f1Sc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: calc(9.39% - 4px);
+  pointer-events: auto;
+  position: absolute;
+  top: 25px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+
+.mobile-partnerscontact .group-2002-h9f1Sc:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .group-2001-Bnboy7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 10px);
+}
+
+.mobile-partnerscontact .path-24-Bnboy7 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 44px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: 35px;
+}
+
+.mobile-partnerscontact .path-25-Bnboy7 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 13px;
+}
+
+.mobile-partnerscontact .icon-close-h9f1Sc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 18px;
+  top: 30px;
+  width: 21px;
+}
+
+.mobile-partnerscontact .group-2408-h9f1Sc {
+  background-color: transparent;
+  bottom: calc(26.41% - 35px);
+  height: 134px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 85px);
+}
+
+.mobile-partnerscontact .icon-linkedin-vwN3Ms {
+  background-color: transparent;
+  bottom: 3px;
+  cursor: pointer;
+  height: 48px;
+  left: -1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.mobile-partnerscontact .icon-linkedin-vwN3Ms:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .icon-ionic-logo-instagram-vwN3Ms {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 50px;
+}
+
+.mobile-partnerscontact .icon-ionic-logo-instagram-vwN3Ms:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .path-26-Oh3wxR {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.mobile-partnerscontact .path-27-Oh3wxR {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.57% - 1px);
+  top: calc(17.57% - 1px);
+  width: 8px;
+}
+
+.mobile-partnerscontact .path-28-Oh3wxR {
+  background-color: transparent;
+  bottom: calc(50.00% - 14px);
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 14px);
+  width: 27px;
+}
+
+.mobile-partnerscontact .icon-twitter-vwN3Ms {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.57% - 26px);
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.mobile-partnerscontact .icon-twitter-vwN3Ms:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .icon-awesome-medium-m-vwN3Ms {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.mobile-partnerscontact .icon-awesome-medium-m-vwN3Ms:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .icon-awesome-tumblr-vwN3Ms {
+  background-color: transparent;
+  bottom: -1px;
+  cursor: pointer;
+  height: 49px;
+  left: calc(48.80% - 15px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 30px;
+}
+
+.mobile-partnerscontact .icon-awesome-tumblr-vwN3Ms:hover {
+  transform: scale(1.1);
+}
+
+.mobile-partnerscontact .icon-youtube-vwN3Ms {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 45px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.mobile-partnerscontact .icon-youtube-vwN3Ms:hover {
+  transform: scale(1.1);
+}

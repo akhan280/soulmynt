@@ -1,0 +1,251 @@
+/* screen - mobile-650-menu */
+
+.mobile-650-menu {
+  background: linear-gradient(334.76deg, #e749ac 0.47%, #eeac3c 98.7%, #eead3b 100%);
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1083px;
+  min-width: 650px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-650-menu .group-2002-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 143px;
+  position: absolute;
+  right: calc(47.78% - 45px);
+  top: 162px;
+  width: 94px;
+}
+
+.mobile-650-menu .group-2001-NHKxbG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 21px);
+}
+
+.mobile-650-menu .path-24-NHKxbG {
+  background-color: transparent;
+  bottom: 7px;
+  height: 91px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  width: 71px;
+}
+
+.mobile-650-menu .path-25-NHKxbG {
+  background-color: transparent;
+  bottom: 14px;
+  height: 41px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 26px;
+}
+
+.mobile-650-menu .partners-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.80% - 76px);
+  text-align: center;
+  top: 374px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.mobile-650-menu .partners-x0fHxx:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .create-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.81% - 60px);
+  text-align: center;
+  top: 488px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.mobile-650-menu .create-x0fHxx:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .whitepaper-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.77% - 103px);
+  text-align: center;
+  top: 601px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 206px;
+}
+
+.mobile-650-menu .whitepaper-x0fHxx:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .news-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  letter-spacing: 0.60px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(49.82% - 50px);
+  text-align: center;
+  top: 715px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.mobile-650-menu .news-x0fHxx:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .group-2361-x0fHxx {
+  background-color: transparent;
+  bottom: calc(19.19% - 12px);
+  height: 62px;
+  left: 61px;
+  position: absolute;
+  width: calc(100.00% - 122px);
+}
+
+.mobile-650-menu .icon-linkedin-xXZzBw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+
+.mobile-650-menu .icon-linkedin-xXZzBw:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .icon-ionic-logo-instagram-xXZzBw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.mobile-650-menu .icon-ionic-logo-instagram-xXZzBw:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .path-26-iduxzN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.mobile-650-menu .path-27-iduxzN {
+  background-color: transparent;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.86% - 2px);
+  top: calc(17.86% - 2px);
+  width: 10px;
+}
+
+.mobile-650-menu .path-28-iduxzN {
+  background-color: transparent;
+  bottom: calc(50.00% - 17px);
+  height: 33px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 17px);
+  width: 33px;
+}
+
+.mobile-650-menu .icon-twitter-xXZzBw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  left: calc(33.27% - 21px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.mobile-650-menu .icon-twitter-xXZzBw:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .icon-awesome-medium-m-xXZzBw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.52% - 21px);
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 64px;
+}
+
+.mobile-650-menu .icon-awesome-medium-m-xXZzBw:hover {
+  transform: scale(1.1);
+}
+
+.mobile-650-menu .icon-close-x0fHxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  object-fit: cover;
+  position: absolute;
+  right: 33px;
+  top: 41px;
+  width: 38px;
+}

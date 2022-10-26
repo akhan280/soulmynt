@@ -5,6 +5,7 @@
   --carrot-orange: #f68523;
   --chicago: #585858;
   --dove-gray: #707070;
+  --fuchsia: #ce5bd0;
   --fuchsia-pink: #cc51cd;
   --fuchsia-pink-2: #c63ec8;
   --gray-nurse: #e8e8e8;
@@ -18,35 +19,43 @@
   --rose-quartz-2: #cd52a4;
   --rose-quartz-3: #cd51a4;
   --silver: #bcbcbc;
-  --silver-chalice: #afafaf;
   --sonic-silver: #767676;
   --star-dust: #9f9f9f;
   --white: #ffffff;
  
-  --font-size-l: 22px;
+  --font-size-l: 19px;
   --font-size-m: 18px;
   --font-size-s: 15px;
   --font-size-xl: 24px;
   --font-size-xs: 13px;
-  --font-size-xxl: 28px;
   --font-size-xxs: 12px;
+  --font-size-xxxs: 8px;
  
   --font-family-dashiellfine-bold: "DashiellFine-Bold", Helvetica;
   --font-family-dashiellfine-regular: "DashiellFine-Regular", Helvetica;
-  --font-family-dinosaur-book: "DINosaur-Book", Helvetica;
-  --font-family-filmotypemaxwell-regular: "FilmotypeMaxwell-Regular", Helvetica;
-  --font-family-freightbigpro-lightitalic: "FreightBigPro-LightItalic", Helvetica;
-  --font-family-freightbigpro-semibold: "FreightBigPro-Semibold", Helvetica;
-  --font-family-inputmono_compressed-light: "InputMono Compressed-Light", Helvetica;
-  --font-family-khmermn-regular: "KhmerMN-Regular", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-25thin: "NeueHaas Grotesk Display Pro-25Thin", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-46light_italic: "NeueHaas Grotesk Display Pro-46Light Italic", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-55roman: "NeueHaas Grotesk Display Pro-55Roman", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-65medium: "NeueHaas Grotesk Display Pro-65Medium", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-75bold: "NeueHaas Grotesk Display Pro-75Bold", Helvetica;
   --font-family-neuehaas_grotesk_display_pro-95black: "NeueHaas Grotesk Display Pro-95Black", Helvetica;
-  --font-family-sybarite-smallitalic: "Sybarite-SmallItalic", Helvetica;
 }
+.neuehaasgroteskdisplaypro-55roman-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .neuehaasgroteskdisplaypro-25-thin-black-26px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
@@ -55,12 +64,12 @@
   font-weight: 100;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-white-25px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 25px;
+.neuehaasgroteskdisplaypro-25-thin-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: var(--font-size-l);
   font-style: normal;
-  font-weight: 500;
+  font-weight: 100;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-15px {
@@ -71,12 +80,20 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-white-20px {
+.neuehaasgroteskdisplaypro-65-medium-white-31px {
   color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 20px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 31px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .neuehaasgroteskdisplaypro-25-thin-black-12px {
@@ -87,18 +104,18 @@
   font-weight: 100;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-white-31px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 31px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-25-thin-black-19px {
+.neuehaasgroteskdisplaypro-25-thin-black-18px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: 19px;
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.neuehaasgroteskdisplaypro-25-thin-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 100;
 }
@@ -111,28 +128,20 @@
   font-weight: 100;
 }
 
-.neuehaasgroteskdisplaypro-95-black-dove-gray-19px {
-  color: var(--dove-gray);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 19px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-white-40px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .dashiellfine-bold-white-8px {
   color: var(--white);
   font-family: var(--font-family-dashiellfine-bold);
-  font-size: 8px;
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 700;
+}
+
+.neuehaasgroteskdisplaypro-95-black-dove-gray-19px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-18px {
@@ -151,6 +160,38 @@
   font-weight: 400;
 }
 
+.neuehaasgroteskdisplaypro-55roman-normal-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-95-black-white-8px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-4px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 4px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .neuehaasgroteskdisplaypro-55roman-normal-black-24px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
@@ -159,28 +200,44 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-25-thin-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: var(--font-size-m);
+.neuehaasgroteskdisplaypro-65-medium-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 17px;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-8px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dashiellfine-bold-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-dashiellfine-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-3px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 3px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-white-28px {
   color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: var(--font-size-xxl);
+  font-size: 28px;
   font-style: normal;
   font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-25-thin-black-13px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 100;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-11px {
@@ -191,10 +248,10 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-95-black-white-8px {
-  color: var(--white);
+.neuehaasgroteskdisplaypro-95-black-black-31px {
+  color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 8px;
+  font-size: 31px;
   font-style: normal;
   font-weight: 900;
 }
@@ -203,14 +260,6 @@
   color: var(--sonic-silver);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
   font-size: 5px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-4px {
-  color: var(--sonic-silver);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 4px;
   font-style: normal;
   font-weight: 400;
 }
@@ -239,14 +288,6 @@
   font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-3px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 3px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .neuehaasgroteskdisplaypro-95-black-black-69px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
@@ -258,87 +299,47 @@
 .neuehaasgroteskdisplaypro-95-black-black-19px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 19px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-white-34px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 34px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-white-13px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-10px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 10px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-white-17px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.dashiellfine-bold-white-12px {
-  color: var(--white);
-  font-family: var(--font-family-dashiellfine-bold);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.neuehaasgroteskdisplaypro-95-black-black-31px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 31px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-95-black-black-40px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.freightbigpro-semi-bold-white-35px {
-  color: var(--white);
-  font-family: var(--font-family-freightbigpro-semibold);
-  font-size: 35px;
-  font-style: normal;
-  font-weight: 600;
-}
-
-.dinosaur-book-normal-silver-chalice-22px {
-  color: var(--silver-chalice);
-  font-family: var(--font-family-dinosaur-book);
   font-size: var(--font-size-l);
   font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-70px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-white-54px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 54px;
+  font-style: normal;
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-8px {
-  color: var(--sonic-silver);
+.neuehaasgroteskdisplaypro-95-black-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-52px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-white-47px {
+  color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 8px;
+  font-size: 47px;
   font-style: normal;
   font-weight: 400;
 }
@@ -359,116 +360,12 @@
   font-weight: 500;
 }
 
-.dinosaur-book-normal-black-28px {
+.neuehaasgroteskdisplaypro-95-black-black-40px {
   color: var(--black);
-  font-family: var(--font-family-dinosaur-book);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-25-thin-white-26px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: 26px;
-  font-style: normal;
-  font-weight: 100;
-}
-
-.neuehaasgroteskdisplaypro-95-black-white-40px {
-  color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
   font-size: 40px;
   font-style: normal;
   font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-25-thin-white-14px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 100;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-45px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 45px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-white-70px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 70px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-white-54px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 54px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-22px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-31px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 31px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-95-black-white-12px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-25-thin-white-18px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 100;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-white-52px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 52px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-white-47px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 47px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-6px {
-  color: var(--sonic-silver);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 6px;
-  font-style: normal;
-  font-weight: 400;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-white-43px {
@@ -479,62 +376,6 @@
   font-weight: 500;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-47px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 47px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-95-black-black-30px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 900;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-18px {
-  color: var(--fuchsia-pink);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-chicago-18px {
-  color: var(--chicago);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-29px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 29px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-20px {
-  color: var(--fuchsia-pink);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-95-black-white-7px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 7px;
-  font-style: normal;
-  font-weight: 900;
-}
-
 .neuehaasgroteskdisplaypro-55roman-normal-white-21px {
   color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
@@ -543,60 +384,28 @@
   font-weight: 400;
 }
 
-.freightbigpro-lightitalic-light-black-33px {
+.neuehaasgroteskdisplaypro-55roman-normal-black-10px {
   color: var(--black);
-  font-family: var(--font-family-freightbigpro-lightitalic);
-  font-size: 33px;
-  font-style: italic;
-  font-weight: 300;
-}
-
-.sybarite-smallitalic-normal-black-22px {
-  color: var(--black);
-  font-family: var(--font-family-sybarite-smallitalic);
-  font-size: var(--font-size-l);
-  font-style: italic;
-  font-weight: 400;
-}
-
-.inputmonocompressed-light-black-23-5px {
-  color: var(--black);
-  font-family: var(--font-family-inputmono_compressed-light);
-  font-size: 23.5px;
-  font-style: normal;
-  font-weight: 300;
-}
-
-.khmermn-regular-normal-black-21px {
-  color: var(--black);
-  font-family: var(--font-family-khmermn-regular);
-  font-size: 21px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 10px;
   font-style: normal;
   font-weight: 400;
 }
 
-.freightbigpro-semi-bold-white-64px {
-  color: var(--white);
-  font-family: var(--font-family-freightbigpro-semibold);
-  font-size: 64px;
-  font-style: normal;
-  font-weight: 600;
-}
-
-.dinosaur-book-normal-black-22px {
+.neuehaasgroteskdisplaypro-55roman-normal-black-22px {
   color: var(--black);
-  font-family: var(--font-family-dinosaur-book);
-  font-size: var(--font-size-l);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-95-black-white-52px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 52px;
+.neuehaasgroteskdisplaypro-55roman-normal-black-31px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 31px;
   font-style: normal;
-  font-weight: 900;
+  font-weight: 400;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-17px {
@@ -623,28 +432,84 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-34px {
+.neuehaasgroteskdisplaypro-95-black-black-30px {
   color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 34px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 30px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-35px {
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-18px {
   color: var(--fuchsia-pink);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 35px;
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 500;
 }
 
-.dashiellfine-regular-normal-white-7px {
-  color: var(--white);
-  font-family: var(--font-family-dashiellfine-regular);
-  font-size: 7px;
+.neuehaasgroteskdisplaypro-65-medium-chicago-18px {
+  color: var(--chicago);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-19px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-25-thin-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.neuehaasgroteskdisplaypro-95-black-white-52px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-95-black-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-6px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-25-thin-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 100;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-26px {
@@ -655,20 +520,84 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-27px {
+.neuehaasgroteskdisplaypro-55roman-normal-black-12px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 27px;
+  font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-28px {
-  color: var(--fuchsia-pink);
+.neuehaasgroteskdisplaypro-55roman-normal-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-29px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-45px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-black-16px {
+  color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: var(--font-size-xxl);
+  font-size: 16px;
   font-style: normal;
   font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-89px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 89px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-chicago-16px {
+  color: var(--chicago);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-25-thin-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-25thin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.dashiellfine-regular-normal-white-7px {
+  color: var(--white);
+  font-family: var(--font-family-dashiellfine-regular);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-47px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-95-black-black-43px {
@@ -695,36 +624,132 @@
   font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-12px {
+.neuehaasgroteskdisplaypro-95-black-white-58px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-12px {
   color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
   font-size: var(--font-size-xxs);
   font-style: normal;
-  font-weight: 400;
+  font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-8px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 8px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-19px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 19px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-19px {
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-20px {
   color: var(--fuchsia-pink);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 19px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-95-black-white-7px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-62px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-star-dust-18px {
+  color: var(--star-dust);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-34px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-35px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-28px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-42px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-white-4px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 4px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-46lightitalic-light-white-4px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-46light_italic);
+  font-size: 4px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-2px {
@@ -733,30 +758,6 @@
   font-size: 2px;
   font-style: normal;
   font-weight: 400;
-}
-
-.dinosaur-book-normal-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-dinosaur-book);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.freightbigpro-lightitalic-light-black-25px {
-  color: var(--black);
-  font-family: var(--font-family-freightbigpro-lightitalic);
-  font-size: 25px;
-  font-style: italic;
-  font-weight: 300;
-}
-
-.freightbigpro-semi-bold-black-23px {
-  color: var(--black);
-  font-family: var(--font-family-freightbigpro-semibold);
-  font-size: 23px;
-  font-style: normal;
-  font-weight: 600;
 }
 
 :root {
