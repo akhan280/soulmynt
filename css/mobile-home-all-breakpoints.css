@@ -283,14 +283,14 @@
   width: 116px;
 }
 
-.desktop-home .names-degree-De3xAU.bp1-animate-enter13 {
-  animation: bp1-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .names-degree-De3xAU.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter13-frames {
+@keyframes bp1-animate-enter-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -315,14 +315,14 @@ transform: scale(1);
   width: 178px;
 }
 
-.desktop-home .bs-computer-science2024-De3xAU.bp1-animate-enter14 {
-  animation: bp1-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .bs-computer-science2024-De3xAU.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter14-frames {
+@keyframes bp1-animate-enter1-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -347,14 +347,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-De3xAU.bp1-animate-enter15 {
-  animation: bp1-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-De3xAU.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter15-frames {
+@keyframes bp1-animate-enter2-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -711,14 +711,14 @@ transform: scale(1);
   width: 116px;
 }
 
-.desktop-home .names-degree-sfoe9x.bp1-animate-enter16 {
-  animation: bp1-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .names-degree-sfoe9x.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter16-frames {
+@keyframes bp1-animate-enter3-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -743,14 +743,14 @@ transform: scale(1);
   width: 178px;
 }
 
-.desktop-home .bs-computer-science2024-sfoe9x.bp1-animate-enter17 {
-  animation: bp1-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .bs-computer-science2024-sfoe9x.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter17-frames {
+@keyframes bp1-animate-enter4-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -775,14 +775,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-sfoe9x.bp1-animate-enter18 {
-  animation: bp1-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-sfoe9x.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter18-frames {
+@keyframes bp1-animate-enter5-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -838,14 +838,14 @@ transform: scale(1);
   width: 110px;
 }
 
-.desktop-home .this-isnt-even-sfoe9x.bp1-animate-enter19 {
-  animation: bp1-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .this-isnt-even-sfoe9x.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter19-frames {
+@keyframes bp1-animate-enter6-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -870,14 +870,14 @@ transform: scale(1);
   width: 66px;
 }
 
-.desktop-home .random-sfoe9x.bp1-animate-enter20 {
-  animation: bp1-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .random-sfoe9x.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter20-frames {
+@keyframes bp1-animate-enter7-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -902,14 +902,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-OX3WIZ.bp1-animate-enter21 {
-  animation: bp1-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-OX3WIZ.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter21-frames {
+@keyframes bp1-animate-enter8-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -974,14 +974,14 @@ transform: scale(1);
   width: 92px;
 }
 
-.desktop-home .kanye-west-1XIQvI.bp1-animate-enter22 {
-  animation: bp1-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .kanye-west-1XIQvI.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter22-frames {
+@keyframes bp1-animate-enter9-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1006,14 +1006,14 @@ transform: scale(1);
   width: 52px;
 }
 
-.desktop-home .album-1XIQvI.bp1-animate-enter23 {
-  animation: bp1-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .album-1XIQvI.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter23-frames {
+@keyframes bp1-animate-enter10-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1038,14 +1038,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-1XIQvI.bp1-animate-enter24 {
-  animation: bp1-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-1XIQvI.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter24-frames {
+@keyframes bp1-animate-enter11-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1091,14 +1091,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-mCFHXK.bp1-animate-enter25 {
-  animation: bp1-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-mCFHXK.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter25-frames {
+@keyframes bp1-animate-enter12-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1163,14 +1163,14 @@ transform: scale(1);
   width: 116px;
 }
 
-.desktop-home .names-degree-cMbElx.bp1-animate-enter26 {
-  animation: bp1-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .names-degree-cMbElx.bp1-animate-enter13 {
+  animation: bp1-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter26-frames {
+@keyframes bp1-animate-enter13-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1195,14 +1195,14 @@ transform: scale(1);
   width: 178px;
 }
 
-.desktop-home .bs-computer-science2024-cMbElx.bp1-animate-enter27 {
-  animation: bp1-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .bs-computer-science2024-cMbElx.bp1-animate-enter14 {
+  animation: bp1-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter27-frames {
+@keyframes bp1-animate-enter14-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1227,14 +1227,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-cMbElx.bp1-animate-enter28 {
-  animation: bp1-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-cMbElx.bp1-animate-enter15 {
+  animation: bp1-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter28-frames {
+@keyframes bp1-animate-enter15-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1285,14 +1285,14 @@ transform: scale(1);
   width: 228px;
 }
 
-.desktop-home .software-developer-intern-cMbElx.bp1-animate-enter29 {
-  animation: bp1-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .software-developer-intern-cMbElx.bp1-animate-enter16 {
+  animation: bp1-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter29-frames {
+@keyframes bp1-animate-enter16-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1322,14 +1322,14 @@ transform: scale(1);
   width: 139px;
 }
 
-.desktop-home .june-2022-august-2022-cMbElx.bp1-animate-enter30 {
-  animation: bp1-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .june-2022-august-2022-cMbElx.bp1-animate-enter17 {
+  animation: bp1-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter30-frames {
+@keyframes bp1-animate-enter17-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1359,14 +1359,14 @@ transform: scale(1);
   width: 110px;
 }
 
-.desktop-home .issued-by-metamask-cMbElx.bp1-animate-enter31 {
-  animation: bp1-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-metamask-cMbElx.bp1-animate-enter18 {
+  animation: bp1-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter31-frames {
+@keyframes bp1-animate-enter18-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1465,14 +1465,14 @@ transform: scale(1);
   width: 88px;
 }
 
-.desktop-home .view-description-cMbElx.bp1-animate-enter32 {
-  animation: bp1-animate-enter32-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .view-description-cMbElx.bp1-animate-enter19 {
+  animation: bp1-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter32-frames {
+@keyframes bp1-animate-enter19-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1577,14 +1577,14 @@ transform: scale(1);
   width: 116px;
 }
 
-.desktop-home .names-degree-cx6Ixg.bp1-animate-enter33 {
-  animation: bp1-animate-enter33-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .names-degree-cx6Ixg.bp1-animate-enter20 {
+  animation: bp1-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter33-frames {
+@keyframes bp1-animate-enter20-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1609,14 +1609,14 @@ transform: scale(1);
   width: 178px;
 }
 
-.desktop-home .bs-computer-science2024-cx6Ixg.bp1-animate-enter34 {
-  animation: bp1-animate-enter34-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .bs-computer-science2024-cx6Ixg.bp1-animate-enter21 {
+  animation: bp1-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter34-frames {
+@keyframes bp1-animate-enter21-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1641,14 +1641,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-cx6Ixg.bp1-animate-enter35 {
-  animation: bp1-animate-enter35-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-cx6Ixg.bp1-animate-enter22 {
+  animation: bp1-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter35-frames {
+@keyframes bp1-animate-enter22-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1704,14 +1704,14 @@ transform: scale(1);
   width: 110px;
 }
 
-.desktop-home .this-isnt-even-cx6Ixg.bp1-animate-enter36 {
-  animation: bp1-animate-enter36-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .this-isnt-even-cx6Ixg.bp1-animate-enter23 {
+  animation: bp1-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter36-frames {
+@keyframes bp1-animate-enter23-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1736,14 +1736,14 @@ transform: scale(1);
   width: 66px;
 }
 
-.desktop-home .random-cx6Ixg.bp1-animate-enter37 {
-  animation: bp1-animate-enter37-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .random-cx6Ixg.bp1-animate-enter24 {
+  animation: bp1-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter37-frames {
+@keyframes bp1-animate-enter24-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1768,14 +1768,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-KGpzgz.bp1-animate-enter38 {
-  animation: bp1-animate-enter38-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-KGpzgz.bp1-animate-enter25 {
+  animation: bp1-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter38-frames {
+@keyframes bp1-animate-enter25-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1840,14 +1840,14 @@ transform: scale(1);
   width: 92px;
 }
 
-.desktop-home .kanye-west-Ozh9Mw.bp1-animate-enter39 {
-  animation: bp1-animate-enter39-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .kanye-west-Ozh9Mw.bp1-animate-enter26 {
+  animation: bp1-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter39-frames {
+@keyframes bp1-animate-enter26-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1872,14 +1872,14 @@ transform: scale(1);
   width: 52px;
 }
 
-.desktop-home .album-Ozh9Mw.bp1-animate-enter40 {
-  animation: bp1-animate-enter40-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .album-Ozh9Mw.bp1-animate-enter27 {
+  animation: bp1-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter40-frames {
+@keyframes bp1-animate-enter27-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1904,14 +1904,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-Ozh9Mw.bp1-animate-enter41 {
-  animation: bp1-animate-enter41-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-Ozh9Mw.bp1-animate-enter28 {
+  animation: bp1-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter41-frames {
+@keyframes bp1-animate-enter28-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -1957,14 +1957,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-GlxDn2.bp1-animate-enter42 {
-  animation: bp1-animate-enter42-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-GlxDn2.bp1-animate-enter29 {
+  animation: bp1-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter42-frames {
+@keyframes bp1-animate-enter29-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2029,14 +2029,14 @@ transform: scale(1);
   width: 116px;
 }
 
-.desktop-home .names-degree-pzbSMu.bp1-animate-enter43 {
-  animation: bp1-animate-enter43-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .names-degree-pzbSMu.bp1-animate-enter30 {
+  animation: bp1-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter43-frames {
+@keyframes bp1-animate-enter30-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2061,14 +2061,14 @@ transform: scale(1);
   width: 178px;
 }
 
-.desktop-home .bs-computer-science2024-pzbSMu.bp1-animate-enter44 {
-  animation: bp1-animate-enter44-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .bs-computer-science2024-pzbSMu.bp1-animate-enter31 {
+  animation: bp1-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter44-frames {
+@keyframes bp1-animate-enter31-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2093,14 +2093,14 @@ transform: scale(1);
   width: 156px;
 }
 
-.desktop-home .issued-by-university-of-michigan-pzbSMu.bp1-animate-enter45 {
-  animation: bp1-animate-enter45-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-university-of-michigan-pzbSMu.bp1-animate-enter32 {
+  animation: bp1-animate-enter32-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter45-frames {
+@keyframes bp1-animate-enter32-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2151,14 +2151,14 @@ transform: scale(1);
   width: 228px;
 }
 
-.desktop-home .software-developer-intern-pzbSMu.bp1-animate-enter46 {
-  animation: bp1-animate-enter46-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .software-developer-intern-pzbSMu.bp1-animate-enter33 {
+  animation: bp1-animate-enter33-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter46-frames {
+@keyframes bp1-animate-enter33-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2188,14 +2188,14 @@ transform: scale(1);
   width: 139px;
 }
 
-.desktop-home .june-2022-august-2022-pzbSMu.bp1-animate-enter47 {
-  animation: bp1-animate-enter47-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .june-2022-august-2022-pzbSMu.bp1-animate-enter34 {
+  animation: bp1-animate-enter34-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter47-frames {
+@keyframes bp1-animate-enter34-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2225,14 +2225,14 @@ transform: scale(1);
   width: 110px;
 }
 
-.desktop-home .issued-by-metamask-pzbSMu.bp1-animate-enter48 {
-  animation: bp1-animate-enter48-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .issued-by-metamask-pzbSMu.bp1-animate-enter35 {
+  animation: bp1-animate-enter35-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter48-frames {
+@keyframes bp1-animate-enter35-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2331,14 +2331,14 @@ transform: scale(1);
   width: 88px;
 }
 
-.desktop-home .view-description-pzbSMu.bp1-animate-enter49 {
-  animation: bp1-animate-enter49-frames 0.20s ease 0.00s 1 normal forwards;
+.desktop-home .view-description-pzbSMu.bp1-animate-enter36 {
+  animation: bp1-animate-enter36-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp1-animate-enter49-frames {
+@keyframes bp1-animate-enter36-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2964,7 +2964,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 31px;
-  left: calc(3.56% - 3px);
+  left: calc(3.66% - 3px);
   letter-spacing: 0.39px;
   line-height: 26px;
   pointer-events: auto;
@@ -2973,7 +2973,7 @@ transform: scale(1);
   top: 61px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 86px;
+  width: 82px;
 }
 
 .desktop-home .contact-sfdSZi:hover {
@@ -4617,7 +4617,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 18px;
-  left: calc(4.64% - 2px);
+  left: calc(4.83% - 2px);
   letter-spacing: 0.21px;
   line-height: 14px;
   pointer-events: auto;
@@ -4626,7 +4626,7 @@ transform: scale(1);
   top: 51px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 48px;
+  width: 44px;
 }
 
 .ipad-home .contact-uPKser:hover {
@@ -4777,14 +4777,14 @@ transform: scale(1);
   width: 101px;
 }
 
-.ipad-home .bs-computer-science2024-hsZ6BY.bp3-animate-enter11 {
-  animation: bp3-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .bs-computer-science2024-hsZ6BY.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter11-frames {
+@keyframes bp3-animate-enter-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -4809,14 +4809,14 @@ transform: scale(1);
   width: 86px;
 }
 
-.ipad-home .issued-by-university-of-michigan-hsZ6BY.bp3-animate-enter12 {
-  animation: bp3-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-hsZ6BY.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter12-frames {
+@keyframes bp3-animate-enter1-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -4899,14 +4899,14 @@ transform: scale(1);
   width: 70px;
 }
 
-.ipad-home .names-degree-hsZ6BY.bp3-animate-enter13 {
-  animation: bp3-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .names-degree-hsZ6BY.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter13-frames {
+@keyframes bp3-animate-enter2-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5105,14 +5105,14 @@ transform: scale(1);
   width: 56px;
 }
 
-.ipad-home .names-degree-hqEI4K.bp3-animate-enter14 {
-  animation: bp3-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .names-degree-hqEI4K.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter14-frames {
+@keyframes bp3-animate-enter3-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5137,14 +5137,14 @@ transform: scale(1);
   width: 90px;
 }
 
-.ipad-home .bs-computer-science2024-hqEI4K.bp3-animate-enter15 {
-  animation: bp3-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .bs-computer-science2024-hqEI4K.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter15-frames {
+@keyframes bp3-animate-enter4-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5169,14 +5169,14 @@ transform: scale(1);
   width: 72px;
 }
 
-.ipad-home .issued-by-university-of-michigan-hqEI4K.bp3-animate-enter16 {
-  animation: bp3-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-hqEI4K.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter16-frames {
+@keyframes bp3-animate-enter5-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5232,14 +5232,14 @@ transform: scale(1);
   width: 54px;
 }
 
-.ipad-home .this-isnt-even-hqEI4K.bp3-animate-enter17 {
-  animation: bp3-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .this-isnt-even-hqEI4K.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter17-frames {
+@keyframes bp3-animate-enter6-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5264,14 +5264,14 @@ transform: scale(1);
   width: 34px;
 }
 
-.ipad-home .random-hqEI4K.bp3-animate-enter18 {
-  animation: bp3-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .random-hqEI4K.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter18-frames {
+@keyframes bp3-animate-enter7-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5296,14 +5296,14 @@ transform: scale(1);
   width: 72px;
 }
 
-.ipad-home .issued-by-university-of-michigan-9dONC3.bp3-animate-enter19 {
-  animation: bp3-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-9dONC3.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter19-frames {
+@keyframes bp3-animate-enter8-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5368,14 +5368,14 @@ transform: scale(1);
   width: 44px;
 }
 
-.ipad-home .kanye-west-nGUPbn.bp3-animate-enter20 {
-  animation: bp3-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .kanye-west-nGUPbn.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter20-frames {
+@keyframes bp3-animate-enter9-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5405,14 +5405,14 @@ transform: scale(1);
   width: 30px;
 }
 
-.ipad-home .album-nGUPbn.bp3-animate-enter21 {
-  animation: bp3-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .album-nGUPbn.bp3-animate-enter10 {
+  animation: bp3-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter21-frames {
+@keyframes bp3-animate-enter10-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5437,14 +5437,14 @@ transform: scale(1);
   width: 72px;
 }
 
-.ipad-home .issued-by-university-of-michigan-nGUPbn.bp3-animate-enter22 {
-  animation: bp3-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-nGUPbn.bp3-animate-enter11 {
+  animation: bp3-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter22-frames {
+@keyframes bp3-animate-enter11-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5490,14 +5490,14 @@ transform: scale(1);
   width: 72px;
 }
 
-.ipad-home .issued-by-university-of-michigan-dW5rIU.bp3-animate-enter23 {
-  animation: bp3-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-dW5rIU.bp3-animate-enter12 {
+  animation: bp3-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter23-frames {
+@keyframes bp3-animate-enter12-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5562,14 +5562,14 @@ transform: scale(1);
   width: 56px;
 }
 
-.ipad-home .names-degree-tu96jG.bp3-animate-enter24 {
-  animation: bp3-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .names-degree-tu96jG.bp3-animate-enter13 {
+  animation: bp3-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter24-frames {
+@keyframes bp3-animate-enter13-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5594,14 +5594,14 @@ transform: scale(1);
   width: 90px;
 }
 
-.ipad-home .bs-computer-science2024-tu96jG.bp3-animate-enter25 {
-  animation: bp3-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .bs-computer-science2024-tu96jG.bp3-animate-enter14 {
+  animation: bp3-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter25-frames {
+@keyframes bp3-animate-enter14-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5626,14 +5626,14 @@ transform: scale(1);
   width: 72px;
 }
 
-.ipad-home .issued-by-university-of-michigan-tu96jG.bp3-animate-enter26 {
-  animation: bp3-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-university-of-michigan-tu96jG.bp3-animate-enter15 {
+  animation: bp3-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter26-frames {
+@keyframes bp3-animate-enter15-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5679,14 +5679,14 @@ transform: scale(1);
   width: 144px;
 }
 
-.ipad-home .software-developer-intern-tu96jG.bp3-animate-enter27 {
-  animation: bp3-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .software-developer-intern-tu96jG.bp3-animate-enter16 {
+  animation: bp3-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter27-frames {
+@keyframes bp3-animate-enter16-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5711,14 +5711,14 @@ transform: scale(1);
   width: 76px;
 }
 
-.ipad-home .june-2022-august-2022-tu96jG.bp3-animate-enter28 {
-  animation: bp3-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .june-2022-august-2022-tu96jG.bp3-animate-enter17 {
+  animation: bp3-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter28-frames {
+@keyframes bp3-animate-enter17-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5748,14 +5748,14 @@ transform: scale(1);
   width: 48px;
 }
 
-.ipad-home .issued-by-metamask-tu96jG.bp3-animate-enter29 {
-  animation: bp3-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .issued-by-metamask-tu96jG.bp3-animate-enter18 {
+  animation: bp3-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter29-frames {
+@keyframes bp3-animate-enter18-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -5854,14 +5854,14 @@ transform: scale(1);
   width: 48px;
 }
 
-.ipad-home .view-description-tu96jG.bp3-animate-enter30 {
-  animation: bp3-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+.ipad-home .view-description-tu96jG.bp3-animate-enter19 {
+  animation: bp3-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp3-animate-enter30-frames {
+@keyframes bp3-animate-enter19-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -6477,17 +6477,23 @@ transform: scale(1);
   width: 100.01%;
 }
 
-.ipad-home .group-2212-hK8hBu {
+.ipad-home .group-22121-hK8hBu {
   background-color: transparent;
   cursor: pointer;
   height: 15.64%;
   left: 91.07%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.91%;
 }
 
-.ipad-home .group-2001-xFHs9c {
+.ipad-home .group-22121-hK8hBu:hover {
+  transform: scale(1.1);
+}
+
+.ipad-home .group-2001-OyjKjZ {
   background-color: transparent;
   height: 23px;
   left: -0px;
@@ -6497,7 +6503,7 @@ transform: scale(1);
   width: 12px;
 }
 
-.ipad-home .path-24-xFHs9c {
+.ipad-home .path-24-OyjKjZ {
   background-color: transparent;
   height: 15px;
   left: 1px;
@@ -6507,7 +6513,7 @@ transform: scale(1);
   width: 12px;
 }
 
-.ipad-home .path-25-xFHs9c {
+.ipad-home .path-25-OyjKjZ {
   background-color: transparent;
   height: 7px;
   left: 11px;
@@ -7044,14 +7050,14 @@ transform: scale(1);
   width: 36px;
 }
 
-.mobile-650-home .names-degree-5rJKQp.bp4-animate-enter8 {
-  animation: bp4-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .names-degree-5rJKQp.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter8-frames {
+@keyframes bp4-animate-enter1-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7076,14 +7082,14 @@ transform: scale(1);
   width: 57px;
 }
 
-.mobile-650-home .bs-computer-science2024-5rJKQp.bp4-animate-enter9 {
-  animation: bp4-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .bs-computer-science2024-5rJKQp.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter9-frames {
+@keyframes bp4-animate-enter2-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7108,14 +7114,14 @@ transform: scale(1);
   width: 86px;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-5rJKQp.bp4-animate-enter10 {
-  animation: bp4-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-5rJKQp.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter10-frames {
+@keyframes bp4-animate-enter3-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7338,14 +7344,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .names-degree-RaiFHy.bp4-animate-enter11 {
-  animation: bp4-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .names-degree-RaiFHy.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter11-frames {
+@keyframes bp4-animate-enter4-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7370,14 +7376,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .bs-computer-science2024-RaiFHy.bp4-animate-enter12 {
-  animation: bp4-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .bs-computer-science2024-RaiFHy.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter12-frames {
+@keyframes bp4-animate-enter5-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7402,14 +7408,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-RaiFHy.bp4-animate-enter13 {
-  animation: bp4-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-RaiFHy.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter13-frames {
+@keyframes bp4-animate-enter6-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7465,14 +7471,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .this-isnt-even-RaiFHy.bp4-animate-enter14 {
-  animation: bp4-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .this-isnt-even-RaiFHy.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter14-frames {
+@keyframes bp4-animate-enter7-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7497,14 +7503,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .random-RaiFHy.bp4-animate-enter15 {
-  animation: bp4-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .random-RaiFHy.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter15-frames {
+@keyframes bp4-animate-enter8-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7529,14 +7535,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-sPdu8P.bp4-animate-enter16 {
-  animation: bp4-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-sPdu8P.bp4-animate-enter9 {
+  animation: bp4-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter16-frames {
+@keyframes bp4-animate-enter9-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7601,14 +7607,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .kanye-west-QRtC1Q.bp4-animate-enter17 {
-  animation: bp4-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .kanye-west-QRtC1Q.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter17-frames {
+@keyframes bp4-animate-enter10-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7633,14 +7639,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .album-QRtC1Q.bp4-animate-enter18 {
-  animation: bp4-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .album-QRtC1Q.bp4-animate-enter11 {
+  animation: bp4-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter18-frames {
+@keyframes bp4-animate-enter11-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7665,14 +7671,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-QRtC1Q.bp4-animate-enter19 {
-  animation: bp4-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-QRtC1Q.bp4-animate-enter12 {
+  animation: bp4-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter19-frames {
+@keyframes bp4-animate-enter12-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7718,14 +7724,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-1zT2mJ.bp4-animate-enter20 {
-  animation: bp4-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-1zT2mJ.bp4-animate-enter13 {
+  animation: bp4-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter20-frames {
+@keyframes bp4-animate-enter13-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7790,14 +7796,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .names-degree-vZhKfo.bp4-animate-enter21 {
-  animation: bp4-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .names-degree-vZhKfo.bp4-animate-enter14 {
+  animation: bp4-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter21-frames {
+@keyframes bp4-animate-enter14-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7822,14 +7828,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .bs-computer-science2024-vZhKfo.bp4-animate-enter22 {
-  animation: bp4-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .bs-computer-science2024-vZhKfo.bp4-animate-enter15 {
+  animation: bp4-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter22-frames {
+@keyframes bp4-animate-enter15-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7854,14 +7860,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-university-of-michigan-vZhKfo.bp4-animate-enter23 {
-  animation: bp4-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-university-of-michigan-vZhKfo.bp4-animate-enter16 {
+  animation: bp4-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter23-frames {
+@keyframes bp4-animate-enter16-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7907,14 +7913,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .software-developer-intern-vZhKfo.bp4-animate-enter24 {
-  animation: bp4-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .software-developer-intern-vZhKfo.bp4-animate-enter17 {
+  animation: bp4-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter24-frames {
+@keyframes bp4-animate-enter17-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7939,14 +7945,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .june-2022-august-2022-vZhKfo.bp4-animate-enter25 {
-  animation: bp4-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .june-2022-august-2022-vZhKfo.bp4-animate-enter18 {
+  animation: bp4-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter25-frames {
+@keyframes bp4-animate-enter18-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -7971,14 +7977,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .issued-by-metamask-vZhKfo.bp4-animate-enter26 {
-  animation: bp4-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .issued-by-metamask-vZhKfo.bp4-animate-enter19 {
+  animation: bp4-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter26-frames {
+@keyframes bp4-animate-enter19-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -8072,14 +8078,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-650-home .view-description-vZhKfo.bp4-animate-enter27 {
-  animation: bp4-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .view-description-vZhKfo.bp4-animate-enter20 {
+  animation: bp4-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter27-frames {
+@keyframes bp4-animate-enter20-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -8232,7 +8238,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 32px;
-  left: calc(5.22% - 5px);
+  left: calc(5.69% - 5px);
   letter-spacing: 0.39px;
   line-height: 26px;
   pointer-events: auto;
@@ -8241,7 +8247,7 @@ transform: scale(1);
   top: 44px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 94px;
+  width: 88px;
 }
 
 .mobile-650-home .contact-SM2SF3:hover {
@@ -8630,14 +8636,14 @@ transform: scale(1);
   width: 92px;
 }
 
-.mobile-650-home .soulmynt-5xtG3x.bp4-animate-enter28 {
-  animation: bp4-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-home .soulmynt-5xtG3x.bp4-animate-enter21 {
+  animation: bp4-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter28-frames {
+@keyframes bp4-animate-enter21-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -8751,6 +8757,7 @@ transform: scale(1);
 
 .mobile-650-home .icon-linkedin-5sgP1c {
   background-color: transparent;
+  cursor: pointer;
   height: 27px;
   left: 196px;
   object-fit: cover;
@@ -8796,6 +8803,7 @@ transform: scale(1);
 
 .mobile-650-home .group-2224-5xtG3x {
   background-color: transparent;
+  cursor: pointer;
   height: 22px;
   position: absolute;
   right: 25px;
@@ -9455,14 +9463,14 @@ transform: scale(1);
   width: 36px;
 }
 
-.mobile-home-all-breakpoints .names-degree-nbKjJT.bp5-animate-enter9 {
-  animation: bp5-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .names-degree-nbKjJT.bp5-animate-enter1 {
+  animation: bp5-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter9-frames {
+@keyframes bp5-animate-enter1-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9487,14 +9495,14 @@ transform: scale(1);
   width: 57px;
 }
 
-.mobile-home-all-breakpoints .bs-computer-science2024-nbKjJT.bp5-animate-enter10 {
-  animation: bp5-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .bs-computer-science2024-nbKjJT.bp5-animate-enter2 {
+  animation: bp5-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter10-frames {
+@keyframes bp5-animate-enter2-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9519,14 +9527,14 @@ transform: scale(1);
   width: 86px;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-nbKjJT.bp5-animate-enter11 {
-  animation: bp5-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-nbKjJT.bp5-animate-enter3 {
+  animation: bp5-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter11-frames {
+@keyframes bp5-animate-enter3-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9750,14 +9758,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .names-degree-PxgwLo.bp5-animate-enter12 {
-  animation: bp5-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .names-degree-PxgwLo.bp5-animate-enter4 {
+  animation: bp5-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter12-frames {
+@keyframes bp5-animate-enter4-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9782,14 +9790,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .bs-computer-science2024-PxgwLo.bp5-animate-enter13 {
-  animation: bp5-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .bs-computer-science2024-PxgwLo.bp5-animate-enter5 {
+  animation: bp5-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter13-frames {
+@keyframes bp5-animate-enter5-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9814,14 +9822,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-PxgwLo.bp5-animate-enter14 {
-  animation: bp5-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-PxgwLo.bp5-animate-enter6 {
+  animation: bp5-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter14-frames {
+@keyframes bp5-animate-enter6-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9877,14 +9885,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .this-isnt-even-PxgwLo.bp5-animate-enter15 {
-  animation: bp5-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .this-isnt-even-PxgwLo.bp5-animate-enter7 {
+  animation: bp5-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter15-frames {
+@keyframes bp5-animate-enter7-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9909,14 +9917,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .random-PxgwLo.bp5-animate-enter16 {
-  animation: bp5-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .random-PxgwLo.bp5-animate-enter8 {
+  animation: bp5-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter16-frames {
+@keyframes bp5-animate-enter8-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -9941,14 +9949,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-VE1pkx.bp5-animate-enter17 {
-  animation: bp5-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-VE1pkx.bp5-animate-enter9 {
+  animation: bp5-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter17-frames {
+@keyframes bp5-animate-enter9-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10018,14 +10026,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .kanye-west-v5IW0P.bp5-animate-enter18 {
-  animation: bp5-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .kanye-west-v5IW0P.bp5-animate-enter10 {
+  animation: bp5-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter18-frames {
+@keyframes bp5-animate-enter10-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10050,14 +10058,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .album-v5IW0P.bp5-animate-enter19 {
-  animation: bp5-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .album-v5IW0P.bp5-animate-enter11 {
+  animation: bp5-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter19-frames {
+@keyframes bp5-animate-enter11-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10082,14 +10090,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-v5IW0P.bp5-animate-enter20 {
-  animation: bp5-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-v5IW0P.bp5-animate-enter12 {
+  animation: bp5-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter20-frames {
+@keyframes bp5-animate-enter12-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10135,14 +10143,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-AkhQzx.bp5-animate-enter21 {
-  animation: bp5-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-AkhQzx.bp5-animate-enter13 {
+  animation: bp5-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter21-frames {
+@keyframes bp5-animate-enter13-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10207,14 +10215,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .names-degree-P0LwB7.bp5-animate-enter22 {
-  animation: bp5-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .names-degree-P0LwB7.bp5-animate-enter14 {
+  animation: bp5-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter22-frames {
+@keyframes bp5-animate-enter14-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10239,14 +10247,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .bs-computer-science2024-P0LwB7.bp5-animate-enter23 {
-  animation: bp5-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .bs-computer-science2024-P0LwB7.bp5-animate-enter15 {
+  animation: bp5-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter23-frames {
+@keyframes bp5-animate-enter15-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10271,14 +10279,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-university-of-michigan-P0LwB7.bp5-animate-enter24 {
-  animation: bp5-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-university-of-michigan-P0LwB7.bp5-animate-enter16 {
+  animation: bp5-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter24-frames {
+@keyframes bp5-animate-enter16-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10329,14 +10337,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .software-developer-intern-P0LwB7.bp5-animate-enter25 {
-  animation: bp5-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .software-developer-intern-P0LwB7.bp5-animate-enter17 {
+  animation: bp5-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter25-frames {
+@keyframes bp5-animate-enter17-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10366,14 +10374,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .june-2022-august-2022-P0LwB7.bp5-animate-enter26 {
-  animation: bp5-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .june-2022-august-2022-P0LwB7.bp5-animate-enter18 {
+  animation: bp5-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter26-frames {
+@keyframes bp5-animate-enter18-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10403,14 +10411,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .issued-by-metamask-P0LwB7.bp5-animate-enter27 {
-  animation: bp5-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .issued-by-metamask-P0LwB7.bp5-animate-enter19 {
+  animation: bp5-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter27-frames {
+@keyframes bp5-animate-enter19-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10509,14 +10517,14 @@ transform: scale(1);
   width: auto;
 }
 
-.mobile-home-all-breakpoints .view-description-P0LwB7.bp5-animate-enter28 {
-  animation: bp5-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .view-description-P0LwB7.bp5-animate-enter20 {
+  animation: bp5-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter28-frames {
+@keyframes bp5-animate-enter20-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -10630,6 +10638,7 @@ transform: scale(1);
 .mobile-home-all-breakpoints .group-2389-tFZHN6 {
   background-color: transparent;
   bottom: 0px;
+  cursor: pointer;
   height: 24px;
   left: calc(49.71% - 65px);
   position: absolute;
@@ -10851,7 +10860,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 19px;
-  left: calc(8.41% - 5px);
+  left: calc(8.67% - 5px);
   letter-spacing: 0.22px;
   line-height: 15px;
   pointer-events: auto;
@@ -10860,7 +10869,7 @@ transform: scale(1);
   top: 32px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 54px;
+  width: 52px;
 }
 
 .mobile-home-all-breakpoints .contact-YxpQxI:hover {
@@ -10964,14 +10973,14 @@ transform: scale(1);
   width: 120px;
 }
 
-.mobile-home-all-breakpoints .soulmynt-2liyuI.bp5-animate-enter29 {
-  animation: bp5-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-home-all-breakpoints .soulmynt-2liyuI.bp5-animate-enter21 {
+  animation: bp5-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter29-frames {
+@keyframes bp5-animate-enter21-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -11031,6 +11040,7 @@ transform: scale(1);
 
 .mobile-home-all-breakpoints .icon-linkedin-MLXTTF {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% - 1px);
   object-fit: cover;
   position: absolute;
@@ -12104,7 +12114,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 22px;
-  left: calc(4.95% - 3px);
+  left: calc(5.02% - 3px);
   letter-spacing: 0.27px;
   line-height: 18px;
   pointer-events: auto;
@@ -12113,7 +12123,7 @@ transform: scale(1);
   top: 54px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 60px;
+  width: 58px;
 }
 
 .web-1366-home .contact-sxHcv8:hover {
@@ -12444,9 +12454,15 @@ transform: scale(1);
   cursor: pointer;
   height: 15.64%;
   left: 91.32%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.93%;
+}
+
+.web-1366-home .group-2212-pdraV6:hover {
+  transform: scale(1.1);
 }
 
 .web-1366-home .group-2001-k1kffV {
@@ -12624,14 +12640,14 @@ transform: scale(1);
   width: 145px;
 }
 
-.web-1366-home .bs-computer-science2024-fn6rOf.bp2-animate-enter12 {
-  animation: bp2-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .bs-computer-science2024-fn6rOf.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter12-frames {
+@keyframes bp2-animate-enter-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -12656,14 +12672,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-fn6rOf.bp2-animate-enter13 {
-  animation: bp2-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-fn6rOf.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter13-frames {
+@keyframes bp2-animate-enter1-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -12746,14 +12762,14 @@ transform: scale(1);
   width: 90px;
 }
 
-.web-1366-home .names-degree-fn6rOf.bp2-animate-enter14 {
-  animation: bp2-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .names-degree-fn6rOf.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter14-frames {
+@keyframes bp2-animate-enter2-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -12942,14 +12958,14 @@ transform: scale(1);
   width: 82px;
 }
 
-.web-1366-home .names-degree-ghRmpM.bp2-animate-enter15 {
-  animation: bp2-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .names-degree-ghRmpM.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter15-frames {
+@keyframes bp2-animate-enter3-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -12974,14 +12990,14 @@ transform: scale(1);
   width: 134px;
 }
 
-.web-1366-home .bs-computer-science2024-ghRmpM.bp2-animate-enter16 {
-  animation: bp2-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .bs-computer-science2024-ghRmpM.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter16-frames {
+@keyframes bp2-animate-enter4-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13006,14 +13022,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-ghRmpM.bp2-animate-enter17 {
-  animation: bp2-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-ghRmpM.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter17-frames {
+@keyframes bp2-animate-enter5-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13069,14 +13085,14 @@ transform: scale(1);
   width: 78px;
 }
 
-.web-1366-home .this-isnt-even-ghRmpM.bp2-animate-enter18 {
-  animation: bp2-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .this-isnt-even-ghRmpM.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter18-frames {
+@keyframes bp2-animate-enter6-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13101,14 +13117,14 @@ transform: scale(1);
   width: 50px;
 }
 
-.web-1366-home .random-ghRmpM.bp2-animate-enter19 {
-  animation: bp2-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .random-ghRmpM.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter19-frames {
+@keyframes bp2-animate-enter7-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13133,14 +13149,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-2yRpYD.bp2-animate-enter20 {
-  animation: bp2-animate-enter20-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-2yRpYD.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter20-frames {
+@keyframes bp2-animate-enter8-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13205,14 +13221,14 @@ transform: scale(1);
   width: 66px;
 }
 
-.web-1366-home .kanye-west-ZEGDEN.bp2-animate-enter21 {
-  animation: bp2-animate-enter21-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .kanye-west-ZEGDEN.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter21-frames {
+@keyframes bp2-animate-enter9-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13237,14 +13253,14 @@ transform: scale(1);
   width: 40px;
 }
 
-.web-1366-home .album-ZEGDEN.bp2-animate-enter22 {
-  animation: bp2-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .album-ZEGDEN.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter22-frames {
+@keyframes bp2-animate-enter10-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13269,14 +13285,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-ZEGDEN.bp2-animate-enter23 {
-  animation: bp2-animate-enter23-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-ZEGDEN.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter23-frames {
+@keyframes bp2-animate-enter11-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13322,14 +13338,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-1Jc6mp.bp2-animate-enter24 {
-  animation: bp2-animate-enter24-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-1Jc6mp.bp2-animate-enter12 {
+  animation: bp2-animate-enter12-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter24-frames {
+@keyframes bp2-animate-enter12-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13394,14 +13410,14 @@ transform: scale(1);
   width: 82px;
 }
 
-.web-1366-home .names-degree-tlPxqO.bp2-animate-enter25 {
-  animation: bp2-animate-enter25-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .names-degree-tlPxqO.bp2-animate-enter13 {
+  animation: bp2-animate-enter13-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter25-frames {
+@keyframes bp2-animate-enter13-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13426,14 +13442,14 @@ transform: scale(1);
   width: 134px;
 }
 
-.web-1366-home .bs-computer-science2024-tlPxqO.bp2-animate-enter26 {
-  animation: bp2-animate-enter26-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .bs-computer-science2024-tlPxqO.bp2-animate-enter14 {
+  animation: bp2-animate-enter14-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter26-frames {
+@keyframes bp2-animate-enter14-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13458,14 +13474,14 @@ transform: scale(1);
   width: 114px;
 }
 
-.web-1366-home .issued-by-university-of-michigan-tlPxqO.bp2-animate-enter27 {
-  animation: bp2-animate-enter27-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-university-of-michigan-tlPxqO.bp2-animate-enter15 {
+  animation: bp2-animate-enter15-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter27-frames {
+@keyframes bp2-animate-enter15-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13516,14 +13532,14 @@ transform: scale(1);
   width: 180px;
 }
 
-.web-1366-home .software-developer-intern-tlPxqO.bp2-animate-enter28 {
-  animation: bp2-animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .software-developer-intern-tlPxqO.bp2-animate-enter16 {
+  animation: bp2-animate-enter16-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter28-frames {
+@keyframes bp2-animate-enter16-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13553,14 +13569,14 @@ transform: scale(1);
   width: 107px;
 }
 
-.web-1366-home .june-2022-august-2022-tlPxqO.bp2-animate-enter29 {
-  animation: bp2-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .june-2022-august-2022-tlPxqO.bp2-animate-enter17 {
+  animation: bp2-animate-enter17-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter29-frames {
+@keyframes bp2-animate-enter17-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13590,14 +13606,14 @@ transform: scale(1);
   width: 74px;
 }
 
-.web-1366-home .issued-by-metamask-tlPxqO.bp2-animate-enter30 {
-  animation: bp2-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .issued-by-metamask-tlPxqO.bp2-animate-enter18 {
+  animation: bp2-animate-enter18-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter30-frames {
+@keyframes bp2-animate-enter18-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -13696,14 +13712,14 @@ transform: scale(1);
   width: 68px;
 }
 
-.web-1366-home .view-description-tlPxqO.bp2-animate-enter31 {
-  animation: bp2-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
+.web-1366-home .view-description-tlPxqO.bp2-animate-enter19 {
+  animation: bp2-animate-enter19-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp2-animate-enter31-frames {
+@keyframes bp2-animate-enter19-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }

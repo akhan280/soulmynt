@@ -644,7 +644,7 @@
   background-color: transparent;
   cursor: pointer;
   height: 31px;
-  left: calc(3.23% - 3px);
+  left: calc(3.33% - 3px);
   letter-spacing: 0.39px;
   line-height: 26px;
   pointer-events: auto;
@@ -653,7 +653,7 @@
   top: 62px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 86px;
+  width: 82px;
 }
 
 .desktop-create .contact-yQ4b6i:hover {
@@ -1189,9 +1189,15 @@
   cursor: pointer;
   height: 15.64%;
   left: 91.07%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.91%;
+}
+
+.ipad-create .group-2212-DTS2d8:hover {
+  transform: scale(1.1);
 }
 
 .ipad-create .group-2001-08xyx3 {
@@ -1622,7 +1628,7 @@
   background-color: transparent;
   cursor: pointer;
   height: 18px;
-  left: calc(4.64% - 2px);
+  left: calc(4.83% - 2px);
   letter-spacing: 0.21px;
   line-height: 14px;
   pointer-events: auto;
@@ -1631,7 +1637,7 @@
   top: 51px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 48px;
+  width: 44px;
 }
 
 .ipad-create .contact-8sG25k:hover {
@@ -2027,9 +2033,15 @@
   cursor: pointer;
   height: 15.64%;
   left: 91.07%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.91%;
+}
+
+.mobile-650-create .group-2212-ptqIpn:hover {
+  transform: scale(1.1);
 }
 
 .mobile-650-create .group-2001-efcTnS {
@@ -2111,7 +2123,7 @@
   font-style: normal;
   font-weight: 400;
   height: 32px;
-  left: calc(5.22% - 5px);
+  left: calc(5.69% - 5px);
   letter-spacing: 0.39px;
   line-height: 26px;
   pointer-events: auto;
@@ -2120,7 +2132,7 @@
   top: 44px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 94px;
+  width: 88px;
 }
 
 .mobile-650-create .contact-jzokqF:hover {
@@ -2272,7 +2284,7 @@
   background-color: var(--gray-nurse);
   height: 100vh;
   margin: 0px;
-  min-height: 1170px;
+  min-height: 1314px;
   min-width: 375px;
   overflow: hidden;
   overflow-x: hidden;
@@ -2282,7 +2294,7 @@
 
 .mobile-create .path-222-DdxU7x {
   background-color: transparent;
-  height: 90.57%;
+  height: 85.53%;
   left: 0px;
   object-fit: cover;
   position: absolute;
@@ -2336,7 +2348,7 @@
   left: -123px;
   overflow: hidden;
   position: absolute;
-  top: calc(24.21% - 76px);
+  top: calc(20.72% - 65px);
   width: calc(100.00% + 203px);
 }
 
@@ -2517,16 +2529,16 @@
   font-style: normal;
   font-weight: 400;
   height: 19px;
-  left: calc(8.41% - 5px);
+  left: calc(8.67% - 5px);
   letter-spacing: 0.22px;
   line-height: 15px;
   pointer-events: auto;
   position: absolute;
   text-align: center;
-  top: 32px;
+  top: 36px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 54px;
+  width: 52px;
 }
 
 .mobile-create .contact-DdxU7x:hover {
@@ -2536,7 +2548,7 @@
 .mobile-create .rectangle-1786-DdxU7x {
   background-color: var(--white);
   border-radius: 6px;
-  bottom: 0px;
+  bottom: -3px;
   height: 232px;
   left: 0px;
   position: absolute;
@@ -2545,7 +2557,7 @@
 
 .mobile-create .group-2510-DdxU7x {
   background-color: transparent;
-  bottom: 23px;
+  bottom: 20px;
   height: 185px;
   left: calc(50.00% - 146px);
   position: absolute;
@@ -2630,14 +2642,14 @@
   width: 120px;
 }
 
-.mobile-create .soulmynt-nbXcWi.bp5-animate-enter30 {
-  animation: bp5-animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-create .soulmynt-nbXcWi.bp5-animate-enter22 {
+  animation: bp5-animate-enter22-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter30-frames {
+@keyframes bp5-animate-enter22-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2697,6 +2709,7 @@ transform: scale(1);
 
 .mobile-create .icon-linkedin-FmtcSL {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% - 1px);
   object-fit: cover;
   position: absolute;
@@ -3211,7 +3224,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 22px;
-  left: calc(4.95% - 3px);
+  left: calc(5.02% - 3px);
   letter-spacing: 0.27px;
   line-height: 18px;
   pointer-events: auto;
@@ -3220,7 +3233,7 @@ transform: scale(1);
   top: 54px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 60px;
+  width: 58px;
 }
 
 .web-1366-create-all-breakpoints .contact-Atq6FO:hover {
@@ -3551,9 +3564,15 @@ transform: scale(1);
   cursor: pointer;
   height: 15.64%;
   left: 91.32%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.93%;
+}
+
+.web-1366-create-all-breakpoints .group-2212-2oxeBC:hover {
+  transform: scale(1.1);
 }
 
 .web-1366-create-all-breakpoints .group-2001-xYxRXO {

@@ -248,20 +248,20 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-31px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 31px;
-  font-style: normal;
-  font-weight: 900;
-}
-
 .neuehaasgroteskdisplaypro-55roman-normal-sonic-silver-5px {
   color: var(--sonic-silver);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
   font-size: 5px;
   font-style: normal;
   font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-31px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-24px {
@@ -296,14 +296,6 @@
   font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-19px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 900;
-}
-
 .neuehaasgroteskdisplaypro-65-medium-white-70px {
   color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
@@ -316,6 +308,22 @@
   color: var(--white);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
   font-size: 54px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-95-black-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 20px;
   font-style: normal;
   font-weight: 400;
 }
@@ -344,12 +352,12 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-20px {
+.neuehaasgroteskdisplaypro-95-black-black-40px {
   color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 20px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 40px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-black-17px {
@@ -358,14 +366,6 @@
   font-size: 17px;
   font-style: normal;
   font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-95-black-black-40px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-65-medium-white-43px {
@@ -392,14 +392,6 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-55roman-normal-black-22px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 22px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .neuehaasgroteskdisplaypro-55roman-normal-black-31px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
@@ -408,20 +400,20 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-17px {
-  color: var(--fuchsia-pink);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 500;
-}
-
 .neuehaasgroteskdisplaypro-95-black-black-52px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
   font-size: 52px;
   font-style: normal;
   font-weight: 900;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-17px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-6px {
@@ -528,6 +520,14 @@
   font-weight: 400;
 }
 
+.neuehaasgroteskdisplaypro-55roman-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .neuehaasgroteskdisplaypro-55roman-normal-black-8px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
@@ -592,14 +592,6 @@
   font-weight: 400;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-47px {
-  color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 47px;
-  font-style: normal;
-  font-weight: 900;
-}
-
 .neuehaasgroteskdisplaypro-95-black-black-43px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
@@ -632,10 +624,10 @@
   font-weight: 900;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-12px {
+.neuehaasgroteskdisplaypro-95-black-black-47px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: var(--font-size-xxs);
+  font-size: 47px;
   font-style: normal;
   font-weight: 900;
 }
@@ -656,6 +648,14 @@
   font-weight: 900;
 }
 
+.neuehaasgroteskdisplaypro-95-black-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 900;
+}
+
 .neuehaasgroteskdisplaypro-95-black-black-62px {
   color: var(--black);
   font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
@@ -670,6 +670,22 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-55roman-normal-fuchsia-12px {
+  color: var(--fuchsia);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-34px {
@@ -688,28 +704,12 @@
   font-weight: 500;
 }
 
-.neuehaasgroteskdisplaypro-65-medium-white-45px {
-  color: var(--white);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 45px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.neuehaasgroteskdisplaypro-55roman-normal-black-27px {
+.neuehaasgroteskdisplaypro-95-black-black-26px {
   color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: 27px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
+  font-size: 26px;
   font-style: normal;
-  font-weight: 400;
-}
-
-.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-28px {
-  color: var(--fuchsia-pink);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
-  font-size: 28px;
-  font-style: normal;
-  font-weight: 500;
+  font-weight: 900;
 }
 
 .neuehaasgroteskdisplaypro-95-black-black-42px {
@@ -744,12 +744,20 @@
   font-weight: 500;
 }
 
-.neuehaasgroteskdisplaypro-95-black-black-26px {
+.neuehaasgroteskdisplaypro-55roman-normal-black-27px {
   color: var(--black);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-95black);
-  font-size: 26px;
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 27px;
   font-style: normal;
-  font-weight: 900;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaypro-65-medium-fuchsia-pink-28px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-65medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .neuehaasgroteskdisplaypro-55roman-normal-black-2px {

@@ -3,7 +3,6 @@
 .mobile-home-contact {
   background: linear-gradient(196.47deg, #e749ac -55.83%, #e49457 4.02%, #c742c9 94.16%);
   background-color: rgba(255,255,255,1.0);
-  cursor: pointer;
   height: 100vh;
   margin: 0px;
   min-height: 1083px;
@@ -20,15 +19,6 @@
 
 .overlay .mobile-home-contact {
   background-color: #00000000;
-}
-
-#overlay-mobile-home-contact .mobile-home-contact {
-  left: 0px;
-  top: 2px;
-}
-
-#overlay-mobile-home-contact .container-center-horizontal {
-  justify-content: normal;
 }
 
 .mobile-home-contact .hellosoulmyntcom-EnyL0E {

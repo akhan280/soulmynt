@@ -243,23 +243,3 @@
 .mobile-partners-menu .icon-awesome-medium-m-4LRiJq:hover {
   transform: scale(1.1);
 }
-
-.mobile-partners-menu .contact-sR0pZy {
-  background-color: transparent;
-  cursor: pointer;
-  height: 25px;
-  letter-spacing: 0.30px;
-  line-height: 20px;
-  pointer-events: auto;
-  position: absolute;
-  right: calc(49.67% - 36px);
-  text-align: center;
-  top: 631px;
-  transition: all 0.2s ease;
-  white-space: nowrap;
-  width: 72px;
-}
-
-.mobile-partners-menu .contact-sR0pZy:hover {
-  transform: scale(1.1);
-}

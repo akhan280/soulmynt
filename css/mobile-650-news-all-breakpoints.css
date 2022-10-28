@@ -739,6 +739,11 @@
 .desktop-news .read-more-Msifvx {
   background-color: transparent;
   bottom: -4px;
+  color: var(--fuchsia);
+  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
   height: 27px;
   left: 4px;
   letter-spacing: 0.00px;
@@ -1386,30 +1391,17 @@
 .ipad-news .group-2212-DhqCVi {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 14.88%;
   left: 91.07%;
-  opacity: 0;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
-  transform: scale(1.1);
+  transition: all 0.2s ease;
   width: 7.91%;
 }
 
-.ipad-news .group-2212-DhqCVi.bp3-animate-enter31 {
-  animation: bp3-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
+.ipad-news .group-2212-DhqCVi:hover {
   transform: scale(1.1);
-}
-
-@keyframes bp3-animate-enter31-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
 }
 
 .ipad-news .group-2001-Cndb8y {
@@ -1857,15 +1849,15 @@ transform: scale(1);
 
 .ipad-news .read-more-fZhDeK {
   background-color: transparent;
-  bottom: 7px;
-  height: 13px;
+  bottom: 6px;
+  height: 16px;
   left: 2px;
   letter-spacing: 0.00px;
-  line-height: 10px;
+  line-height: 12px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: 48px;
+  width: 57px;
 }
 
 .ipad-news .group-2326-fZhDeK {
@@ -2310,11 +2302,6 @@ transform: scale(1);
 .mobile-650-news-all-breakpoints .read-more-AaH6ul {
   background-color: transparent;
   bottom: -3px;
-  color: var(--fuchsia);
-  font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 400;
   height: 16px;
   left: 0px;
   letter-spacing: 0.00px;
@@ -2650,7 +2637,7 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 32px;
-  left: calc(5.22% - 5px);
+  left: calc(5.69% - 5px);
   letter-spacing: 0.39px;
   line-height: 26px;
   pointer-events: auto;
@@ -2659,7 +2646,7 @@ transform: scale(1);
   top: 44px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 94px;
+  width: 88px;
 }
 
 .mobile-650-news-all-breakpoints .contact-sw7JpG:hover {
@@ -2762,14 +2749,14 @@ transform: scale(1);
   width: 92px;
 }
 
-.mobile-650-news-all-breakpoints .soulmynt-6tqeVG.bp4-animate-enter29 {
-  animation: bp4-animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-650-news-all-breakpoints .soulmynt-6tqeVG.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp4-animate-enter29-frames {
+@keyframes bp4-animate-enter-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -2822,6 +2809,7 @@ transform: scale(1);
 
 .mobile-650-news-all-breakpoints .partners-6tqeVG {
   background-color: transparent;
+  cursor: pointer;
   height: 17px;
   letter-spacing: 0.19px;
   line-height: 13px;
@@ -2884,6 +2872,7 @@ transform: scale(1);
 
 .mobile-650-news-all-breakpoints .icon-linkedin-bMMdxg {
   background-color: transparent;
+  cursor: pointer;
   height: 27px;
   left: 196px;
   object-fit: cover;
@@ -2970,14 +2959,11 @@ transform: scale(1);
 
 .mobile-news {
   background-color: var(--gray-nurse);
-  height: 100vh;
-  margin: 0px;
-  min-height: 1137px;
-  min-width: 375px;
+  height: 1362px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 100%;
+  width: 375px;
 }
 
 .mobile-news .path-225-zIkxS8 {
@@ -2987,14 +2973,14 @@ transform: scale(1);
   object-fit: cover;
   position: absolute;
   top: 73px;
-  width: calc(100.00% + 400px);
+  width: 775px;
 }
 
 .mobile-news .group-2338-zIkxS8 {
   background-color: transparent;
   height: 60px;
+  left: 31px;
   position: absolute;
-  right: calc(49.18% - 154px);
   top: 122px;
   width: 314px;
 }
@@ -3036,8 +3022,8 @@ transform: scale(1);
   background-color: transparent;
   cursor: pointer;
   height: 21px;
+  left: 333px;
   position: absolute;
-  right: 15px;
   top: 30px;
   width: 27px;
 }
@@ -3075,7 +3061,7 @@ transform: scale(1);
 .mobile-news .group-2355-zIkxS8 {
   background-color: transparent;
   height: 86px;
-  left: calc(49.41% - 155px);
+  left: 30px;
   position: absolute;
   top: 763px;
   width: 314px;
@@ -3171,7 +3157,7 @@ transform: scale(1);
 .mobile-news .group-2512-zIkxS8 {
   background-color: transparent;
   height: 515px;
-  left: calc(49.41% - 155px);
+  left: 30px;
   position: absolute;
   top: 217px;
   width: 314px;
@@ -3277,8 +3263,8 @@ transform: scale(1);
 .mobile-news .contact-zIkxS8 {
   background-color: transparent;
   cursor: pointer;
-  height: 19px;
-  left: calc(8.41% - 5px);
+  height: auto;
+  left: 28px;
   letter-spacing: 0.22px;
   line-height: 15px;
   pointer-events: auto;
@@ -3287,7 +3273,7 @@ transform: scale(1);
   top: 32px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 54px;
+  width: auto;
 }
 
 .mobile-news .contact-zIkxS8:hover {
@@ -3297,20 +3283,20 @@ transform: scale(1);
 .mobile-news .rectangle-1786-zIkxS8 {
   background-color: var(--white);
   border-radius: 6px;
-  bottom: 0px;
   height: 232px;
   left: 0px;
   position: absolute;
-  width: 100%;
+  top: 1130px;
+  width: 375px;
 }
 
 .mobile-news .group-2510-zIkxS8 {
   background-color: transparent;
-  bottom: 21px;
   height: 185px;
-  left: calc(39.01% - 114px);
+  left: 33px;
   position: absolute;
-  width: 292px;
+  top: 1156px;
+  width: 294px;
 }
 
 .mobile-news .group-2008-SNpxPc {
@@ -3391,14 +3377,14 @@ transform: scale(1);
   width: 120px;
 }
 
-.mobile-news .soulmynt-SNpxPc.bp5-animate-enter31 {
-  animation: bp5-animate-enter31-frames 0.20s ease 0.00s 1 normal forwards;
+.mobile-news .soulmynt-SNpxPc.bp5-animate-enter {
+  animation: bp5-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: scale(1.1);
 }
 
-@keyframes bp5-animate-enter31-frames {
+@keyframes bp5-animate-enter-frames {
   from{opacity: 0;
 transform: scale(1.1);
 }
@@ -3458,6 +3444,7 @@ transform: scale(1);
 
 .mobile-news .icon-linkedin-uXqWOb {
   background-color: transparent;
+  cursor: pointer;
   height: calc(100.00% - 1px);
   object-fit: cover;
   position: absolute;
@@ -3849,9 +3836,15 @@ transform: scale(1);
   cursor: pointer;
   height: 15.64%;
   left: 91.32%;
+  pointer-events: auto;
   position: absolute;
   top: 0px;
+  transition: all 0.2s ease;
   width: 7.93%;
+}
+
+.web-1366-news .group-2212-CJldDq:hover {
+  transform: scale(1.1);
 }
 
 .web-1366-news .group-2001-onIJa7 {
@@ -4296,7 +4289,8 @@ transform: scale(1);
 .web-1366-news .read-more-TDVrey {
   background-color: transparent;
   bottom: -4px;
-  color: var(--black);
+  color: var(--fuchsia);
+  cursor: pointer;
   font-family: var(--font-family-neuehaas_grotesk_display_pro-55roman);
   font-size: 16px;
   font-style: normal;
@@ -4305,10 +4299,16 @@ transform: scale(1);
   left: 3px;
   letter-spacing: 0.00px;
   line-height: 16px;
+  pointer-events: auto;
   position: absolute;
   text-align: left;
+  transition: all 0.2s ease;
   white-space: nowrap;
   width: 76px;
+}
+
+.web-1366-news .read-more-TDVrey:hover {
+  transform: scale(1.1);
 }
 
 .web-1366-news .group-2326-TDVrey {
